@@ -1,0 +1,169 @@
+{
+    "features": [
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.15415325508816,
+            "Latitude": 38.7374132149423,
+            "INF_NOME": "Fundação Calouste Gulbenkian",
+            "INF_MORADA": "Avenida de Berna, 45-45A",
+            "INF_EMAIL": "info@gulbenkian.pt",
+            "INF_SITE": "http://www.gulbenkian.pt/langId1.html",
+            "INF_REDESOCIAL": "http://www.facebook.com/fundacaocaloustegulbenkian; http://www.youtube.com/fcgulbenkian; http://twitter.com/FCGulbenkian; ttp://www.flickr.com/photos/biblarte",
+            "FREGUESIA": "Nossa Senhora de Fátima"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.22199997758193,
+            "Latitude": 38.693489026962,
+            "INF_NOME": "Fundação Champalimaud",
+            "INF_MORADA": "Avenida de Brasília, Fundação Champalimaud",
+            "INF_EMAIL": "info@fundacaochampalimaud.pt",
+            "INF_SITE": "http://www.fchampalimaud.org/home/portuguese-summary/",
+            "INF_REDESOCIAL": "http://www.facebook.com/ChampalimaudFoundation",
+            "FREGUESIA": "Santa Maria de Belém"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.13087327705794,
+            "Latitude": 38.7122865511711,
+            "INF_NOME": "Fundação Ricardo do Espírito Santo Silva",
+            "INF_MORADA": "Rua de São Tomé, 88-108",
+            "INF_EMAIL": "geral@fress.pt",
+            "INF_SITE": "http://www.fress.pt/Default.aspx?PageId=1",
+            "INF_REDESOCIAL": null,
+            "FREGUESIA": "Santiago"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.16319788233919,
+            "Latitude": 38.7232824571059,
+            "INF_NOME": "Fundação Francisco Manuel dos Santos",
+            "INF_MORADA": "Rua Tierno Galvan, 10-10A",
+            "INF_EMAIL": "ffms@ffms.pt",
+            "INF_SITE": "http://www.ffms.pt/",
+            "INF_REDESOCIAL": null,
+            "FREGUESIA": "Santa Isabel"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.19428712983157,
+            "Latitude": 38.6958517467434,
+            "INF_NOME": "Fundação EDP",
+            "INF_MORADA": "Avenida de Brasília, Fundação EDP",
+            "INF_EMAIL": null,
+            "INF_SITE": "http://www.edp.pt/pt/sustentabilidade/fundacoes/Pages/FundacaoEDP.aspx",
+            "INF_REDESOCIAL": null,
+            "FREGUESIA": "Santa Maria de Belém"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.16299793981482,
+            "Latitude": 38.7079426757951,
+            "INF_NOME": "Fundação Luso-Americana para o Desenvolvimento",
+            "INF_MORADA": "Rua do Sacramento à Lapa, 21-25",
+            "INF_EMAIL": "fladport@flad.pt",
+            "INF_SITE": "http://www.flad.pt/",
+            "INF_REDESOCIAL": "https://www.facebook.com/FundacaoLusoAmericana",
+            "FREGUESIA": "Prazeres"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.09699803586589,
+            "Latitude": 38.7661142839674,
+            "INF_NOME": "Fundação Vodafone Portugal",
+            "INF_MORADA": "Alameda dos Oceanos, 1.04.01",
+            "INF_EMAIL": "fundacao.pt@vodafone.com",
+            "INF_SITE": "http://www.vodafone.pt/main/A+Vodafone/PT/Fundacao/",
+            "INF_REDESOCIAL": null,
+            "FREGUESIA": "Santa Maria dos Olivais"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.14120645134578,
+            "Latitude": 38.7588272596908,
+            "INF_NOME": "Fundação para a Computação Científica Nacional",
+            "INF_MORADA": "Avenida do Brasil, 101(Dep Edifícios)",
+            "INF_EMAIL": "secretaria@fccn.pt",
+            "INF_SITE": "http://www.fccn.pt/pt/",
+            "INF_REDESOCIAL": null,
+            "FREGUESIA": "São João de Brito"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.13833484191134,
+            "Latitude": 38.710498059321,
+            "INF_NOME": "Fundação Millennium BCP",
+            "INF_MORADA": "Rua Áurea, 130-140",
+            "INF_EMAIL": "fundacao@millenniumbcp.pt",
+            "INF_SITE": "http://ind.millenniumbcp.pt/pt/Institucional/fundacao/Pages/fundacao.aspx",
+            "INF_REDESOCIAL": null,
+            "FREGUESIA": "São Nicolau"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.31367762564942,
+            "Latitude": 38.6833661184148,
+            "INF_NOME": "Instituto Gulbenkian Ciência",
+            "INF_MORADA": "Rua Quinta Grande 6 2780-156",
+            "INF_EMAIL": "info@igc.gulbenkian.pt",
+            "INF_SITE": "http://www.igc.gulbenkian.pt/",
+            "INF_REDESOCIAL": null,
+            "FREGUESIA": null
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.1546607277652,
+            "Latitude": 38.7208362563807,
+            "INF_NOME": "Instituto de Investigação Científica Bento da Rocha Cabral",
+            "INF_MORADA": "Calçada Bento da Rocha Cabral, 14",
+            "INF_EMAIL": "geral@ircabral.org",
+            "INF_SITE": "http://www.ircabral.org/index.html",
+            "INF_REDESOCIAL": null,
+            "FREGUESIA": "São Mamede"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.15647917841167,
+            "Latitude": 38.7565819667243,
+            "INF_NOME": "Fundação da Faculdade de Ciências da Universidade de Lisboa (FFCUL)",
+            "INF_MORADA": "Campo Grande, Fac. Ciências - Ed. C1",
+            "INF_EMAIL": "ffcul@fc.ul.pt",
+            "INF_SITE": "http://www.fc.ul.pt/pt/unidade/funda%C3%A7%C3%A3o-da-faculdade-de-ci%C3%Aancias",
+            "INF_REDESOCIAL": null,
+            "FREGUESIA": "Campo Grande"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.15287762852007,
+            "Latitude": 38.7095707538888,
+            "INF_NOME": "Fundaçao para a Ciencia e Tecnologia",
+            "INF_MORADA": "Rua de São Bento, 7-7E",
+            "INF_EMAIL": null,
+            "INF_SITE": "http://alfa.fct.mctes.pt/",
+            "INF_REDESOCIAL": null,
+            "FREGUESIA": "Santa Catarina"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.15576882841424,
+            "Latitude": 38.7251516011462,
+            "INF_NOME": "Fundaçao Portuguesa de Cardiologia",
+            "INF_MORADA": "Rua Joaquim António de Aguiar, 64-64B",
+            "INF_EMAIL": "fpcardio@fpcardiologia.pt",
+            "INF_SITE": "http://www.fpcardiologia.pt/",
+            "INF_REDESOCIAL": "https://www.facebook.com/FPCardiologia; tp://www.fpcardiologia.blogspot.com",
+            "FREGUESIA": "São Sebastião da Pedreira"
+        },
+        {
+            "type": "Instituições_ID_e_Fundações",
+            "Longitude": -9.1553320962692,
+            "Latitude": 38.709838001531,
+            "INF_NOME": "Fundaçao Economicas",
+            "INF_MORADA": "Rua do Quelhas, 6",
+            "INF_EMAIL": null,
+            "INF_SITE": "https://aquila.iseg.utl.pt/aquila/investigacao/fe/inicio",
+            "INF_REDESOCIAL": null,
+            "FREGUESIA": "Lapa"
+        }
+    ]
+}

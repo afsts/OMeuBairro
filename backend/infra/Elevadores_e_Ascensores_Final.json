@@ -1,0 +1,136 @@
+{
+    "features": [
+        {
+            "type": "Elevadores_e_Ascensores",
+            "Longitude": -9.14640095461702,
+            "Latitude": 38.7093684067077,
+            "INF_NOME": "Ascensor da Bica",
+            "INF_MORADA": "Rua da Bica de Duarte Belo",
+            "INF_EMAIL": "atendimento@transporteslisboa.pt",
+            "INF_SITE": "http://carris.transporteslisboa.pt",
+            "INF_TELEFONE": "+351 213 500 115",
+            "INF_DESCRICAO": "O ascensor da Bica foi inaugurado a 28 de Junho de 1892 e faz a ligação entre a Rua de São Paulo e o Largo do Calhariz. Em 2002 foi classificado como Monumento Nacional.\n\nHorário de Funcionamento\n2ª feira a sábado: 7:00 - 21:00 horas\nDomingos e Feriados: 9:00 - 21:00 horas",
+            "FREGUESIA": "Misericórdia"
+        },
+        {
+            "type": "Elevadores_e_Ascensores",
+            "Longitude": -9.13013094689074,
+            "Latitude": 38.7115311931028,
+            "INF_NOME": "Elevador de Santa Luzia",
+            "INF_MORADA": "Rua Norberto de Araújo, 21",
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_TELEFONE": null,
+            "INF_DESCRICAO": "O elavador de Santa Luzia pretende vencer o desnível entre a Rua Norberto Araújo e o miradouro de Santa Luzia.",
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "Elevadores_e_Ascensores",
+            "Longitude": -9.13605969756879,
+            "Latitude": 38.7113783496256,
+            "INF_NOME": "Elevador do Castelo",
+            "INF_MORADA": "Rua dos Fanqueiros, 170-178; Rua da Madalena, 147-155",
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_TELEFONE": null,
+            "INF_DESCRICAO": "Faz a ligação entre a Rua dos Fanqueiros e a Rua da Madalena e está integrado num conjunto de dois (o Elevador do Chão do Loureiro), que permite vencer o desnível entre a Baixa Pombalina e a Costa do Castelo.",
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "Elevadores_e_Ascensores",
+            "Longitude": -9.13944721436481,
+            "Latitude": 38.712097963899,
+            "INF_NOME": "Elevador de Santa Justa",
+            "INF_MORADA": "Travessa D. Pedro de Menezes; Rua de Santa Justa",
+            "INF_EMAIL": "atendimento@transporteslisboa.pt",
+            "INF_SITE": "http://carris.transporteslisboa.pt",
+            "INF_TELEFONE": "+351 213 500 115",
+            "INF_DESCRICAO": "Obra do engenheiro Mesnier du Ponsard, foi inaugurado a 10 de Julho de 1902. Foi classificado como Monumento Nacional em 2002.\n\nHorário de Funcionamento\nHorário de Verão (1 Junho a 30 Setembro) : Diariamente das 7:00 - 23:00 horas\nHorário de Inverno (Outubro a Maio): Diariamente das 7:00 - 22:00 horas\n",
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "Elevadores_e_Ascensores",
+            "Longitude": -9.13509161257978,
+            "Latitude": 38.7122553355246,
+            "INF_NOME": "Elevador do Chão do Loureiro",
+            "INF_MORADA": "Largo do Chão do Loureiro; Calçada do Marquês de Tancos",
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_TELEFONE": null,
+            "INF_DESCRICAO": "Faz a ligação entre o Largo do Chão do Loureiro e a Costa do Castelo e integra um conjunto de dois elevadores (onde se inclui o Elevador do Castelo) que permitem vencer o desnível entre a Baixa Pombalina e a Costa do Castelo.",
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "Elevadores_e_Ascensores",
+            "Longitude": -9.14344062420354,
+            "Latitude": 38.7151131118191,
+            "INF_NOME": "Ascensor da Glória",
+            "INF_MORADA": "Calçada da Glória",
+            "INF_EMAIL": "atendimento@transporteslisboa.pt",
+            "INF_SITE": "http://carris.transporteslisboa.pt",
+            "INF_TELEFONE": "+351 213 500 115",
+            "INF_DESCRICAO": "Foi inaugurada a 24 de Outubro de 1885 com o intuito de ligar a Praça dos Restauradores à Rua de São Pedro de Alcântara e ao Bairro Alto. Foi classificado como Monumento Nacional em 2002.\n\nHorário de Funcionamento:\n2ª a 5ª feira: 7:15 ¿ 23:55 horas\n6ª feira: 7:15 ¿ 00:25 horas\nsábado: 8:45 ¿ 00:25 horas\ndomingo e feriado: 9:15 ¿ 23:55 horas",
+            "FREGUESIA": "Santo António"
+        },
+        {
+            "type": "Elevadores_e_Ascensores",
+            "Longitude": -9.14177687340668,
+            "Latitude": 38.7178363969781,
+            "INF_NOME": "Elevador do Lavra",
+            "INF_MORADA": "Calçada do Lavra",
+            "INF_EMAIL": "atendimento@transporteslisboa.pt",
+            "INF_SITE": "http://carris.transporteslisboa.pt",
+            "INF_TELEFONE": "+351 213 500 115",
+            "INF_DESCRICAO": "Foi inaugurado a 19 de Abril de 1884 e faz a ligação entre o Largo da Anunciada e a Rua Câmara Pestana. Em 2002 foi classificado como Monumento Nacional.\n\nHorário de Funcionamento\n2ª feira a 6ª feira: 7:50 - 19:55 horas\nSábados, Domingos e Feriados: 9:00 - 19:55 horas",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "Elevadores_e_Ascensores",
+            "Longitude": -9.1450849874158,
+            "Latitude": 38.7449193311465,
+            "INF_NOME": "Elevador de Entrecampos Sul",
+            "INF_MORADA": "Rua de Entrecampos",
+            "INF_EMAIL": "info@emel.pt",
+            "INF_SITE": "https://emel.pt",
+            "INF_TELEFONE": "351 211 163 060",
+            "INF_DESCRICAO": "Serve o viaduto pedonal que faz a ligação sobre a via férrea entre a Rua de Entrecampos e a Rua Infante Dom Pedro. \r\nAberto ao público em fevereiro de 2016.",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Elevadores_e_Ascensores",
+            "Longitude": -9.13308705162664,
+            "Latitude": 38.709540845411,
+            "INF_NOME": "Elevador da Sé",
+            "INF_MORADA": "Rua Afonso de Albuquerque; Rua Cruzes da Sé",
+            "INF_EMAIL": "info@emel.pt",
+            "INF_SITE": "https://emel.pt",
+            "INF_TELEFONE": "351 211 163 060",
+            "INF_DESCRICAO": "Faz a ligação entre a Rua Portas do Mar à Rua Cruzes da Sé, junto à Sé Catedral de Lisboa.\r\nAberto ao público em junho de 2021.\r\nHorário de Funcionamento:\r\nDas 8:00 às 21:00 horas",
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "Elevadores_e_Ascensores",
+            "Longitude": -9.13524119936914,
+            "Latitude": 38.7153760212947,
+            "INF_NOME": "Escadas Rolantes Mouraria",
+            "INF_MORADA": "Escadinhas da Saúde",
+            "INF_EMAIL": "info@emel.pt",
+            "INF_SITE": "https://emel.pt",
+            "INF_TELEFONE": "351 211 163 060",
+            "INF_DESCRICAO": "Faz a ligação entre a Praça do Martim Moniz e a Rua Marquês Ponte de Lima.\r\nAberto ao público em outubro de 2018.\r\nHorário de Funcionamento:\r\nDas 8:00 às 23:00 horas",
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "Elevadores_e_Ascensores",
+            "Longitude": -9.14510386049339,
+            "Latitude": 38.7451669589934,
+            "INF_NOME": "Elevador de Entrecampos Norte",
+            "INF_MORADA": "Rua Infante Dom Pedro",
+            "INF_EMAIL": "info@emel.pt",
+            "INF_SITE": "https://emel.pt",
+            "INF_TELEFONE": "351 211 163 060",
+            "INF_DESCRICAO": "Serve o viaduto pedonal que faz a ligação sobre a via férrea entre a Rua de Entrecampos e a Rua Infante Dom Pedro. \r\nAberto ao público em fevereiro de 2016.",
+            "FREGUESIA": "Alvalade"
+        }
+    ]
+}

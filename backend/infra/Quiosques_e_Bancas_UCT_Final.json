@@ -1,0 +1,3352 @@
+{
+    "features": [
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16194834878204,
+            "Latitude": 38.7142343925261,
+            "INF_MORADA": "Rua Domingos Sequeira, Junto 30",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20032080495935,
+            "Latitude": 38.7449623496453,
+            "INF_MORADA": "Rua da Venezuela, Junto 27",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13843842796136,
+            "Latitude": 38.7100648780812,
+            "INF_MORADA": "Rua de São Nicolau, Frente 98",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12979920209399,
+            "Latitude": 38.7622926042615,
+            "INF_MORADA": "Avenida Almirante Gago Coutinho, Junto Praça do Aeroporto",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19125131228981,
+            "Latitude": 38.7034613075541,
+            "INF_MORADA": "Travessa do Giestal, Frente nº59",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14159792920812,
+            "Latitude": 38.7162251008091,
+            "INF_MORADA": "Praça dos Restauradores, Junto 50",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16406466188369,
+            "Latitude": 38.7172050588678,
+            "INF_MORADA": "Rua Ferreira Borges, Junto 77",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20337052477319,
+            "Latitude": 38.6972538402513,
+            "INF_MORADA": "Travessa da Praça, Junto 12",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11647182989955,
+            "Latitude": 38.7656586339667,
+            "INF_MORADA": "Praça Cidade do Luso, Frente  lote 207",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16755129107583,
+            "Latitude": 38.7556732819358,
+            "INF_MORADA": "Rua Tomás da Fonseca, Frente Escola Básica D. Luís da Cunha",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14558775193969,
+            "Latitude": 38.756680306312,
+            "INF_MORADA": "Avenida do Brasil, Junto Avenida de Roma",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19736643422347,
+            "Latitude": 38.7634468889534,
+            "INF_MORADA": "Estrada Militar, Frente metro da Pontinha",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18716338598226,
+            "Latitude": 38.7469419078855,
+            "INF_MORADA": "Estrada de Benfica, Junto 451A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12030780749305,
+            "Latitude": 38.7639369352611,
+            "INF_MORADA": "Rua Cidade de Nampula(antiga Rua B2 de Olivais Sul), Junto lote 532 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19093180595874,
+            "Latitude": 38.7501530166384,
+            "INF_MORADA": "Rua Dr. João Couto, Junto Avenida do Colégio Militar",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18829873644341,
+            "Latitude": 38.7480819132752,
+            "INF_MORADA": "Rua Professor Reinaldo dos Santos, Junto Rua Manuel Ferreira de Andrade",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11267115374744,
+            "Latitude": 38.7478468717046,
+            "INF_MORADA": "Rua Salgueiro Maia(antiga Rua 3 da Zona O de Chelas), Junto Avenida João Paulo II",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.10986070051433,
+            "Latitude": 38.7715029271142,
+            "INF_MORADA": "Rua Sargento Armando Monteiro Ferreira(antiga Rua D11 da Zona de Olivais Norte Célula A), junto lote 137",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1487219361762,
+            "Latitude": 38.7480096069457,
+            "INF_MORADA": "Campo Grande, Junto 1B (Entrecampos)",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16707697436919,
+            "Latitude": 38.703728554216,
+            "INF_MORADA": "Avenida Vinte e Quatro de Julho, Junto 142 E",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14963355091344,
+            "Latitude": 38.7375067758713,
+            "INF_MORADA": "Avenida Marquês de Tomar, Passeio central frente 54",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13744058674664,
+            "Latitude": 38.7145550706493,
+            "INF_MORADA": "Rua Dom Duarte, Junto 2",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18080771888411,
+            "Latitude": 38.7024572870045,
+            "INF_MORADA": "Rua Luís de Camões, Junto 4",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.17358605463141,
+            "Latitude": 38.7062585226677,
+            "INF_MORADA": "Rua Prior do Crato, Junto Rua João de Oliveira Miguéis",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19573016176027,
+            "Latitude": 38.7036420434018,
+            "INF_MORADA": "Travessa da Boa-Hora à Ajuda, Junto Rua de Dom Vasco",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.17439738470848,
+            "Latitude": 38.7042577621526,
+            "INF_MORADA": "Rua do Cais de Alcântara, Junto Avenida Vinte e Quatro de Julho",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19265935010909,
+            "Latitude": 38.7493363103743,
+            "INF_MORADA": "Rua José Rodrigues Miguéis(antiga Rua C à Estrada de Benfica), Junto Estrada de Benfica",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14643367410572,
+            "Latitude": 38.7417707048732,
+            "INF_MORADA": "Avenida da República, Jardim Campo Pequeno",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18912161951108,
+            "Latitude": 38.7470621769072,
+            "INF_MORADA": "Estrada de Benfica, Junto 463 C",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20438298151641,
+            "Latitude": 38.7517671990507,
+            "INF_MORADA": "Estrada de Benfica, Frente 676 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19138637699715,
+            "Latitude": 38.6979815531138,
+            "INF_MORADA": "Rua da Junqueira, Junto Rua Pinto Ferreira",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12555717543058,
+            "Latitude": 38.7378836142622,
+            "INF_MORADA": "Rua Aquiles Machado, Junto lote 1",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.2014569111507,
+            "Latitude": 38.7507610326963,
+            "INF_MORADA": "Estrada de Benfica, Frente Rua Cláudio Nunes",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11266250253445,
+            "Latitude": 38.7258946158153,
+            "INF_MORADA": "Rua de Xabregas, Junto Largo do Marquês de Nisa",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16392740941548,
+            "Latitude": 38.7170388200308,
+            "INF_MORADA": "Rua Ferreira Borges, Junto 70 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12337041924324,
+            "Latitude": 38.7527765094925,
+            "INF_MORADA": "Rua Ferreira de Castro(antiga Rua E da Zona N1 de Chelas), Frente Lote 316",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20624282777183,
+            "Latitude": 38.7510661858554,
+            "INF_MORADA": "Rua João Frederico Ludovice, Frente 6 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19750635984264,
+            "Latitude": 38.7542923457144,
+            "INF_MORADA": "Estrada dos Arneiros, Junto Rua Elvira Velez",
+            "INF_ATIVIDADE": "Flores",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20143725225409,
+            "Latitude": 38.7505852333884,
+            "INF_MORADA": "Estrada de Benfica, Junto 711 B",
+            "INF_ATIVIDADE": "Lotaria",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19009847414858,
+            "Latitude": 38.7724908975476,
+            "INF_MORADA": "Rua do Rio Sado(antigas Ruas 12 e 13 do Bairro Padre Cruz), Junto  Estrada Militar",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14460396438221,
+            "Latitude": 38.7539496992343,
+            "INF_MORADA": "Avenida de Roma, Frente 103",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19627930154252,
+            "Latitude": 38.7538723704167,
+            "INF_MORADA": "Avenida do Uruguai, Junto 43",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1811149432936,
+            "Latitude": 38.7452342816713,
+            "INF_MORADA": "Estrada de Benfica, Frente 393 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16426025174001,
+            "Latitude": 38.7115137322829,
+            "INF_MORADA": "Avenida Infante Santo, Junto 347",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11299774966959,
+            "Latitude": 38.7464375053287,
+            "INF_MORADA": "Avenida João Paulo II, Frente lote 562",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14537623069882,
+            "Latitude": 38.7335643925123,
+            "INF_MORADA": "Praça do Duque de Saldanha, frente ao Monumental",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1387797970794,
+            "Latitude": 38.7133714557126,
+            "INF_MORADA": "Praça D. Pedro IV, Junto 114",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Rui Valadas",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14427667035485,
+            "Latitude": 38.7333226131697,
+            "INF_MORADA": "Avenida Casal Ribeiro, Passeio Central Praça do Duque de Saldanha",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14128013487329,
+            "Latitude": 38.7158655391328,
+            "INF_MORADA": "Praça dos Restauradores, Junto Travessa de Santo Antão",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11756169235385,
+            "Latitude": 38.7627352030713,
+            "INF_MORADA": "Rua Cidade de Bolama, Frente Lote 378",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14740867582926,
+            "Latitude": 38.7483294270748,
+            "INF_MORADA": "Avenida dos Estados Unidos da América, Junto Rua de Entrecampos",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13596991110248,
+            "Latitude": 38.7153207617943,
+            "INF_MORADA": "Rua do Arco do Marquês de Alegrete, Frente 6 F",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1846731675531,
+            "Latitude": 38.7045738694542,
+            "INF_MORADA": "Rua Jau, Jardim",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.10934343561955,
+            "Latitude": 38.7285185922078,
+            "INF_MORADA": "Calçada de Dom Gastão, Junto 31 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14655593909327,
+            "Latitude": 38.7394900124292,
+            "INF_MORADA": "Avenida da República, Frente 57 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14799091116139,
+            "Latitude": 38.7390096931215,
+            "INF_MORADA": "Avenida Elias Garcia, Passeio central frente 95",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.09235217574118,
+            "Latitude": 38.7671652241343,
+            "INF_MORADA": "Rossio dos Olivais, Esplanada-Bar",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14435626978304,
+            "Latitude": 38.73848886897,
+            "INF_MORADA": "Avenida dos Defensores de Chaves, Junto Avenida Visconde de Valmor",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11806981993388,
+            "Latitude": 38.7776254927162,
+            "INF_MORADA": "Circular Norte do Bairro da Encarnação, Junto Rua 1º Cabo José Martins Silvestre",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11996723236919,
+            "Latitude": 38.7773826753039,
+            "INF_MORADA": "Circular Norte do Bairro da Encarnação, Junto Rua da Quinta de Santa Maria",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.17825992982767,
+            "Latitude": 38.7611434465077,
+            "INF_MORADA": "Azinhaga da Torre do Fato, Junto Rua Aristides de Sousa Mendes",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14350217199954,
+            "Latitude": 38.757377945357,
+            "INF_MORADA": "Avenida do Brasil, Junto 120 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19759034208794,
+            "Latitude": 38.7514301782449,
+            "INF_MORADA": "Avenida do Uruguai, Junto Rua Dr. Pereira Bernardes",
+            "INF_ATIVIDADE": "Flores",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.17243554047826,
+            "Latitude": 38.7418131611908,
+            "INF_MORADA": "Rua Raul Carapinha, Frente 9",
+            "INF_ATIVIDADE": "Flores",
+            "INF_MODELO": "Anos 80",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1397048010307,
+            "Latitude": 38.7135430091694,
+            "INF_MORADA": "Praça D. Pedro IV, Junto 36",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Rui Valadas",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19656208708168,
+            "Latitude": 38.7529357335551,
+            "INF_MORADA": "Avenida do Uruguai, Junto 30 A",
+            "INF_ATIVIDADE": "Flores",
+            "INF_MODELO": "Larus",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11253987244888,
+            "Latitude": 38.7341104986777,
+            "INF_MORADA": "Rua Marquês de Olhão(antiga Rua 11 do Bairro Madre de Deus), Junto Rua José da Bateira",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13805056782638,
+            "Latitude": 38.71323677328,
+            "INF_MORADA": "Praça da Figueira, Frente 18",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Rui Valadas",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1140824464875,
+            "Latitude": 38.7523040293798,
+            "INF_MORADA": "Avenida Dr. Augusto de Castro(antiga Avenida Central da Malha I de Chelas), Junto Rua Engº Ferreira Dias",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13631908085654,
+            "Latitude": 38.7169281306124,
+            "INF_MORADA": "Rua da Palma, Topo Norte Praça Martim Moniz",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.141464320655,
+            "Latitude": 38.7160692133812,
+            "INF_MORADA": "Praça dos Restauradores, Junto 57",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13584592046091,
+            "Latitude": 38.7488691945742,
+            "INF_MORADA": "Avenida dos Estados Unidos da América, Frente 39",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11347189775048,
+            "Latitude": 38.7524013690109,
+            "INF_MORADA": "Avenida Dr. Augusto de Castro(antiga Avenida Central da Malha I de Chelas), Junto Rua Manuel Teixeira Gomes",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19786773326419,
+            "Latitude": 38.7460042077854,
+            "INF_MORADA": "Avenida Gomes Pereira, Frente 61 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18648701024343,
+            "Latitude": 38.7058210026769,
+            "INF_MORADA": "Calçada da Tapada, Junto 152",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14513877749767,
+            "Latitude": 38.7436753231578,
+            "INF_MORADA": "Campo Pequeno",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11400225069532,
+            "Latitude": 38.7564792958051,
+            "INF_MORADA": "Rua Conselheiro Emídio Navarro, Junto Avenida Dr. Augusto de Castro",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11321965284372,
+            "Latitude": 38.7555120440672,
+            "INF_MORADA": "Avenida Dr. Augusto de Castro(antiga Avenida Central da Malha I de Chelas), Junto Rua Dr. José Espírito Santo",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14747883179129,
+            "Latitude": 38.7358911067503,
+            "INF_MORADA": "Avenida Cinco de Outubro, Passeio Central, Frente 63",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14972003434061,
+            "Latitude": 38.7387652955292,
+            "INF_MORADA": "Avenida Elias Garcia, Passeio central frente 133 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18363543969206,
+            "Latitude": 38.7604643742075,
+            "INF_MORADA": "Largo da Luz, Parque Teixeira Rebelo- Junto Estrada da Luz",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12595739380718,
+            "Latitude": 38.7547449545328,
+            "INF_MORADA": "Rua João Palma Ferreira(antiga Rua A da Zona N1 de Chelas), Junto Rua Ferreira de Castro",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13474850862372,
+            "Latitude": 38.729209597822,
+            "INF_MORADA": "Avenida Almirante Reis, Frente 101",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13897586870757,
+            "Latitude": 38.755062349099,
+            "INF_MORADA": "Largo Frei Heitor Pinto, Frente 1A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16387880650544,
+            "Latitude": 38.7113807868327,
+            "INF_MORADA": "Rua de Sant'Ana (Santana) à Lapa, Junto Avenida Infante Santo",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14317353914671,
+            "Latitude": 38.7534728473797,
+            "INF_MORADA": "Avenida da Igreja, Frente 32",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.17367469394852,
+            "Latitude": 38.7067544616252,
+            "INF_MORADA": "Avenida de Ceuta, Junto Praça General Domingos de Oliveira",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14910281190783,
+            "Latitude": 38.7438134466708,
+            "INF_MORADA": "Avenida Cinco de Outubro, Junto Rua Dr. Eduardo Neves",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12608255425904,
+            "Latitude": 38.7588379307138,
+            "INF_MORADA": "Rua Luís Cristino da Silva(antiga Via Comercial da Zona N2 de Chelas), Frente 212",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14324872463862,
+            "Latitude": 38.7408236348104,
+            "INF_MORADA": "Avenida Barbosa du Bocage, Passeio Central frente 3",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14251035380854,
+            "Latitude": 38.7160531327416,
+            "INF_MORADA": "Avenida da Liberdade, Frente 45",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14115998569593,
+            "Latitude": 38.7541254712369,
+            "INF_MORADA": "Avenida da Igreja, Junto 16",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1611864734204,
+            "Latitude": 38.7724181307103,
+            "INF_MORADA": "Alameda das Linhas de Torres, Junto 251 A / 253",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14123547844078,
+            "Latitude": 38.7225735594158,
+            "INF_MORADA": "Alameda de Santo António dos Capuchos, Junto 6 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11871616119798,
+            "Latitude": 38.7253797090932,
+            "INF_MORADA": "Avenida Afonso III, Frente 59",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1354015291194,
+            "Latitude": 38.7226525867361,
+            "INF_MORADA": "Avenida Almirante Reis, Junto 29",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13440135446919,
+            "Latitude": 38.7326298944002,
+            "INF_MORADA": "Avenida Almirante Reis, Junto 141",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13406150289267,
+            "Latitude": 38.7362051166595,
+            "INF_MORADA": "Avenida Almirante Reis, Frente 205",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13434167929282,
+            "Latitude": 38.731450056302,
+            "INF_MORADA": "Avenida Almirante Reis, Junto 110 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13421361003195,
+            "Latitude": 38.7327190353994,
+            "INF_MORADA": "Avenida Almirante Reis, Junto 136",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13491387483153,
+            "Latitude": 38.7256750097216,
+            "INF_MORADA": "Avenida Almirante Reis, Junto 52",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13452643012323,
+            "Latitude": 38.7314584247678,
+            "INF_MORADA": "Avenida Almirante Reis, Junto 121",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14681492307568,
+            "Latitude": 38.7330574958293,
+            "INF_MORADA": "Avenida Cinco de Outubro, Passeio Central  junto Rua Pinheiro Chagas",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14565588835088,
+            "Latitude": 38.735807329547,
+            "INF_MORADA": "Avenida da República, Frente 21",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14124138286451,
+            "Latitude": 38.7482467288312,
+            "INF_MORADA": "Avenida de Roma, Frente 56",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14273544953624,
+            "Latitude": 38.7510292087135,
+            "INF_MORADA": "Avenida de Roma, Junto 74 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14150238153696,
+            "Latitude": 38.7481828277731,
+            "INF_MORADA": "Avenida de Roma, Junto 59 E",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14056077405048,
+            "Latitude": 38.7470007229274,
+            "INF_MORADA": "Avenida de Roma, Frente 42 C",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13863776627365,
+            "Latitude": 38.7428739918543,
+            "INF_MORADA": "Avenida de Roma, Frente 9 C",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13832713391474,
+            "Latitude": 38.74274389248,
+            "INF_MORADA": "Avenida de Roma, Frente 8",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15271491908838,
+            "Latitude": 38.7078908354185,
+            "INF_MORADA": "Avenida Dom Carlos I, Frente 42  B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Removida"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15374506676796,
+            "Latitude": 38.7113022700466,
+            "INF_MORADA": "Avenida Dom Carlos I, Junto Rua das Francesinhas",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13737161582953,
+            "Latitude": 38.7493291775036,
+            "INF_MORADA": "Avenida dos Estados Unidos da América, Frente 44 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14877901091356,
+            "Latitude": 38.7252704637378,
+            "INF_MORADA": "Avenida Duque de Loulé, Junto 125",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14577348196785,
+            "Latitude": 38.7325055228754,
+            "INF_MORADA": "Avenida Fontes Pereira de Melo, Junto Rua Pinheiro Chagas",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13260488922935,
+            "Latitude": 38.7461259101921,
+            "INF_MORADA": "Avenida Frei Miguel Contreiras, Junto 8 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.197586286188,
+            "Latitude": 38.7502067769675,
+            "INF_MORADA": "Avenida Gomes Pereira, Junto 6",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14707281372208,
+            "Latitude": 38.7416342847219,
+            "INF_MORADA": "Avenida da República, Junto 77 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14290720131434,
+            "Latitude": 38.7176256006423,
+            "INF_MORADA": "Avenida da Liberdade, Passeio Central,  frente 36 A",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13765445548698,
+            "Latitude": 38.7148364890305,
+            "INF_MORADA": "Rua da Palma, Junto Rua de Barros Queirós",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1771681565112,
+            "Latitude": 38.755979959952,
+            "INF_MORADA": "Rua dos Soeiros, Junto Estrada da Luz",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16281672594553,
+            "Latitude": 38.7383134928829,
+            "INF_MORADA": "Avenida Columbano Bordalo Pinheiro, Junto 75",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20437110940344,
+            "Latitude": 38.756207204664,
+            "INF_MORADA": "Rua João Ortigão Ramos, Junto Calçada do Tojal",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14911583049356,
+            "Latitude": 38.7417653875233,
+            "INF_MORADA": "Avenida Cinco de Outubro, Junto Rua Laura Alves",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.17287473770089,
+            "Latitude": 38.7060925306612,
+            "INF_MORADA": "Rua Prior do Crato, Junto Travessa do Livramento",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Removida"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14867894208404,
+            "Latitude": 38.7407694361102,
+            "INF_MORADA": "Avenida Cinco de Outubro, Passeio Central  frente 168",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14805837248089,
+            "Latitude": 38.7381051356906,
+            "INF_MORADA": "Avenida Cinco de Outubro, Passeio Central frente 95",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1433164522415,
+            "Latitude": 38.7532418270577,
+            "INF_MORADA": "Avenida da Igreja, Frente 31 A",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14508935899212,
+            "Latitude": 38.7359904774554,
+            "INF_MORADA": "Avenida da República, Frente 18",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13432267693763,
+            "Latitude": 38.7376500680263,
+            "INF_MORADA": "Avenida Guerra Junqueiro, Junto 2 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12306118343471,
+            "Latitude": 38.7132843511627,
+            "INF_MORADA": "Avenida Infante Dom Henrique, Junto CP  Estação Santa Apolónia",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Removida"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15500368977958,
+            "Latitude": 38.7346474382772,
+            "INF_MORADA": "Avenida Ressano Garcia, Frente 1 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13003029292554,
+            "Latitude": 38.7173820679648,
+            "INF_MORADA": "Largo da Graça, Passeio Central, Frente 98",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14234427258698,
+            "Latitude": 38.7103729966156,
+            "INF_MORADA": "Largo do Chiado, Junto Rua António Maria Cardoso",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15200679708837,
+            "Latitude": 38.7086807237569,
+            "INF_MORADA": "Largo do Conde Barão, Junto 40",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15465124807431,
+            "Latitude": 38.7199544933149,
+            "INF_MORADA": "Largo do Rato, Junto 8",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15436484755168,
+            "Latitude": 38.7203599319896,
+            "INF_MORADA": "Largo do Rato, Frente 4",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16488795925989,
+            "Latitude": 38.7262885338252,
+            "INF_MORADA": "Calçada da Quintinha, Junto Calçada dos Mestres",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14760810269564,
+            "Latitude": 38.7238409157772,
+            "INF_MORADA": "Rua Alexandre Herculano, Junto Rua Rodrigues Sampaio",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13526435899286,
+            "Latitude": 38.7337203216328,
+            "INF_MORADA": "Rua Alves Torgo, Frente 53A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14599104885026,
+            "Latitude": 38.7225510613966,
+            "INF_MORADA": "Rua Barata Salgueiro, Junto 3",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15794096727094,
+            "Latitude": 38.7351538480187,
+            "INF_MORADA": "Avenida Ressano Garcia, Junto 47",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14491796465785,
+            "Latitude": 38.7062333787301,
+            "INF_MORADA": "Avenida Vinte e Quatro de Julho, Junto CP Cais do Sodré, Poente",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16129922018924,
+            "Latitude": 38.7738178776436,
+            "INF_MORADA": "Estrada da Torre, Junto nº 2",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14450113547471,
+            "Latitude": 38.7062204105903,
+            "INF_MORADA": "Avenida Vinte e Quatro de Julho, Junto CP Cais do Sodré, Nascente",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1537904596905,
+            "Latitude": 38.7583690419259,
+            "INF_MORADA": "Campo Grande, Junto 380 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20255461849452,
+            "Latitude": 38.7511246507383,
+            "INF_MORADA": "Estrada de Benfica, Junto 662 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18770277157694,
+            "Latitude": 38.698443708583,
+            "INF_MORADA": "Rua da Junqueira, junto 63A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14620536504936,
+            "Latitude": 38.7243686879996,
+            "INF_MORADA": "Rua Alexandre Herculano, Frente 1",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14857309569782,
+            "Latitude": 38.7211597681242,
+            "INF_MORADA": "Rua Barata Salgueiro, Junto 37",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15116573947915,
+            "Latitude": 38.7232870396391,
+            "INF_MORADA": "Rua Braamcamp, Junto 7",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15077801805795,
+            "Latitude": 38.7248320668435,
+            "INF_MORADA": "Praça do Marquês de Pombal, Frente 8 C",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12797787540615,
+            "Latitude": 38.731150533328,
+            "INF_MORADA": "Praça Paiva Couceiro, Junto 4",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14196536888591,
+            "Latitude": 38.715486190975,
+            "INF_MORADA": "Praça dos Restauradores, Junto 22",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14972584548261,
+            "Latitude": 38.7225007555745,
+            "INF_MORADA": "Rua Alexandre Herculano, Junto 29",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15130475526343,
+            "Latitude": 38.7234808592098,
+            "INF_MORADA": "Rua Braamcamp, Junto 12",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14843293461909,
+            "Latitude": 38.725887390278,
+            "INF_MORADA": "Rua Camilo Castelo Branco, Junto 43",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13110433133757,
+            "Latitude": 38.73309451431,
+            "INF_MORADA": "Rua Carvalho Araújo, Junto Largo Mendonça e Costa",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15801130244757,
+            "Latitude": 38.7066344209563,
+            "INF_MORADA": "Calçada Ribeiro Santos, Passeio Central Frente 37",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15565496880083,
+            "Latitude": 38.7067068666066,
+            "INF_MORADA": "Calçada Ribeiro Santos, Junto Largo de Santos",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13961389863975,
+            "Latitude": 38.7213136646103,
+            "INF_MORADA": "Campo dos Mártires da Pátria",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13966981069219,
+            "Latitude": 38.7205050810227,
+            "INF_MORADA": "Campo dos Mártires da Pátria",
+            "INF_ATIVIDADE": "Flores",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13970172186676,
+            "Latitude": 38.7205573609398,
+            "INF_MORADA": "Campo dos Mártires da Pátria",
+            "INF_ATIVIDADE": "Flores",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1479454627067,
+            "Latitude": 38.748171402126,
+            "INF_MORADA": "Campo Grande, Frente 2 (Entrecampos)",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15123333033142,
+            "Latitude": 38.755247791983,
+            "INF_MORADA": "Campo Grande, Junto 258",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16173719989901,
+            "Latitude": 38.7669124329031,
+            "INF_MORADA": "Avenida Rainha Dona Amélia, Junto Praça Rainha Santa",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14468430041761,
+            "Latitude": 38.7062252009258,
+            "INF_MORADA": "Avenida Vinte e Quatro de Julho, Junto CP Cais do Sodré, entre bancas",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.10234344095116,
+            "Latitude": 38.7424697876856,
+            "INF_MORADA": "Praça David Leandro da Silva, Frente 23",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13764280694218,
+            "Latitude": 38.7415488726362,
+            "INF_MORADA": "Praça de Londres, Frente 3 E",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.136634742129,
+            "Latitude": 38.7399917732917,
+            "INF_MORADA": "Praça de Londres, Junto 12 C",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14914931025849,
+            "Latitude": 38.7252036369239,
+            "INF_MORADA": "Praça do Marquês de Pombal, Junto Metro,  Avenida Duque de Loulé",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18368258740088,
+            "Latitude": 38.6999007605455,
+            "INF_MORADA": "Rua da Junqueira, Junto Travessa da Guarda",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13615552691246,
+            "Latitude": 38.7373341006168,
+            "INF_MORADA": "Alameda Dom Afonso Henriques, Passeio oposto frente 82",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19849945558858,
+            "Latitude": 38.7524722282607,
+            "INF_MORADA": "Rua da República da Bolívia, Junto Rua Dr. Rafael Duque",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12780603870853,
+            "Latitude": 38.7314618546399,
+            "INF_MORADA": "Praça Paiva Couceiro, junto 6",
+            "INF_ATIVIDADE": "Flores",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15306670745596,
+            "Latitude": 38.7078595507829,
+            "INF_MORADA": "Largo Vitorino Damásio, Frente 1 E",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.10473856005472,
+            "Latitude": 38.7735588659236,
+            "INF_MORADA": "Praça José Queirós, Junto Avenida Infante Dom Henrique",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20650765224223,
+            "Latitude": 38.7084289095563,
+            "INF_MORADA": "Rua Tristão Vaz, Parque Recreativo Moínhos de Santana",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1447918310803,
+            "Latitude": 38.7268793956534,
+            "INF_MORADA": "Rua do Conde de Redondo, Junto Rua Bernardo Lima",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15044052496643,
+            "Latitude": 38.7308742612448,
+            "INF_MORADA": "Rua Filipe Folque, Junto 2",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13677185120961,
+            "Latitude": 38.7313292619163,
+            "INF_MORADA": "Rua de Pascoal de Melo, Junto 17",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14854881582013,
+            "Latitude": 38.7252994267045,
+            "INF_MORADA": "Rua Rodrigues Sampaio, Junto Avenida Duque de Loulé",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14692612154549,
+            "Latitude": 38.7309301654197,
+            "INF_MORADA": "Rua Tomás Ribeiro, frente 47",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13599931147977,
+            "Latitude": 38.7172492740513,
+            "INF_MORADA": "Rua da Palma, Junto Rua de São Lázaro",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16988342894925,
+            "Latitude": 38.7603795423418,
+            "INF_MORADA": "Rua Hermano Neves(antiga Rua 24 de Telheiras Sul), Junto Rua Professor Francisco Gentil",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13754477579429,
+            "Latitude": 38.7307563438267,
+            "INF_MORADA": "Rua José Estêvão, No jardim Constantino, passeio oposto frente 129",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13117395639052,
+            "Latitude": 38.7329586271382,
+            "INF_MORADA": "Rua Morais Soares, Junto 86",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12917257594107,
+            "Latitude": 38.7211930429478,
+            "INF_MORADA": "Rua Natália Correia, Junto Rua dos Sapadores",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1665393958814,
+            "Latitude": 38.7615113828978,
+            "INF_MORADA": "Rua Prof. Fernando da Fonseca, Junto Rua Prof. Vieira de Almeida",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16091288758499,
+            "Latitude": 38.7244275695085,
+            "INF_MORADA": "Rua Prof. Sousa da Câmara, Junto Avenida Engenheiro Duarte Pacheco",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15398814843697,
+            "Latitude": 38.7237911419786,
+            "INF_MORADA": "Rua Rodrigo da Fonseca, Placa Central frente 74",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13743102110207,
+            "Latitude": 38.7313864764078,
+            "INF_MORADA": "Rua de Pascoal de Melo, Jardim Constantino",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15719570147147,
+            "Latitude": 38.7271374751081,
+            "INF_MORADA": "Rua Sampaio e Pina, Passeio Central frente 42",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14631839514408,
+            "Latitude": 38.7305924294953,
+            "INF_MORADA": "Rua Tomás Ribeiro, Junto 43",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16068850944773,
+            "Latitude": 38.7499549065937,
+            "INF_MORADA": "Avenida Professor Egas Moniz, Frente entrada do Hospital de Santa Maria",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12828082428599,
+            "Latitude": 38.7268024853486,
+            "INF_MORADA": "Avenida General Roçadas, Junto entrada Escola Nuno Gonçalves",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15477732604829,
+            "Latitude": 38.7595555299583,
+            "INF_MORADA": "Campo Grande",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14781777246905,
+            "Latitude": 38.744360834182,
+            "INF_MORADA": "Rua Dr. Eduardo Neves, Junto Avenida da República",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15710875337973,
+            "Latitude": 38.764952812671,
+            "INF_MORADA": "Alameda das Linhas de Torres, Junto 100",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16180082946136,
+            "Latitude": 38.7759368907426,
+            "INF_MORADA": "Rua Prof. João Cândido de Oliveira(antiga Rua B da Urb. da Quinta da Amoreira), Junto 32 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15279776480219,
+            "Latitude": 38.7333283762364,
+            "INF_MORADA": "Rua Carlos Testa, Junto 3 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.22602604619995,
+            "Latitude": 38.6991349001968,
+            "INF_MORADA": "Avenida Dom Vasco da Gama, Junto 52 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16868360640491,
+            "Latitude": 38.7422670785486,
+            "INF_MORADA": "Praça Marechal Humberto Delgado(antiga Praça General Humberto Delgado), Junto Metro",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15043307517437,
+            "Latitude": 38.7482509467743,
+            "INF_MORADA": "Avenida Cinco de Outubro, Junto Avenida das Forças Armadas",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13229063759192,
+            "Latitude": 38.7481190935459,
+            "INF_MORADA": "Largo Rodrigues Cordeiro, Junto Rua Guilhermina Suggia",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1515607631477,
+            "Latitude": 38.7176021808571,
+            "INF_MORADA": "Rua da Imprensa Nacional, Junto 116 F",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Vitrine",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15402354977648,
+            "Latitude": 38.7666446724444,
+            "INF_MORADA": "Avenida Maria Helena Vieira da Silva, Junto Rua Manuel Marques",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12906472826114,
+            "Latitude": 38.737461414785,
+            "INF_MORADA": "Alameda Dom Afonso Henriques, Junto 2",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16696745842381,
+            "Latitude": 38.7398359403085,
+            "INF_MORADA": "Avenida Columbano Bordalo Pinheiro, Junto Estação CP",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16018473504925,
+            "Latitude": 38.7378663798109,
+            "INF_MORADA": "Avenida Columbano Bordalo Pinheiro, Junto 5",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Removida"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16007234741312,
+            "Latitude": 38.770476346596,
+            "INF_MORADA": "Alameda das Linhas de Torres, Junto 213",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15906916393784,
+            "Latitude": 38.7510735838394,
+            "INF_MORADA": "Avenida Professor Gama Pinto, Junto Cantina Velha",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13853096004518,
+            "Latitude": 38.7123181835614,
+            "INF_MORADA": "Rua de Santa Justa, Junto 75",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1620526611551,
+            "Latitude": 38.7275505328416,
+            "INF_MORADA": "Rua Marquês de Fronteira, Junto 163",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.09706756530146,
+            "Latitude": 38.7478140347297,
+            "INF_MORADA": "Rua da Cintura do Porto de Lisboa, Junto Rua Três (Matinha)",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16296857647299,
+            "Latitude": 38.7371118830603,
+            "INF_MORADA": "Avenida José Malhoa, Junto 10 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15345153355942,
+            "Latitude": 38.7644417715759,
+            "INF_MORADA": "Rua Agostinho Neto(antigo Arruamento B do Plano Urb Quinta do Lambert), Junto Rua Manuel Marques",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13793769121176,
+            "Latitude": 38.7117088942241,
+            "INF_MORADA": "Rua da Assunção, frente 57",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13033273904517,
+            "Latitude": 38.7264495528707,
+            "INF_MORADA": "Rua da Penha de França, Junto Rua Heliodoro Salgado",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14067351853467,
+            "Latitude": 38.7582165054266,
+            "INF_MORADA": "Avenida do Brasil, Junto Avenida do Rio de Janeiro",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13745409317135,
+            "Latitude": 38.7514340450735,
+            "INF_MORADA": "Avenida do Rio de Janeiro, Frente Estádio 1º de Maio",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16011225333146,
+            "Latitude": 38.7133916733854,
+            "INF_MORADA": "Praça da Estrela, Jardim Cinco de Outubro junto Basílica",
+            "INF_ATIVIDADE": "T. Públicos",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1454722873324,
+            "Latitude": 38.7204017567303,
+            "INF_MORADA": "Avenida da Liberdade, Passeio Central,  frente Rua Manuel de Jesus Coelho",
+            "INF_ATIVIDADE": "Lotaria",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13975184424863,
+            "Latitude": 38.7450243684949,
+            "INF_MORADA": "Avenida de Roma, Frente 29 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14790065304972,
+            "Latitude": 38.7349372045697,
+            "INF_MORADA": "Avenida Duque d'Ávila, Junto Rua Filipe Folque",
+            "INF_ATIVIDADE": "Flores",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1272281142748,
+            "Latitude": 38.7109422624349,
+            "INF_MORADA": "Avenida Infante Dom Henrique, Junto Cais da Lingueta",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1472933151595,
+            "Latitude": 38.7423044090681,
+            "INF_MORADA": "Avenida Júlio Dinis, Junto Avenida da República",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16141198153498,
+            "Latitude": 38.7232661360726,
+            "INF_MORADA": "Rua Carlos Alberto da Mota Pinto, Junto Centro Comercial das Amoreiras",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19067770465133,
+            "Latitude": 38.7456339547004,
+            "INF_MORADA": "Estrada do Calhariz de Benfica, Junto Rua José da Purificação Chaves",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13862826431361,
+            "Latitude": 38.7434691832475,
+            "INF_MORADA": "Avenida de Roma, Passeio central, frente 14 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": null,
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13807632876223,
+            "Latitude": 38.7418071358896,
+            "INF_MORADA": "Avenida de Roma, Junto 3 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14439595806442,
+            "Latitude": 38.7342291057011,
+            "INF_MORADA": "Praça do Duque de Saldanha, Junto 20",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20552195698425,
+            "Latitude": 38.6969975038384,
+            "INF_MORADA": "Praça do Império, Frente Mosteiro dos Jerónimos",
+            "INF_ATIVIDADE": "Turismo",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Removido"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16214724166005,
+            "Latitude": 38.710357837701,
+            "INF_MORADA": "Rua de Buenos Aires, junto Rua de Sant'Ana (santana) à",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14175942789312,
+            "Latitude": 38.7353803946395,
+            "INF_MORADA": "Rua de Dona Filipa de Vilhena, Junto Avenida Duque de Ávila",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1686403464855,
+            "Latitude": 38.7620102016944,
+            "INF_MORADA": "Rua Prof. Mário Chicó, Junto Rua Prof. Henrique Vilhena",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15985320882297,
+            "Latitude": 38.7282598144264,
+            "INF_MORADA": "Rua de Artilharia Um, Placa central frente 118 A",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13825312869335,
+            "Latitude": 38.7123958396922,
+            "INF_MORADA": "Rua de Santa Justa, Junto 69",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13520475233518,
+            "Latitude": 38.7228249017598,
+            "INF_MORADA": "Avenida Almirante Reis, Junto24",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.162180010393,
+            "Latitude": 38.7393439550672,
+            "INF_MORADA": "Rua Professor Lima Basto, Junto Portaria IPO",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13020300134583,
+            "Latitude": 38.7121959740395,
+            "INF_MORADA": "Largo das Portas do Sol, Junto Beco de Santa Helena",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13918325019826,
+            "Latitude": 38.7129917655738,
+            "INF_MORADA": "Praça D. Pedro IV, Junto 9",
+            "INF_ATIVIDADE": "Turismo",
+            "INF_MODELO": "Cox",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19004192638446,
+            "Latitude": 38.7484122124984,
+            "INF_MORADA": "Rua Paulo Renato(antiga Rua 1 à Estrada de Benfica), Placa central, frente 1 G",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15610099894389,
+            "Latitude": 38.7065721100244,
+            "INF_MORADA": "Avenida Vinte e Quatro de Julho, S/N",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15072378655528,
+            "Latitude": 38.7240001859126,
+            "INF_MORADA": "Rua Braamcamp, Junto Rua Duque de Palmela",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.133734242764,
+            "Latitude": 38.743374437445,
+            "INF_MORADA": "Avenida Padre Manuel da Nóbrega, Junto 6 D",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13390673499825,
+            "Latitude": 38.7433647221175,
+            "INF_MORADA": "Avenida Padre Manuel da Nóbrega, Junto 7 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19797782983268,
+            "Latitude": 38.7543218222135,
+            "INF_MORADA": "Estrada dos Arneiros, Frente Rua Elvira Velez",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.118510767804,
+            "Latitude": 38.7729511736011,
+            "INF_MORADA": "Alameda da Encarnação, Frente Igreja",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1509771346377,
+            "Latitude": 38.7547929990344,
+            "INF_MORADA": "Campo Grande, junto 256",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14344794052123,
+            "Latitude": 38.7055783802025,
+            "INF_MORADA": "Cais do Sodré, Jardim Roque Gameiro",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "República",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.17276755702156,
+            "Latitude": 38.7058345486266,
+            "INF_MORADA": "Rua Gilberto Rola",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14780513652798,
+            "Latitude": 38.7217475420957,
+            "INF_MORADA": "Rua Barata Salgueiro, Junto 26 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.12412110736965,
+            "Latitude": 38.7403416321092,
+            "INF_MORADA": "Avenida Engenheiro Arantes e Oliveira(antiga Rua B do Plano Urb. da Encosta das Olaias), Junto 13",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13768959031127,
+            "Latitude": 38.7125327866002,
+            "INF_MORADA": "Rua de Santa Justa, Frente 34",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11497478295557,
+            "Latitude": 38.7633061399172,
+            "INF_MORADA": "Rua Cidade de Bissau, Junto Rua Cidade de Moçâmedes",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13455500036516,
+            "Latitude": 38.7292974033508,
+            "INF_MORADA": "Avenida Almirante Reis, Junto 86 E",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20224395533506,
+            "Latitude": 38.7509160736333,
+            "INF_MORADA": "Estrada de Benfica, Junto 721",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.21865082849434,
+            "Latitude": 38.6980746716157,
+            "INF_MORADA": "Rua Duarte Pacheco Pereira, Junto Rua Tristão da Cunha",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14787784430366,
+            "Latitude": 38.7162120022981,
+            "INF_MORADA": "Praça do Príncipe Real",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14901894246132,
+            "Latitude": 38.7356915785544,
+            "INF_MORADA": "Avenida Conde de Valbom, Frente 32A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19935723144477,
+            "Latitude": 38.69673399634,
+            "INF_MORADA": "Praça Afonso de Albuquerque, Frente  lote 207",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14459209159783,
+            "Latitude": 38.7185291772717,
+            "INF_MORADA": "Avenida da Liberdade, Passeio Central, frente 117",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1425968721104,
+            "Latitude": 38.7162722501619,
+            "INF_MORADA": "Avenida da Liberdade, Placa Central frente 1",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13401535057675,
+            "Latitude": 38.7436146660827,
+            "INF_MORADA": "Avenida Padre Manuel da Nóbrega, Frente 9 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13322559113337,
+            "Latitude": 38.7376276024177,
+            "INF_MORADA": "Alameda Dom Afonso Henriques, Junto 64 B",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13569901102317,
+            "Latitude": 38.7424441606603,
+            "INF_MORADA": "Avenida João XXI, Frente 10",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15320842462884,
+            "Latitude": 38.724788848654,
+            "INF_MORADA": "Rua Castilho, Junto 90",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14516105712757,
+            "Latitude": 38.7292773595998,
+            "INF_MORADA": "Rua Andrade Corvo, Junto 10",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14848249182395,
+            "Latitude": 38.7401513111939,
+            "INF_MORADA": "Avenida Cinco de Outubro, Passeio Central frente 147",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11998433057703,
+            "Latitude": 38.7789529515832,
+            "INF_MORADA": "Rua Vice Almirante Augusto de Castro Guedes(antiga Rua A e Impasse A5 da Quinta do Morgado), Junto 5",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.09577749343601,
+            "Latitude": 38.7688867166306,
+            "INF_MORADA": "Alameda dos Oceanos, Quiosque",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "Alvenaria",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13202555030087,
+            "Latitude": 38.7546233679338,
+            "INF_MORADA": "Avenida Dom Rodrigo da Cunha, Junto 8",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14969403891491,
+            "Latitude": 38.7365807699771,
+            "INF_MORADA": "Avenida Miguel Bombarda, Frente 68- jardim",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13003247103291,
+            "Latitude": 38.7181253696067,
+            "INF_MORADA": "Largo da Graça, Junto Rua Damasceno Monteiro",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1406673033607,
+            "Latitude": 38.7315123971598,
+            "INF_MORADA": "Largo de Dona Estefânia, Frente 22",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1456951568365,
+            "Latitude": 38.7108625350265,
+            "INF_MORADA": "Largo do Calhariz, Junto Rua da Rosa",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14264786078818,
+            "Latitude": 38.7106293579604,
+            "INF_MORADA": "Largo do Chiado, Frente 16",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15095156376472,
+            "Latitude": 38.7089108000554,
+            "INF_MORADA": "Largo do Conde Barão, Junto Rua das Gaivotas",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14804154536476,
+            "Latitude": 38.7163761335352,
+            "INF_MORADA": "Praça do Príncipe Real, Frente 32 (Jardim França Borges)",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13292271786861,
+            "Latitude": 38.742657583858,
+            "INF_MORADA": "Praça Francisco Sá Carneiro, Junto 9",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14431464380468,
+            "Latitude": 38.7317130361682,
+            "INF_MORADA": "Rua Actor Taborda, Passeio Central junto Rua Engenheiro Vieira da Silva",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15198251045823,
+            "Latitude": 38.7214734670994,
+            "INF_MORADA": "Rua Alexandre Herculano, Junto Rua Braamcamp",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14909540558083,
+            "Latitude": 38.7230070944595,
+            "INF_MORADA": "Rua Alexandre Herculano, Junto 14 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15710995287227,
+            "Latitude": 38.7607915915621,
+            "INF_MORADA": "Rua Cipriano Dourado, Junto 12",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15856370656,
+            "Latitude": 38.7373940702233,
+            "INF_MORADA": "Praça Espanha, Terminal Rodoviário",
+            "INF_ATIVIDADE": "T. Públicos",
+            "INF_MODELO": "Contentor",
+            "INF_SITUACAO": "Removido"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14319221454078,
+            "Latitude": 38.7130915671095,
+            "INF_MORADA": "Largo Trindade Coelho, Frente 2",
+            "INF_ATIVIDADE": "Lotaria",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14065517379115,
+            "Latitude": 38.7117770772376,
+            "INF_MORADA": "Largo do Carmo, Placa Central",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": null,
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15846339244356,
+            "Latitude": 38.7376705991776,
+            "INF_MORADA": "Praça Espanha, Junto Metro",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Removido"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.11140110483819,
+            "Latitude": 38.7519542049273,
+            "INF_MORADA": "Rua Luiz Pacheco, Junto lote 66",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14217757283157,
+            "Latitude": 38.7275373755803,
+            "INF_MORADA": "Rua Gomes Freire, Frente 183",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13950207193079,
+            "Latitude": 38.7221557369851,
+            "INF_MORADA": "Campo dos Mártires da Pátria",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16387655374345,
+            "Latitude": 38.7158717736335,
+            "INF_MORADA": "Rua Ferreira Borges, Junto 12 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14323988959925,
+            "Latitude": 38.7132109006747,
+            "INF_MORADA": "Largo Trindade Coelho, Frente 20",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16135095719651,
+            "Latitude": 38.7733652279354,
+            "INF_MORADA": "Alameda das Linhas de Torres, Quiosque Carris",
+            "INF_ATIVIDADE": "T. Públicos",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14565666792491,
+            "Latitude": 38.7336459682981,
+            "INF_MORADA": "Avenida Praia da Vitória, junto ao Monumental",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19049082668258,
+            "Latitude": 38.7530361172403,
+            "INF_MORADA": "Largo da Revista Militar, Quiosque Vimeca",
+            "INF_ATIVIDADE": "T. Públicos",
+            "INF_MODELO": "Alvenaria",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20465644581791,
+            "Latitude": 38.6971033786182,
+            "INF_MORADA": "Praça do Império",
+            "INF_ATIVIDADE": "Turismo",
+            "INF_MODELO": null,
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13791561541504,
+            "Latitude": 38.7124801370717,
+            "INF_MORADA": "Rua de Santa Justa, Junto Rua dos Correeiros",
+            "INF_ATIVIDADE": "Turismo",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14480388087411,
+            "Latitude": 38.7066758708957,
+            "INF_MORADA": "Avenida Vinte e Quatro de Julho, Junto 2L",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "Larus Alfacinha",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15144298865984,
+            "Latitude": 38.7259809530585,
+            "INF_MORADA": "Alameda Edgar Cardoso, Junto Praça do Marquês de Pombal",
+            "INF_ATIVIDADE": "Turismo",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14679915930179,
+            "Latitude": 38.7432057621828,
+            "INF_MORADA": "Campo Pequeno, Quiosque",
+            "INF_ATIVIDADE": "T. Públicos",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.17088847117397,
+            "Latitude": 38.7605702576752,
+            "INF_MORADA": "Rua Fernando Namora(antiga Rua A da Quinta de St. António a Telheiras), Junto Rua Prof. João Barreira",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.21447060288233,
+            "Latitude": 38.6924577291691,
+            "INF_MORADA": "Jardim Torre de Belém, Jardim da Torre de Belém",
+            "INF_ATIVIDADE": "Turismo",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.17644898677786,
+            "Latitude": 38.7043466568675,
+            "INF_MORADA": "Rua da Cozinha Económica, Junto Largo das Fontaínhas",
+            "INF_ATIVIDADE": "Turismo",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14651284176285,
+            "Latitude": 38.7425607350801,
+            "INF_MORADA": "Campo Pequeno, Campo Pequeno",
+            "INF_ATIVIDADE": "Turismo",
+            "INF_MODELO": "Cox",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14299556396419,
+            "Latitude": 38.7167747338178,
+            "INF_MORADA": "Avenida da Liberdade, Placa Central, frente 13",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14244118941888,
+            "Latitude": 38.7170363269299,
+            "INF_MORADA": "Avenida da Liberdade, Placa Central, frente 18",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13152242303062,
+            "Latitude": 38.7163422444683,
+            "INF_MORADA": "Miradouro Sophia Mello Breyner Andresen, Junto Jardim Augusto Gil",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1315077750855,
+            "Latitude": 38.7162755598354,
+            "INF_MORADA": "Miradouro Sophia Mello Breyner Andresen, Junto Jardim Augusto Gil",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1441533361626,
+            "Latitude": 38.7180733093587,
+            "INF_MORADA": "Avenida da Liberdade, Placa central, frente 77",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14842143421643,
+            "Latitude": 38.722962169667,
+            "INF_MORADA": "Avenida da Liberdade, Placa central, frente 231",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "Avenida",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14784467008928,
+            "Latitude": 38.7232705471082,
+            "INF_MORADA": "Avenida da Liberdade, Placa Central, frente 238",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13948131848188,
+            "Latitude": 38.7081528888301,
+            "INF_MORADA": "Praça do Município, Placa Central",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "República",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20436522688356,
+            "Latitude": 38.6978676185641,
+            "INF_MORADA": "Largo dos Jerónimos, Placa Central",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14355359912271,
+            "Latitude": 38.7183517519978,
+            "INF_MORADA": "Avenida da Liberdade, Placa Central, frente 88",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14216389429202,
+            "Latitude": 38.7353752437904,
+            "INF_MORADA": "Avenida Duque d'Ávila, Junto Rua Filipa de Vilhena",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "Olisipo",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15133380574823,
+            "Latitude": 38.7150656619216,
+            "INF_MORADA": "Praça das Flores, Jardim",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1460981306688,
+            "Latitude": 38.731091866823,
+            "INF_MORADA": "Avenida Fontes Pereira de Melo, frente Edifício PT",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14399628056975,
+            "Latitude": 38.7338651745562,
+            "INF_MORADA": "Avenida Praia da Vitória, Frente 67",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16763713537132,
+            "Latitude": 38.7541443037982,
+            "INF_MORADA": "Azinhaga dos Barros, Junto Rua Engenheiro Caldeira Rodrigues",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14890444048131,
+            "Latitude": 38.7352129298484,
+            "INF_MORADA": "Avenida Duque d'Ávila, Junto Avenida Marquês de Tomar",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "Olisipo",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14365471695466,
+            "Latitude": 38.7104982767833,
+            "INF_MORADA": "Praça de Luís de Camões, Placa Central",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14917464772834,
+            "Latitude": 38.7168732999066,
+            "INF_MORADA": "Praça do Príncipe Real, Jardim",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19014404652066,
+            "Latitude": 38.7486603098127,
+            "INF_MORADA": "Rua Joaquim Paço d'Arcos(antiga Rua B à Estrada de Benfica), Junto entrada principal do CC Fonte Nova",
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": "Olisipo",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.146880429001,
+            "Latitude": 38.7073470947647,
+            "INF_MORADA": "Praça de Dom Luís I, Jardim",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18944967911955,
+            "Latitude": 38.7524673120016,
+            "INF_MORADA": "Largo da Revista Militar- Lado Oriental",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "Edifício",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.19417187718367,
+            "Latitude": 38.7035918599839,
+            "INF_MORADA": "Largo da Boa-Hora à Ajuda",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20300372451638,
+            "Latitude": 38.7504060414101,
+            "INF_MORADA": "Avenida Grão Vasco, Passeio Central frente 32",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14244965257974,
+            "Latitude": 38.7094713101883,
+            "INF_MORADA": "Rua António Maria Cardoso, junto 58",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16168361704024,
+            "Latitude": 38.7746040714632,
+            "INF_MORADA": "Rua Prof. Manuel Valadares, frente Rua Alexandre Ferreira",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16208962844256,
+            "Latitude": 38.7272150458807,
+            "INF_MORADA": "Avenida Conselheiro Fernando de Sousa, sobre o parque de estacionamento",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15882768509784,
+            "Latitude": 38.7370957023994,
+            "INF_MORADA": "Praça Espanha, Terminal Rodoviário",
+            "INF_ATIVIDADE": "T. Públicos",
+            "INF_MODELO": "Contentor",
+            "INF_SITUACAO": "Removido"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13507705466694,
+            "Latitude": 38.7068648626734,
+            "INF_MORADA": "Avenida Infante Dom Henrique, Acesso Estação Fluvial",
+            "INF_ATIVIDADE": "Turismo",
+            "INF_MODELO": "Larus \"Botas\"",
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16159647223997,
+            "Latitude": 38.7737140909648,
+            "INF_MORADA": "Alameda das Linhas de Torres, junto ao nº 266",
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.09167649633187,
+            "Latitude": 38.7773111499383,
+            "INF_MORADA": "Passeio dos Heróis do Mar",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": null,
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13092166912581,
+            "Latitude": 38.741748676444,
+            "INF_MORADA": "Avenida Afonso Costa, Junto Rua Abade Faria",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13116581484492,
+            "Latitude": 38.7418469458616,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20477059946951,
+            "Latitude": 38.6970828339984,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.20477059946951,
+            "Latitude": 38.6970828339984,
+            "INF_MORADA": "Praça do Império, Jardim, frente Mosteiro dos Jerónimos, lado oriental",
+            "INF_ATIVIDADE": "Turismo",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18074068416274,
+            "Latitude": 38.7481781432569,
+            "INF_MORADA": "Rua Maestro Frederico de Freitas, Junto 1 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18074068416274,
+            "Latitude": 38.7481781432569,
+            "INF_MORADA": "Rua Maestro Frederico de Freitas, Junto 1 A",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Encerrada"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16205922743547,
+            "Latitude": 38.7266401591605,
+            "INF_MORADA": "Null",
+            "INF_ATIVIDADE": "Alimentar",
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13710109039463,
+            "Latitude": 38.7349280995068,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.16314700545921,
+            "Latitude": 38.7378815774534,
+            "INF_MORADA": "Rua Eduardo Malta(antiga Rua Coronel João Maria Ferreira do Amaral), Parque Urbano da Praça da Espanha",
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14299556511382,
+            "Latitude": 38.7167747338079,
+            "INF_MORADA": "Avenida da Liberdade, Placa Central, frente 13",
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": "(Nenhum)",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1893312880005,
+            "Latitude": 38.7477510696227,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1893312880005,
+            "Latitude": 38.7477510696227,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1893312880005,
+            "Latitude": 38.7477510696227,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18829873644341,
+            "Latitude": 38.7480819132752,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1893312880005,
+            "Latitude": 38.7477510696227,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1893312880005,
+            "Latitude": 38.7477510696227,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1893312880005,
+            "Latitude": 38.7477510696227,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18944967911955,
+            "Latitude": 38.7524673120016,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18944967911955,
+            "Latitude": 38.7524673120016,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1893312880005,
+            "Latitude": 38.7477510696227,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1893312880005,
+            "Latitude": 38.7477510696227,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15565496880083,
+            "Latitude": 38.7067068666066,
+            "INF_MORADA": "Calçada Ribeiro Santos, Junto Largo de Santos",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15123333033142,
+            "Latitude": 38.755247791983,
+            "INF_MORADA": "Campo Grande, Junto  258",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1537904608408,
+            "Latitude": 38.7583690419158,
+            "INF_MORADA": "Campo Grande, Junto 380 A",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.1487219361762,
+            "Latitude": 38.7480096069457,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15097713578794,
+            "Latitude": 38.7547929990244,
+            "INF_MORADA": "Campo Grande, Frente 256",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13825312870596,
+            "Latitude": 38.7123958405928,
+            "INF_MORADA": "Rua de Santa Justa, Junto 69",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.15055077161786,
+            "Latitude": 38.7090032603117,
+            "INF_MORADA": "Rua da Boavista, Junto 182",
+            "INF_ATIVIDADE": "Outro",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18736948763903,
+            "Latitude": 38.6985489157024,
+            "INF_MORADA": "Rua da Junqueira, Após Rua Mécia Mouzinho de Albuquerque, sentido Largo do Calvário",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.18443406057353,
+            "Latitude": 38.6996847332692,
+            "INF_MORADA": "Rua da Junqueira,  Frente 86",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14513877864774,
+            "Latitude": 38.7436753231478,
+            "INF_MORADA": null,
+            "INF_ATIVIDADE": null,
+            "INF_MODELO": null,
+            "INF_SITUACAO": null
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14513877864774,
+            "Latitude": 38.7436753231478,
+            "INF_MORADA": "Campo Pequeno, Junto 19",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Para atribuição"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13596991110248,
+            "Latitude": 38.7153207617943,
+            "INF_MORADA": "Rua do Arco do Marquês de Alegrete, Junto 6 F",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.14217757284423,
+            "Latitude": 38.727537376481,
+            "INF_MORADA": "Rua Gomes Freire, Junto 183",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13754477694415,
+            "Latitude": 38.7307563438168,
+            "INF_MORADA": "Rua José Estêvão, Jardim Constantino, frente 129",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Grimshaw",
+            "INF_SITUACAO": "Funcionamento"
+        },
+        {
+            "type": "Quiosques_e_Bancas_UCT",
+            "Longitude": -9.13745409317135,
+            "Latitude": 38.7514340450735,
+            "INF_MORADA": "Avenida do Rio de Janeiro, Junto Estádio 1º de Maio",
+            "INF_ATIVIDADE": "Jornais e Revistas",
+            "INF_MODELO": "Atlântico",
+            "INF_SITUACAO": "Encerrada"
+        }
+    ]
+}

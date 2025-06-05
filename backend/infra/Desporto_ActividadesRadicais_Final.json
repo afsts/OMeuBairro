@@ -1,0 +1,160 @@
+{
+    "features": [
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.21952887049895,
+            "Latitude": 38.6951962723107,
+            "INF_NOME": "Parque de Skate do Largo Luís Alves Miguel",
+            "INF_MORADA": "Largo Luís Alves Miguel ",
+            "INF_TELEFONE": null,
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_DESCRICAO": "Espaço constituído por rampas de skate.\n",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.15882205189205,
+            "Latitude": 38.7340673089163,
+            "INF_NOME": "Skate Park Corredor Verde",
+            "INF_MORADA": "Rua Fialho de Almeida",
+            "INF_TELEFONE": null,
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_DESCRICAO": "Espaço constituído por várias rampas e obstáculos, ideais para a prática de skate, BMX e patins.",
+            "FREGUESIA": "Avenidas Novas"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.20712668389393,
+            "Latitude": 38.7337323888652,
+            "INF_NOME": "Pista BMX do Bairro da Boavista",
+            "INF_MORADA": "Bairro da Boavista",
+            "INF_TELEFONE": null,
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_DESCRICAO": "Esta pista, com 275 metros, tem curvas em asfalto e um sistema de drenagem que permite a sua utilização praticamente durante todo o ano, reunindo as características técnicas para receber eventos nacionais.",
+            "FREGUESIA": "Benfica"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.12858708586235,
+            "Latitude": 38.7432279712224,
+            "INF_NOME": "Rocódromo Indoor do Complexo Desportivo Municipal Casal Vistoso (1 a 31 agosto 2019 ¿ Encerrado para",
+            "INF_MORADA": "Rua João da Silva",
+            "INF_TELEFONE": "+351 218 170 107",
+            "INF_EMAIL": "cdesp.cvistoso@cm-lisboa.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": "Instalação desportiva preparada especificamente para praticar escalada\n\n1 a 31 Agosto 2019  ¿  Encerrado para atividades \n\nHorário\n2ª a 6ª feira: 18h30 às 22h00 | Sábado e domingo: 10h00 às 14h00\nO horário da utilização poderá sofrer alterações, sem aviso prévio, consoante as reservas de espaço e condicionamento do Complexo\n \nEncerramento\nFeriados: 19 abril  | 21 abril | 25 abril | 1 maio | 10 junho | 13 junho | 20 junho | 15 agosto | 5 outubro | 1 novembro | 1 dezembro | 8 dezembro | 25 dezembro\n \nTransportes\nAutocarro: 10, 22, 705, 708, 717, 720, 727, 735, 756, 793\nMetro: Linha verde - Areeiro  \n               Linha vermelha - Olaias\nComboio: Linha da Azambuja - Roma/Areeiro\n",
+            "FREGUESIA": "Areeiro"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.20461774063583,
+            "Latitude": 38.7483287328975,
+            "INF_NOME": "Parque Radical BX - Benfica Extreme Adventure",
+            "INF_MORADA": "Parque Silva Porto | Mata de Benfica\nAlameda Álvaro Proença | Rua Dr. José Alberto de Faria",
+            "INF_TELEFONE": "+351 910 090 152 | +351 965 547 325",
+            "INF_EMAIL": "antoniocanhoto@jf-benfica.pt",
+            "INF_SITE": "http://www.jf-benfica.pt/servicos/bx-adventure-park/",
+            "INF_DESCRICAO": "Neste espaço poderá praticar as seguintes atividades:\n . Circuitos de Arborismo\n . Parede de Escalada\n . Provas de Orientação\n ",
+            "FREGUESIA": "Benfica"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.1202932617235,
+            "Latitude": 38.7539165028601,
+            "INF_NOME": "Parque de Skate do Vale de Chelas",
+            "INF_MORADA": "Av. de Santo Condestável",
+            "INF_TELEFONE": null,
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_DESCRICAO": "Com cerca de 2000 m2, este espaço reúne as condições necessárias para a realização de competições nacionais e internacionais de skate, BMX (bicicleta) e Inline (patins em linha).",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.13116072433004,
+            "Latitude": 38.7600302732594,
+            "INF_NOME": "Parque Aventura da Quinta do Narigão",
+            "INF_MORADA": "Av. Almeirante Gago Coutinho | Parque José Gomes Ferreira",
+            "INF_TELEFONE": "+351 218 460 232 / 37",
+            "INF_EMAIL": null,
+            "INF_SITE": "www.lrc.pt",
+            "INF_DESCRICAO": "Espaço dedicado a tividades como o Arborismo, Slide, Orientação e Tiro ao Alvo.\nReserva prévia. Preços sob consulta. ",
+            "FREGUESIA": "Alvalade"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.12601674495653,
+            "Latitude": 38.7349349697077,
+            "INF_NOME": "Skate Spot Bairro Bairro do Horizonte",
+            "INF_MORADA": "Rua Engenheiro Santos Simões",
+            "INF_TELEFONE": "+351 218 160 720",
+            "INF_EMAIL": "geral@jf-penhafranca.pt",
+            "INF_SITE": "http://www.jf-penhafranca.pt",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Penha de França"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.17771939231733,
+            "Latitude": 38.7390859020534,
+            "INF_NOME": "LXCycling - Academia de Clismo de Lisboa",
+            "INF_MORADA": "Rua Francisco Miguel Duarte, Edifício B Letra B, Parque Urbano do Calhau",
+            "INF_TELEFONE": null,
+            "INF_EMAIL": "geral@lxcycling.pt\r\ngeral@lxcycling.pt\r\n",
+            "INF_SITE": "https://lxcycling.pt/wp/",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "São Domingos de Benfica"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.11807906321114,
+            "Latitude": 38.7668587440916,
+            "INF_NOME": "Parque Ativo do Vale do Silêncio",
+            "INF_MORADA": "Avenida Cidade de Lourenço Marques; Rua Cidade da Nova Lisboa",
+            "INF_TELEFONE": "+351 218 170 552",
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Olivais"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.11207540963436,
+            "Latitude": 38.7461813289209,
+            "INF_NOME": "Parque Calisténico de Marvila",
+            "INF_MORADA": "Rua Carlos Gentil",
+            "INF_TELEFONE": "+351 218 310 350",
+            "INF_EMAIL": "info@jf-marvila.pt",
+            "INF_SITE": "http://www.jf-marvila.pt",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.15537989148972,
+            "Latitude": 38.7749074211028,
+            "INF_NOME": "Street Art park Lumiar",
+            "INF_MORADA": "Estrada da Torre 140",
+            "INF_TELEFONE": "+351 217 541 351",
+            "INF_EMAIL": "info@jf-lumiar.pt",
+            "INF_SITE": "http://www.jf-lumiar.pt",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Lumiar"
+        },
+        {
+            "type": "Desporto_ActividadesRadicais",
+            "Longitude": -9.10178310888489,
+            "Latitude": 38.7401212515192,
+            "INF_NOME": "Vertigo Rocódromo",
+            "INF_MORADA": "Edifício Beira-Rio, Avenida Infante Dom Henrique, Fração S",
+            "INF_TELEFONE": "+351 211320 947",
+            "INF_EMAIL": "vertigoroco@gmail.com",
+            "INF_SITE": "http://www.vertigoclimbing.pt",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Marvila"
+        }
+    ]
+}

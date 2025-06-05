@@ -1,0 +1,244 @@
+{
+    "features": [
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.12921416300013,
+            "Latitude": 38.7374707095016,
+            "INF_NOME": "Parque Canino do Jardim Alameda Dom Afonso Henriques",
+            "INF_MORADA": "Alameda Dom Afonso Henriques",
+            "INF_SITUACAO": "Projecto em apreciação",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Areeiro"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.15353201914079,
+            "Latitude": 38.714068949697,
+            "INF_NOME": "Parque Canino do Jardim da Assembleia da República",
+            "INF_MORADA": "Praça de São Bento",
+            "INF_SITUACAO": "Projecto em apreciação",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.15989178000139,
+            "Latitude": 38.7140867885218,
+            "INF_NOME": "Parque Canino do Jardim da Estrela",
+            "INF_MORADA": "Praça da Estrela",
+            "INF_SITUACAO": "Projecto em apreciação",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.21012938858949,
+            "Latitude": 38.696232556094,
+            "INF_NOME": "Parque Canino de Belém",
+            "INF_MORADA": "Praça do Império",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "CML",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.13222057131556,
+            "Latitude": 38.7169927663097,
+            "INF_NOME": "Parque Canino da Graça",
+            "INF_MORADA": "Rua Damasceno Monteiro",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "CML",
+            "FREGUESIA": "São Vicente"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.15857702881272,
+            "Latitude": 38.7707382699744,
+            "INF_NOME": "Parque Canino da Quinta dos Liláses",
+            "INF_MORADA": "Alameda das Linhas de Torres",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "CML ",
+            "FREGUESIA": "Lumiar"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.15486591128466,
+            "Latitude": 38.7116119573506,
+            "INF_NOME": "Parque Canino do Jardim das Francesinhas",
+            "INF_MORADA": "Rua das Francesinhas",
+            "INF_SITUACAO": "Projecto em apreciação",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.119228893331,
+            "Latitude": 38.769529903677,
+            "INF_NOME": "Parque Canino do Parque Urbano dos Olivais",
+            "INF_MORADA": "Avenida de Berlim",
+            "INF_SITUACAO": "Processo concursal",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Olivais"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.19307518802844,
+            "Latitude": 38.7514197187665,
+            "INF_NOME": "Parque Canino do Parque Urbano da Quinta da Granja",
+            "INF_MORADA": "Rua Mestre Lima de Freitas",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "CML",
+            "FREGUESIA": "Benfica"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.11568507915637,
+            "Latitude": 38.7325066612733,
+            "INF_NOME": "Parque Canino do Bairro da Madre de Deus",
+            "INF_MORADA": "Largo da Madre de Deus",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "JF ",
+            "FREGUESIA": "Beato"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.09485453091848,
+            "Latitude": 38.7863545473708,
+            "INF_NOME": "Parque Canino do Parque das Nações 2",
+            "INF_MORADA": "Passeio do Tejo",
+            "INF_SITUACAO": "Processo concursal",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Parque das Nações"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.19071704218243,
+            "Latitude": 38.7208998554739,
+            "INF_NOME": "Parque Canino do Parque Florestal do Monsanto",
+            "INF_MORADA": "Estrada de Montes Claros",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "CML",
+            "FREGUESIA": "Alcântara"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.09109615574965,
+            "Latitude": 38.7813796642507,
+            "INF_NOME": "Parque Canino do Parque das Nações 1 - Parque Tejo",
+            "INF_MORADA": "Passeio dos Heróis do Mar",
+            "INF_SITUACAO": "Projecto em apreciação",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Parque das Nações"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.14904824488528,
+            "Latitude": 38.7774042695516,
+            "INF_NOME": "Parque Canino do Parque Oeste",
+            "INF_MORADA": "Avenida Nuno Krus Abecassis",
+            "INF_SITUACAO": "Processo concursal",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Santa Clara"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.13172908267446,
+            "Latitude": 38.7596154514941,
+            "INF_NOME": "Parque Canino da Mata de Alvalade",
+            "INF_MORADA": "Avenida Almirante Gago Coutinho",
+            "INF_SITUACAO": "Processo concursal",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Alvalade"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.15244519912522,
+            "Latitude": 38.7696177562399,
+            "INF_NOME": "Parque Canino da Quinta das Conchas",
+            "INF_MORADA": "Alameda das Linhas de Torres",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "CML ",
+            "FREGUESIA": "Lumiar"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.12427822417634,
+            "Latitude": 38.7483425224558,
+            "INF_NOME": "Parque Canino do Parque da Belavista",
+            "INF_MORADA": "Avenida Dr. Arlindo Vicente",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "CML",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.16208439937481,
+            "Latitude": 38.7793457495038,
+            "INF_NOME": "Parque Canino do Jardim da Quinta de Santa Clara",
+            "INF_MORADA": "Rua Jorge de Sena",
+            "INF_SITUACAO": "Processo concursal",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Santa Clara"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.20090938040037,
+            "Latitude": 38.7032820424601,
+            "INF_NOME": "Parque Canino da Ajuda 2",
+            "INF_MORADA": "Largo da Memória",
+            "INF_SITUACAO": "Processo concursal",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Ajuda"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.1428555496524,
+            "Latitude": 38.7362092465224,
+            "INF_NOME": "Parque Canino do Jardim do Arco do Cego",
+            "INF_MORADA": "Avenida João Crisóstomo",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "JF",
+            "FREGUESIA": "Avenidas Novas"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.1528846647951,
+            "Latitude": 38.7552689277197,
+            "INF_NOME": "Parque Canino do Jardim do Campo Grande",
+            "INF_MORADA": "Campo Grande",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "CML",
+            "FREGUESIA": "Alvalade"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.19798483930866,
+            "Latitude": 38.7031616852073,
+            "INF_NOME": "Parque Canino da Ajuda 1",
+            "INF_MORADA": "Rua General José Paulo Fernandes",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "JF ",
+            "FREGUESIA": "Ajuda"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.1910660290392,
+            "Latitude": 38.7458148703109,
+            "INF_NOME": "Parque Canino do Calhariz de Benfica",
+            "INF_MORADA": "Estrada do Calhariz de Benfica",
+            "INF_SITUACAO": "Em projecto",
+            "INF_GESTAO": " ",
+            "FREGUESIA": "Benfica"
+        },
+        {
+            "type": "Parques_Caninos",
+            "Longitude": -9.11880825188092,
+            "Latitude": 38.7655444188093,
+            "INF_NOME": "Parque Canino do Vale do Silêncio",
+            "INF_MORADA": "Avenida Cidade de Lourenço Marques",
+            "INF_SITUACAO": "Concluido",
+            "INF_GESTAO": "CML ",
+            "FREGUESIA": "Olivais"
+        }
+    ]
+}

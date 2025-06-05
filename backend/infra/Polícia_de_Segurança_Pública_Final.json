@@ -1,0 +1,796 @@
+{
+    "features": [
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12478009486732,
+            "Latitude": 38.7520207648967,
+            "INF_NOME": "38ª Esquadra",
+            "INF_MORADA": "Rua Ricardo Ornelas  Lote 378, R/C-A",
+            "INF_TELEFONE": "-"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.1359524020382,
+            "Latitude": 38.7179070746609,
+            "INF_NOME": "Comando - 1ª Divisão Policial",
+            "INF_MORADA": "Rua da Palma, 169",
+            "INF_TELEFONE": "213513600"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12607697920317,
+            "Latitude": 38.739350966262,
+            "INF_NOME": "12ª Esquadra - Olaias",
+            "INF_MORADA": "Largo Roque Laia 3A, R/C Loja A",
+            "INF_TELEFONE": "-"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12821125131294,
+            "Latitude": 38.7725063531281,
+            "INF_NOME": "Esquadra de Intervenção e Fiscalização Policial - DSA",
+            "INF_MORADA": "Aeroporto de Lisboa - Arruamento A, Edifício 11",
+            "INF_TELEFONE": "218444530"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12821125131294,
+            "Latitude": 38.7725063531281,
+            "INF_NOME": "Esquadra de Segurança Aeroportuária de Lisboa",
+            "INF_MORADA": "Aeroporto de Lisboa - Arruamento A, Edifício 11",
+            "INF_TELEFONE": "218444530"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12821125131294,
+            "Latitude": 38.7725063531281,
+            "INF_NOME": "Esquadra de Trânsito",
+            "INF_MORADA": "Aeroporto de Lisboa - Arruamento A, Edifício 11",
+            "INF_TELEFONE": "218444530"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12821125131294,
+            "Latitude": 38.7725063531281,
+            "INF_NOME": "Divisão de Segurança Aeroportuária",
+            "INF_MORADA": "Aeroporto de Lisboa - Arruamento A, Edifício 11",
+            "INF_TELEFONE": "218444530"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12821125131294,
+            "Latitude": 38.7725063531281,
+            "INF_NOME": "Esquadra de Comando da Divisão",
+            "INF_MORADA": "Aeroporto de Lisboa - Arruamento A, Edifício 11",
+            "INF_TELEFONE": "218444530"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12948514351083,
+            "Latitude": 38.7711527119924,
+            "INF_NOME": "Esquadra de Segurança Aeroporto - Terminal 1",
+            "INF_MORADA": "Alameda das Comunidades Portuguesas Terminal 1, R/C",
+            "INF_TELEFONE": "218496132"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12821125131294,
+            "Latitude": 38.7725063531281,
+            "INF_NOME": "Esquadra de Investigação Criminal",
+            "INF_MORADA": "Aeroporto de Lisboa - Arruamento A, Edifício 11",
+            "INF_TELEFONE": "218444530"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.1359524020382,
+            "Latitude": 38.7179070746609,
+            "INF_NOME": "1ª Esquadra de Investigação Criminal",
+            "INF_MORADA": "Rua da Palma, 169",
+            "INF_TELEFONE": "213513600"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.1359524020382,
+            "Latitude": 38.7179070746609,
+            "INF_NOME": "4ª Esquadra - Folgosa",
+            "INF_MORADA": "Rua da Palma, 169",
+            "INF_TELEFONE": "213513642"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.13603420668444,
+            "Latitude": 38.7093584961046,
+            "INF_NOME": "2ª Esqª - Baixa Pombalina",
+            "INF_MORADA": "Rua da Prata nº 38, 1100-419 Lisboa c/ Rua de S. Julião, nº69",
+            "INF_TELEFONE": "213427379"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.19190560264752,
+            "Latitude": 38.7335366746117,
+            "INF_NOME": "Tribunal de Monsanto - Esquadra Especial",
+            "INF_MORADA": "Estrada do Forte (Monsanto) Tribunal",
+            "INF_TELEFONE": "217654242"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.13761894595127,
+            "Latitude": 38.7181330158469,
+            "INF_NOME": "Posto de Polícia Hospital de São José",
+            "INF_MORADA": "Rua José António Serrano Bloco Central, R/C",
+            "INF_TELEFONE": "218841000"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14078193695006,
+            "Latitude": 38.7142342460292,
+            "INF_NOME": "Divisão Policial de Segurança a Transportes Públicos - CP",
+            "INF_MORADA": "Estação CP Rossio Ed. Posto do Comando",
+            "INF_TELEFONE": "213215738"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14078193695006,
+            "Latitude": 38.7142342460292,
+            "INF_NOME": "Esquadra de Investigação Criminal",
+            "INF_MORADA": "Estação CP Rossio, Edifício do Chefe da Estação",
+            "INF_TELEFONE": "213215743"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.2003034546101,
+            "Latitude": 38.699998778831,
+            "INF_NOME": "Corpo de Intervenção",
+            "INF_MORADA": "Calçada da Ajuda, 23",
+            "INF_TELEFONE": "213647155/219802020"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.20066840914977,
+            "Latitude": 38.6980867717279,
+            "INF_NOME": "Esquadra de Segurança à Presidência da República",
+            "INF_MORADA": "Palácio de Belém, s/n",
+            "INF_TELEFONE": "213637110"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.201677946647,
+            "Latitude": 38.6973769789598,
+            "INF_NOME": "26ª Esquadra - Belém",
+            "INF_MORADA": "Praça Afonso de Albuquerque PSP, R/C",
+            "INF_TELEFONE": "213619626"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14217296415889,
+            "Latitude": 38.7155597377788,
+            "INF_NOME": "Esquadra de Turismo - Posto de Atendimento",
+            "INF_MORADA": "Praça dos Restauradores - Palácio Foz",
+            "INF_TELEFONE": "213421623/213400090"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.16060656604223,
+            "Latitude": 38.7482901830652,
+            "INF_NOME": "Posto de Polícia Hospital de Santa Maria",
+            "INF_MORADA": "Avenida  Professor Egas Moniz  Hospital de Santa Maria",
+            "INF_TELEFONE": "217805000"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.16925483093685,
+            "Latitude": 38.7030951144224,
+            "INF_NOME": "1º Esquadra de Segurança a Instalações Diplomáticas",
+            "INF_MORADA": "Rua Cintura do Porto de Lisboa, Edifício P.S.P.",
+            "INF_TELEFONE": "213943680"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.16925483093685,
+            "Latitude": 38.7030951144224,
+            "INF_NOME": "2ª Esquadra de Segurança a Instalações Diplomáticas",
+            "INF_MORADA": "Rua Cintura do Porto de Lisboa, Edifício P.S.P.",
+            "INF_TELEFONE": "213943680"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14671224523371,
+            "Latitude": 38.7496386442482,
+            "INF_NOME": "18ª Esquadra - Campo Grande",
+            "INF_MORADA": "Rua Afonso Lopes Vieira 2A, R/C",
+            "INF_TELEFONE": "217900020"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.17158472795828,
+            "Latitude": 38.733989793591,
+            "INF_NOME": "37ª Esquadra - Serafina",
+            "INF_MORADA": "Rua Miguel Ângelo de Blasco 25, R/C",
+            "INF_TELEFONE": "213858346"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.09610239888067,
+            "Latitude": 38.7747310211002,
+            "INF_NOME": "Esquadra de Segurança ao Campus Justiça de Lisboa",
+            "INF_MORADA": "Avenida D. João II, Lote 1.08, Edifício F - Parque das Nações",
+            "INF_TELEFONE": "218640090"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14972718648023,
+            "Latitude": 38.7245418503928,
+            "INF_NOME": "1ª Esquadra de Segurança a Transportes Públicos",
+            "INF_MORADA": "Praça do Marquês de Pombal Estação de Metro (Marquês Pombal), -1",
+            "INF_TELEFONE": "213521040"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.09915575918952,
+            "Latitude": 38.7676081718446,
+            "INF_NOME": "4º Esquadra de Segurança a Transportes Públicos -  GIL - Gare do Oriente",
+            "INF_MORADA": "Avenida Dom João II, Estação do Oriente Lt. 01.07.15, Gare do Oriente",
+            "INF_TELEFONE": "218946046"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.15450457135456,
+            "Latitude": 38.723367145671,
+            "INF_NOME": "Departamento de Segurança Privada",
+            "INF_MORADA": "Rua de Artilharia 1, n.º 21, 4º Andar",
+            "INF_TELEFONE": "213703900"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.17816025605503,
+            "Latitude": 38.7044321794571,
+            "INF_NOME": "Instituto Superior de Ciências Policiais e Segurança Interna",
+            "INF_MORADA": "Rua  Primeiro de Maio a Alcântara  3 R/C",
+            "INF_TELEFONE": "213613900"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.17764037353668,
+            "Latitude": 38.7041788114024,
+            "INF_NOME": "4ª Divisão Policial",
+            "INF_MORADA": "Largo do Calvário 6, 1º",
+            "INF_TELEFONE": "213619600"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.17764037353668,
+            "Latitude": 38.7041788114024,
+            "INF_NOME": "4ª Esquadra de Investigação Criminal",
+            "INF_MORADA": "Largo do Calvário 6",
+            "INF_TELEFONE": "213619600"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.17764037353668,
+            "Latitude": 38.7041788114024,
+            "INF_NOME": "Esquadra de Intervenção e Fiscalização Policial - 4ª Divisão",
+            "INF_MORADA": "Largo do Calvário 6",
+            "INF_TELEFONE": "213619600"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.17759808070077,
+            "Latitude": 38.7043839176163,
+            "INF_NOME": "28ª Esquadra - Calvário",
+            "INF_MORADA": "Largo do Calvário 6, R/C",
+            "INF_TELEFONE": "213619628"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.1260080630421,
+            "Latitude": 38.7393253036644,
+            "INF_NOME": "12ª Esquadra - Olaias",
+            "INF_MORADA": "Rua  Américo Durão  1 R/C Loja B",
+            "INF_TELEFONE": "218414250"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14673550314883,
+            "Latitude": 38.7496564573158,
+            "INF_NOME": "18ª Esquadra - Campo Grande",
+            "INF_MORADA": "Rua Afonso Lopes Vieira, nº 2 A, 1º",
+            "INF_TELEFONE": "217900020"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.18747297039208,
+            "Latitude": 38.7551351310038,
+            "INF_NOME": "Posto de Polícia Centro Comercial Colombo",
+            "INF_MORADA": "Rua Albert Einstein (antiga R Norte - C.C.Colombo) CC Colombo, R/C",
+            "INF_TELEFONE": "217113501"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.1359524020382,
+            "Latitude": 38.7179070746609,
+            "INF_NOME": "Esquadra de Intervenção e Fiscalização Policial - 1ª Divisão",
+            "INF_MORADA": "Rua da Palma, 169",
+            "INF_TELEFONE": "213 584 640"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12948514351083,
+            "Latitude": 38.7711527119924,
+            "INF_NOME": "Secção de Achados",
+            "INF_MORADA": "Alameda das Comunidades Portuguesas Terminal 1, R/C",
+            "INF_TELEFONE": "218496132"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.1260337806399,
+            "Latitude": 38.7101121849094,
+            "INF_NOME": "Esquadra de Turismo do Porto de Lisboa",
+            "INF_MORADA": "Avenida Infante D. Henrique, Terminal de Cruzeiros de Lisboa",
+            "INF_TELEFONE": "218804030"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.13114492667319,
+            "Latitude": 38.7298944171647,
+            "INF_NOME": "Direção Nacional da PSP - Comando",
+            "INF_MORADA": "Largo da Penha de França, 1",
+            "INF_TELEFONE": "218111000"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.13114492667319,
+            "Latitude": 38.7298944171647,
+            "INF_NOME": "Ponto Nacional de Informações sobre Desporto (PNID)",
+            "INF_MORADA": "Largo da Penha de França, 1",
+            "INF_TELEFONE": "218111000/218111049"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.11774383102628,
+            "Latitude": 38.7643109420933,
+            "INF_NOME": "Secção de Achados",
+            "INF_MORADA": "Praça Cidade de Salazar Lote 180, R/C",
+            "INF_TELEFONE": "218535403"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.1776066145471,
+            "Latitude": 38.7658812439851,
+            "INF_NOME": "Viaturas Apreendidas/Rebocadas - Parque de Telheiras",
+            "INF_MORADA": "Azinhaga Torre do Fato, s/n",
+            "INF_TELEFONE": "217157497"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.15579105445775,
+            "Latitude": 38.7204291849388,
+            "INF_NOME": "22ª Esquadra - Rato",
+            "INF_MORADA": "Largo do Rato, 1",
+            "INF_TELEFONE": "213858870"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12021541994307,
+            "Latitude": 38.764226437149,
+            "INF_NOME": "2ª Divisão Policial",
+            "INF_MORADA": "Rua Cidade de Nampula (antiga Rua B2 de Olivais Sul) 12, R/C",
+            "INF_TELEFONE": "218547200"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12021541994307,
+            "Latitude": 38.764226437149,
+            "INF_NOME": "2ª Esquadra de Investigação Criminal",
+            "INF_MORADA": "Praceta A à Avenida Cidade de Lourenço Marques PSP, Cave-Loja 1",
+            "INF_TELEFONE": "218547215"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12021541994307,
+            "Latitude": 38.764226437149,
+            "INF_NOME": "Esquadra de Intervenção e Fiscalização Policial - 2ª Divisão",
+            "INF_MORADA": "Avenida Cidade Lourenço Marques, Praceta A",
+            "INF_TELEFONE": "218547214"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12022679986201,
+            "Latitude": 38.7642173332062,
+            "INF_NOME": "34ª Esquadra - Olivais",
+            "INF_MORADA": "Praceta A à Avenida Cidade de Lourenço Marques PSP, Cave-Loja 1",
+            "INF_TELEFONE": "218547210"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12022679986201,
+            "Latitude": 38.7642173332062,
+            "INF_NOME": "2ª Divisão- EPES - Equipa de Proximidade e Escola Segura",
+            "INF_MORADA": "Avenida Cidade Lourenço Marques, Praceta A",
+            "INF_TELEFONE": "930 464 016"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.11440603708392,
+            "Latitude": 38.7534187804897,
+            "INF_NOME": "14ª Esquadra - Zona I - Chelas",
+            "INF_MORADA": "Rua Luiz Pacheco Lote 105",
+            "INF_TELEFONE": "218374060"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.19919855039364,
+            "Latitude": 38.7456591198679,
+            "INF_NOME": "3ª Divisão Policial LX",
+            "INF_MORADA": "Rua André de Resende, R/C",
+            "INF_TELEFONE": "217108200"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.19919855039364,
+            "Latitude": 38.7456591198679,
+            "INF_NOME": "Esquadra de Intervenção e Fiscalização Policial -3ª Divisão",
+            "INF_MORADA": "Rua André de Resende, 1",
+            "INF_TELEFONE": "217108200"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.19919855039364,
+            "Latitude": 38.7456591198679,
+            "INF_NOME": "3ª Esquadra de Investigação Criminal",
+            "INF_MORADA": "Rua André de Resende, 1",
+            "INF_TELEFONE": "217108200"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.19918718357695,
+            "Latitude": 38.745668231347,
+            "INF_NOME": "20ª Esquadra - Benfica",
+            "INF_MORADA": "Rua André de Resende 1",
+            "INF_TELEFONE": "217108220"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.16643624443762,
+            "Latitude": 38.7132117612906,
+            "INF_NOME": "Esquadra de Segurança à Presidência de Conselho de Ministros",
+            "INF_MORADA": "Rua Professor Gomes Teixeira 2, R/C",
+            "INF_TELEFONE": "213927781/213927782"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14352699150288,
+            "Latitude": 38.7369550490582,
+            "INF_NOME": "Esquadra de Segurança à Casa da Moeda",
+            "INF_MORADA": "Avenida João Crisóstomo Casa da Moeda, R/C",
+            "INF_TELEFONE": "217810832"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.13789871502276,
+            "Latitude": 38.7637457191196,
+            "INF_NOME": "Esquadra de Segurança Aeroporto - Terminal 2",
+            "INF_MORADA": "Alameda das Comunidades Portuguesas  Terminal 2 R/C PSP",
+            "INF_TELEFONE": "218444530"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.16485600298362,
+            "Latitude": 38.7626489722745,
+            "INF_NOME": "19ª Esquadra - Telheiras",
+            "INF_MORADA": "Rua Professor Luís Reis dos Santos, Lote H - 4 R/C",
+            "INF_TELEFONE": "217595604"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.15872290713297,
+            "Latitude": 38.7330587908914,
+            "INF_NOME": "21ª Esquadra - Campolide",
+            "INF_MORADA": "Rua Marquês de Fronteira Tribunal da Policia, R/C, Palácio da Justiça",
+            "INF_TELEFONE": "213858817"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.18141653793895,
+            "Latitude": 38.7664784279494,
+            "INF_NOME": "32ª Esquadra - Bairro da Horta Nova",
+            "INF_MORADA": "Rua Alfredo Ferraz (antigo Impasse B1 do Bairro da Horta Nova) 12, R/C-Loja",
+            "INF_TELEFONE": "217164339"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.19292640667687,
+            "Latitude": 38.7695045975357,
+            "INF_NOME": "36ª Esquadra - Bairro Padre Cruz",
+            "INF_MORADA": "Rua Prof. Miller Guerra (antigo Impasse A do Bairro Padre Cruz) Lote 44, Loja-36",
+            "INF_TELEFONE": "217164314"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.19211020081952,
+            "Latitude": 38.7591491956306,
+            "INF_NOME": "42ª Esquadra - Carnide",
+            "INF_MORADA": "Rua  Manuela Porto  14C R/C Dto - Loja A",
+            "INF_TELEFONE": "217144989"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.19216395587769,
+            "Latitude": 38.7591146590944,
+            "INF_NOME": "42ª Esquadra - Carnide",
+            "INF_MORADA": "Rua  Manuela Porto  14D R/C Esq - Loja B",
+            "INF_TELEFONE": "217144989"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.19212794837564,
+            "Latitude": 38.7592522992077,
+            "INF_NOME": "42ª Esquadra - Carnide",
+            "INF_MORADA": "Rua  Manuela Porto  14A Cave Dto - Loja",
+            "INF_TELEFONE": "217144989"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.16791950837601,
+            "Latitude": 38.7152052537879,
+            "INF_NOME": "24ª Esquadra - Campo de Ourique",
+            "INF_MORADA": "Rua Azedo Gneco 84, R/C",
+            "INF_TELEFONE": "213619624"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12744850195477,
+            "Latitude": 38.7276601653298,
+            "INF_NOME": "5ª Divisão Policial",
+            "INF_MORADA": "Avenida Coronel Eduardo Galhardo - Edifício da P.S.P., R/C",
+            "INF_TELEFONE": "218113200"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12744850195477,
+            "Latitude": 38.7276601653298,
+            "INF_NOME": "5ª Esquadra de Investigação Criminal",
+            "INF_MORADA": "Avenida Coronel Eduardo Galhardo - Edifício da P.S.P., R/C",
+            "INF_TELEFONE": "218113262"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12744850195477,
+            "Latitude": 38.7276601653298,
+            "INF_NOME": "Esquadra de Intervenção e Fiscalização Policial - 5ª Divisão",
+            "INF_MORADA": "Avenida Coronel Eduardo Galhardo - Edifício da P.S.P., R/C",
+            "INF_TELEFONE": "218113200"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12743712867042,
+            "Latitude": 38.727669269943,
+            "INF_NOME": "11ª Esquadra - Penha de França",
+            "INF_MORADA": "Avenida Coronel Eduardo Galhardo - Edifício da P.S.P., R/C",
+            "INF_TELEFONE": "218113214"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12743712867042,
+            "Latitude": 38.727669269943,
+            "INF_NOME": "31ª Esquadra - Praça de Espanha",
+            "INF_MORADA": "Avenida Coronel Eduardo Galhardo - Edifício da P.S.P., R/C",
+            "INF_TELEFONE": "218113214"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.11228574542185,
+            "Latitude": 38.7472341195495,
+            "INF_NOME": "16ª Esquadra - Zona J Chelas",
+            "INF_MORADA": "Avenida João Paulo II Lote 526, R/C",
+            "INF_TELEFONE": "218380821"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.20618214983436,
+            "Latitude": 38.7332905003364,
+            "INF_NOME": "43ª Esquadra - Bairro da Boavista",
+            "INF_MORADA": "Rua do Azevinho (Rua B) Quarteirão Central B - Bloco C, R/C-Loja 27, Bairro da Bela Vista",
+            "INF_TELEFONE": "217606073"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.20604979768003,
+            "Latitude": 38.733305834076,
+            "INF_NOME": "43ª Esquadra - Bairro da Boavista",
+            "INF_MORADA": "Rua do Azevinho (Rua B) Quarteirão Central B - Bloco C, R/C-Loja 28, Bairro da Bela Vista",
+            "INF_TELEFONE": "217606073"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14975051857338,
+            "Latitude": 38.7671064121787,
+            "INF_NOME": "Divisão de Transito",
+            "INF_MORADA": "Avenida Maria Helena Vieira da Silva, 48",
+            "INF_TELEFONE": "217501200"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14975051857338,
+            "Latitude": 38.7671064121787,
+            "INF_NOME": "Esquadra de Fiscalização Técnica",
+            "INF_MORADA": "Avenida Maria Helena Vieira da Silva, 48",
+            "INF_TELEFONE": "217501249"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14975051857338,
+            "Latitude": 38.7671064121787,
+            "INF_NOME": "Esquadra de Motociclistas",
+            "INF_MORADA": "Avenida Maria Helena Vieira da Silva, 48",
+            "INF_TELEFONE": "217501247"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14975051857338,
+            "Latitude": 38.7671064121787,
+            "INF_NOME": "Brigada de Prevenção Criminal",
+            "INF_MORADA": "Avenida Maria Helena Vieira da Silva, 48",
+            "INF_TELEFONE": "217501278"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14975051857338,
+            "Latitude": 38.7671064121787,
+            "INF_NOME": "Esquadra de Sinistralidade Rodoviária",
+            "INF_MORADA": "Avenida Maria Helena Vieira da Silva, 48",
+            "INF_TELEFONE": "217501245"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14975051857338,
+            "Latitude": 38.7671064121787,
+            "INF_NOME": "1ª Esquadra de Transito",
+            "INF_MORADA": "Avenida Maria Helena Vieira da Silva, 48",
+            "INF_TELEFONE": "217501242"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14975051857338,
+            "Latitude": 38.7671064121787,
+            "INF_NOME": "Esquadra de Apoio da Divisão de Trânsito de Lisboa",
+            "INF_MORADA": "Avenida Maria Helena Vieira da Silva, 48",
+            "INF_TELEFONE": "217501238"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.11126490591362,
+            "Latitude": 38.7276801808577,
+            "INF_NOME": "Serviços Sociais da Polícia de Segurança Pública",
+            "INF_MORADA": "Rua de Xabregas, 44",
+            "INF_TELEFONE": "218618000"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.2219073141128,
+            "Latitude": 38.7036303192241,
+            "INF_NOME": "6ª Esquadra de Investigação Criminal",
+            "INF_MORADA": "Estrada Forte do Alto do Duque, Forte do Alto do Duque",
+            "INF_TELEFONE": "213 943 600"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.2219073141128,
+            "Latitude": 38.7036303192241,
+            "INF_NOME": "7ª Esquadra de Investigação Criminal",
+            "INF_MORADA": "Estrada Forte do Alto do Duque, Forte do Alto do Duque",
+            "INF_TELEFONE": "213 943 600"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.2219073141128,
+            "Latitude": 38.7036303192241,
+            "INF_NOME": "8ª Esquadra de Investigação Criminal",
+            "INF_MORADA": "Estrada Forte do Alto do Duque, Forte do Alto do Duque",
+            "INF_TELEFONE": "213 943 600"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.2219073141128,
+            "Latitude": 38.7036303192241,
+            "INF_NOME": "Divisão de Investigação Criminal",
+            "INF_MORADA": "Estrada Forte do Alto do Duque, Forte do Alto do Duque",
+            "INF_TELEFONE": "213 943 600"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14166680984877,
+            "Latitude": 38.7226099079374,
+            "INF_NOME": "Espaço Júlia",
+            "INF_MORADA": "Alameda Sto António dos Capuchos",
+            "INF_TELEFONE": "210179284"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.09584557936069,
+            "Latitude": 38.7729573173432,
+            "INF_NOME": "RIAV - Campus de Justiça",
+            "INF_MORADA": "Avenida Dom João II, Edifício E, piso 0",
+            "INF_TELEFONE": "213182370"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.15637186824005,
+            "Latitude": 38.7111787032624,
+            "INF_NOME": "30ª Esquadra - Lapa/Estrela",
+            "INF_MORADA": "Travessa Miguel Lúpi, s/n",
+            "INF_TELEFONE": "213619630"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.21213304688262,
+            "Latitude": 38.7101954857906,
+            "INF_NOME": "Viaturas Apreendidas/Rebocadas - Parque do Restelo",
+            "INF_MORADA": "Rua Gregório Lopes, PSP",
+            "INF_TELEFONE": "213016864"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.21777051602714,
+            "Latitude": 38.7077872892656,
+            "INF_NOME": "Posto de Polícia Hospital São Francisco Xavier",
+            "INF_MORADA": "Estrada do Forte do Alto do Duque Hospital S Francisco de Xavier, R/C",
+            "INF_TELEFONE": "213619609"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.14492444870531,
+            "Latitude": 38.7134789314162,
+            "INF_NOME": "3ª Esquadra - Bairro Alto",
+            "INF_MORADA": "Rua da Atalaia 138-144, R/C, Rua de O Século  4, R/C",
+            "INF_TELEFONE": "213403410"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.15365244315358,
+            "Latitude": 38.7124687347585,
+            "INF_NOME": "Esquadra de Segurança à Assembleia da República",
+            "INF_MORADA": "Praça de São Bento, s/n",
+            "INF_TELEFONE": "213917337"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.155901219831,
+            "Latitude": 38.7125864801255,
+            "INF_NOME": "Esquadra de Segurança à Residência Oficial do Primeiro Ministro",
+            "INF_MORADA": "Rua da Imprensa à Estrela, 4",
+            "INF_TELEFONE": "213923500"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12505934451208,
+            "Latitude": 38.7129304278752,
+            "INF_NOME": "Esquadra de Turismo",
+            "INF_MORADA": "Largo do Museu de Artilharia",
+            "INF_TELEFONE": "218804030"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.12505934451208,
+            "Latitude": 38.7129304278752,
+            "INF_NOME": "Esquadra de Intervenção e Fiscalização Policial (DSTP)",
+            "INF_MORADA": "Largo do Museu de Artilharia",
+            "INF_TELEFONE": "213421623"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.09506779802794,
+            "Latitude": 38.7821696675708,
+            "INF_NOME": "40ª Esquadra - Parque das Nações",
+            "INF_MORADA": "Rua Ilha dos Amores, Lote 43901-J, Parque das Nações",
+            "INF_TELEFONE": "218955810"
+        },
+        {
+            "type": "Polícia_de_Segurança_Pública",
+            "Longitude": -9.15546233681053,
+            "Latitude": 38.776310540977,
+            "INF_NOME": "41ª Esquadra - Lumiar",
+            "INF_MORADA": "Rua Maria Ribeiro, n.º 6",
+            "INF_TELEFONE": "210 545 390"
+        }
+    ]
+}

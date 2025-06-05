@@ -1,0 +1,142 @@
+{
+    "features": [
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.17747605736161,
+            "Latitude": 38.6993106973003,
+            "INF_NOME": "Doca de Santo Amaro"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.16183108818247,
+            "Latitude": 38.7015679407277,
+            "INF_NOME": "Gare Maritima Rocha do Conde de Obidos"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.17420072589274,
+            "Latitude": 38.6992945512885,
+            "INF_NOME": "Gare Maritima de Alcantara"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.09993667041919,
+            "Latitude": 38.7400258044056,
+            "INF_NOME": "Doca do Poco do Bispo"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.09344598851538,
+            "Latitude": 38.7649805373802,
+            "INF_NOME": "Doca dos Olivais"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.12637326044853,
+            "Latitude": 38.710179073912,
+            "INF_NOME": "Terminal de Cruzeiros Santa Apolónia"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.16778623390957,
+            "Latitude": 38.701649785493,
+            "INF_NOME": "Doca de Alcantara"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.19854783723004,
+            "Latitude": 38.6949767144652,
+            "INF_NOME": "Gare Maritima de Belem"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.13081625818771,
+            "Latitude": 38.7079268095491,
+            "INF_NOME": "Doca da Marinha"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.21191679112613,
+            "Latitude": 38.6931571603066,
+            "INF_NOME": "Doca do Bom Sucesso"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.2041977629347,
+            "Latitude": 38.6944042833952,
+            "INF_NOME": "Doca de Belem"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.13334171187464,
+            "Latitude": 38.7068485410413,
+            "INF_NOME": "Estação Fluvial do Terreiro do Paço"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.14556626743162,
+            "Latitude": 38.7050666666471,
+            "INF_NOME": "Gare Maritima do Cais do Sodré"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.09277504674716,
+            "Latitude": 38.7557120969372,
+            "INF_NOME": "Marina Parque das Nações"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.09473689471851,
+            "Latitude": 38.7500997794743,
+            "INF_NOME": "Cais da Matinha"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.10135827450964,
+            "Latitude": 38.7384822278326,
+            "INF_NOME": "Terminal Multiusos do Poço do Bispo (ETE)"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.10205711287007,
+            "Latitude": 38.7365136956782,
+            "INF_NOME": "Terminal de Granéis Alimentares do Beato"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.10543743763496,
+            "Latitude": 38.7302281904296,
+            "INF_NOME": "Terminal Multiusos do Beato"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.11035320788466,
+            "Latitude": 38.7251345036247,
+            "INF_NOME": "Terminal de Contentores Santa Apolónia(TSA)"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.11634385763628,
+            "Latitude": 38.7186185172065,
+            "INF_NOME": "Terminal Multipurpose (Multiusos) de Lisboa"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.15652358248544,
+            "Latitude": 38.704063330709,
+            "INF_NOME": "Doca de Santos"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.17224893275717,
+            "Latitude": 38.6997077308505,
+            "INF_NOME": "Terminal de Contentores de Alcântara (Liscont)"
+        },
+        {
+            "type": "Estações_Fluvial",
+            "Longitude": -9.22607233867372,
+            "Latitude": 38.6942938065334,
+            "INF_NOME": "Doca de Pedrouços"
+        }
+    ]
+}

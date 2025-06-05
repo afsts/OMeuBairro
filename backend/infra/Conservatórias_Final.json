@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "type": "Conservatórias",
+            "Longitude": -9.14803376333314,
+            "Latitude": 38.7289013980754,
+            "INF_NOME": "Conservatória do Registo Civil",
+            "INF_MORADA": "Avenida Fontes Pereira de Melo, 7-13 - Rua de São Sebastião da Pedreira, 2-6",
+            "INF_TELEFONE": "21 356 62 50",
+            "INF_EMAIL": "crc.lisboa@dgrn.mj.pt"
+        },
+        {
+            "type": "Conservatórias",
+            "Longitude": -9.09608882376321,
+            "Latitude": 38.7731292489252,
+            "INF_NOME": "Conservatória do Registo Predial",
+            "INF_MORADA": "Avenida D. João II 1.08.01.J R/C Dto",
+            "INF_TELEFONE": "21 155 04 20",
+            "INF_EMAIL": "crp.lisboa@dgrn.mj.pt"
+        },
+        {
+            "type": "Conservatórias",
+            "Longitude": -9.09581245928071,
+            "Latitude": 38.7732785633621,
+            "INF_NOME": "Conservatória do Registo Automóvel",
+            "INF_MORADA": "Avenida D. João II 1.08.01.J R/C Esq",
+            "INF_TELEFONE": "21 155 04 40",
+            "INF_EMAIL": "cra.lisboa@dgrn.mj.pt"
+        },
+        {
+            "type": "Conservatórias",
+            "Longitude": -9.1481946933541,
+            "Latitude": 38.7286535664044,
+            "INF_NOME": "Soluções Integradas de Registo",
+            "INF_MORADA": "Avenida Fontes Pereira de Melo 11 9º Dto\n1050-115 Lisboa\n",
+            "INF_TELEFONE": "21 350 68 60",
+            "INF_EMAIL": "sir@irn.mj.pt"
+        },
+        {
+            "type": "Conservatórias",
+            "Longitude": -9.18339866868226,
+            "Latitude": 38.6999463175259,
+            "INF_NOME": "Gabinete de Apoio ao Registo Comercial no CFE",
+            "INF_MORADA": "Rua da Junqueira 39A R/C",
+            "INF_TELEFONE": "21 361 54 00",
+            "INF_EMAIL": "2cfe.garcom.lisboa@dgrn.mj.pt"
+        },
+        {
+            "type": "Conservatórias",
+            "Longitude": -9.13276372838591,
+            "Latitude": 38.7417330365713,
+            "INF_NOME": "Espaço de Registos (Areeiro)",
+            "INF_MORADA": "Praça Francisco Sá Carneiro 13C R/C",
+            "INF_TELEFONE": "21 843 80 50",
+            "INF_EMAIL": "espaco.registos.lisboa.areeiro@dgrn.mj.pt"
+        },
+        {
+            "type": "Conservatórias",
+            "Longitude": -9.18465988575666,
+            "Latitude": 38.7495912601094,
+            "INF_NOME": "Espaço de Registos (Benfica)",
+            "INF_MORADA": "Rua Augusto Pina 21 R/C Loja A",
+            "INF_TELEFONE": "21 770 90 30",
+            "INF_EMAIL": "espaco.registos.lisboa.benfica@dgrn.mj.pt"
+        },
+        {
+            "type": "Conservatórias",
+            "Longitude": -9.15777870551218,
+            "Latitude": 38.7282598430223,
+            "INF_NOME": "Conservatória dos Registos Centrais",
+            "INF_MORADA": "Rua Rodrigo da Fonseca 198",
+            "INF_TELEFONE": "21 381 76 00",
+            "INF_EMAIL": "crcentrais@dgrn.mj.pt"
+        },
+        {
+            "type": "Conservatórias",
+            "Longitude": -9.17144679125787,
+            "Latitude": 38.7506463102477,
+            "INF_NOME": "Gabinete de Apoio ao Registo Automóvel na Loja do Cidadão (Lisboa I - Laranjeiras)",
+            "INF_MORADA": "Rua Abranches Ferrão 10 1º ",
+            "INF_TELEFONE": "21 723 14 05",
+            "INF_EMAIL": "-"
+        }
+    ]
+}

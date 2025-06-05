@@ -1,0 +1,304 @@
+{
+    "features": [
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.14620795021712,
+            "Latitude": 38.7061150810876,
+            "INF_NOME": "Cais do Sodré"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.13420238756193,
+            "Latitude": 38.7071293396142,
+            "INF_NOME": "Terreiro do Paço"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.14015060636417,
+            "Latitude": 38.7105700699041,
+            "INF_NOME": "Baixa Chiado"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.1223340184811,
+            "Latitude": 38.7139242126512,
+            "INF_NOME": "Santa Apolónia"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.13788558416029,
+            "Latitude": 38.7140387351334,
+            "INF_NOME": "Rossio"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.14211755877668,
+            "Latitude": 38.7159224068044,
+            "INF_NOME": "Restauradores"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.13573782228017,
+            "Latitude": 38.7177019399986,
+            "INF_NOME": "Martim Moniz"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.14515188409429,
+            "Latitude": 38.7194025351094,
+            "INF_NOME": "Avenida"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.15468780091093,
+            "Latitude": 38.7201575166883,
+            "INF_NOME": "Rato"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.13518490808126,
+            "Latitude": 38.7232980404134,
+            "INF_NOME": "Intendente"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.14974636758321,
+            "Latitude": 38.724638955043,
+            "INF_NOME": "Marquês de Pombal"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.13480023096576,
+            "Latitude": 38.7271578246524,
+            "INF_NOME": "Anjos"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.15014123306272,
+            "Latitude": 38.7289458895159,
+            "INF_NOME": "Parque"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.14688282452403,
+            "Latitude": 38.7304084282427,
+            "INF_NOME": "Picoas"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.13423033340514,
+            "Latitude": 38.7328456373345,
+            "INF_NOME": "Arroios"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.15392287316945,
+            "Latitude": 38.7343970331662,
+            "INF_NOME": "São Sebastião"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.14528831383823,
+            "Latitude": 38.7351689051228,
+            "INF_NOME": "Saldanha"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.13380942489798,
+            "Latitude": 38.7370549729502,
+            "INF_NOME": "Alameda"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.15925422094947,
+            "Latitude": 38.7377491106506,
+            "INF_NOME": "Praça de Espanha"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.1230025209179,
+            "Latitude": 38.7401729590514,
+            "INF_NOME": "Olaias"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.14668409480334,
+            "Latitude": 38.740929476453,
+            "INF_NOME": "Campo Pequeno"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.16866629861376,
+            "Latitude": 38.741639206018,
+            "INF_NOME": "Jardim Zoológico"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.13345548142175,
+            "Latitude": 38.7424454415358,
+            "INF_NOME": "Areeiro"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.1482146104718,
+            "Latitude": 38.7471334577605,
+            "INF_NOME": "Entre Campos"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.11762369396806,
+            "Latitude": 38.7477357859286,
+            "INF_NOME": "Bela Vista"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.14134526152344,
+            "Latitude": 38.7482228024879,
+            "INF_NOME": "Roma"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.17258176533351,
+            "Latitude": 38.7487507528713,
+            "INF_NOME": "Laranjeiras"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.18006654807824,
+            "Latitude": 38.7499445388444,
+            "INF_NOME": "Alto dos Moinhos"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.15912398203189,
+            "Latitude": 38.7515984207662,
+            "INF_NOME": "Cidade Universitária"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.22388329579027,
+            "Latitude": 38.7522712870587,
+            "INF_NOME": "Reboleira"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.14400029637591,
+            "Latitude": 38.7531730686722,
+            "INF_NOME": "Alvalade"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.18930499007435,
+            "Latitude": 38.753441421465,
+            "INF_NOME": "Colégio Militar"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.11393068105765,
+            "Latitude": 38.7549149532346,
+            "INF_NOME": "Chelas"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.21790161747948,
+            "Latitude": 38.7587158590108,
+            "INF_NOME": "Amadora Este"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.19262713345253,
+            "Latitude": 38.759168109099,
+            "INF_NOME": "Carnide"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.1578896614592,
+            "Latitude": 38.7602165259205,
+            "INF_NOME": "Campo Grande"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.16644430726784,
+            "Latitude": 38.7599634337851,
+            "INF_NOME": "Telheiras"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.11176892689733,
+            "Latitude": 38.7609221401764,
+            "INF_NOME": "Olivais"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.20447747862651,
+            "Latitude": 38.7605071106029,
+            "INF_NOME": "Alfornelos"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.19686363917219,
+            "Latitude": 38.7622502213567,
+            "INF_NOME": "Pontinha"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.10511478609739,
+            "Latitude": 38.7629641453917,
+            "INF_NOME": "Cabo Ruivo"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.15555480778863,
+            "Latitude": 38.7674892706787,
+            "INF_NOME": "Quinta das Conchas"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.0998135518355,
+            "Latitude": 38.7679599444634,
+            "INF_NOME": "Oriente"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.12820311123166,
+            "Latitude": 38.7683794008583,
+            "INF_NOME": "Aeroporto"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.159288760681,
+            "Latitude": 38.7732843374556,
+            "INF_NOME": "Lumiar"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.11537495212044,
+            "Latitude": 38.7750679264104,
+            "INF_NOME": "Encarnação"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.10300158883893,
+            "Latitude": 38.7749214790169,
+            "INF_NOME": "Moscavide"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.15952318236053,
+            "Latitude": 38.7795364143671,
+            "INF_NOME": "Ameixoeira"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.17189570290375,
+            "Latitude": 38.785776294755,
+            "INF_NOME": "Senhor Roubado"
+        },
+        {
+            "type": "Estações_Metro",
+            "Longitude": -9.17319799147843,
+            "Latitude": 38.7935139056005,
+            "INF_NOME": "Odivelas"
+        }
+    ]
+}

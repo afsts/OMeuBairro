@@ -1,0 +1,76 @@
+{
+    "features": [
+        {
+            "type": "CM_Lisboa_Empresas_Municipais",
+            "Longitude": -9.1806145096596,
+            "Latitude": 38.7020239338308,
+            "INF_NOME": "Companhia Carris de Ferro de Lisboa, E.M., S.A",
+            "INF_MORADA": "Rua Primeiro de Maio a Alcântara, 103 - 1300-472 Lisboa",
+            "INF_TELEFONE": "213613000",
+            "INF_EMAIL": "atendimento@carris.pt ",
+            "INF_SITE": "www.carris.pt ",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Alcântara"
+        },
+        {
+            "type": "CM_Lisboa_Empresas_Municipais",
+            "Longitude": -9.13939802354789,
+            "Latitude": 38.7083487753695,
+            "INF_NOME": "SRU - Sociedade de Reabilitação Urbana",
+            "INF_MORADA": "Praça do Município, 31 - 2.º",
+            "INF_TELEFONE": "+351 218 847 030",
+            "INF_EMAIL": "info@lisboaocidentalsru.pt",
+            "INF_SITE": "www.lisboaocidentalsru.pt",
+            "INF_DESCRICAO": "A Sociedade de Reabilitação Urbana - Lisboa Ocidental tem como missão promover a reabilitação da sua Área de Reabilitação Urbana (que envolve parte das Freguesias de Santa Maria de Belém, Ajuda e Alcântara) através de operações de reabilitação do espaço público e de edifícios que a valorizem nos planos urbanístico, social, cultural e económico.",
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "CM_Lisboa_Empresas_Municipais",
+            "Longitude": -9.13492903957233,
+            "Latitude": 38.7125839296281,
+            "INF_NOME": "EGEAC - Empresa de Gestão de Equipamentos e Animação Cultural",
+            "INF_MORADA": "Calçada do Marquês de Tancos, 2",
+            "INF_TELEFONE": "(+351) 218 820 090",
+            "INF_EMAIL": "geral@egeac.pt",
+            "INF_SITE": "www.egeac.pt",
+            "INF_DESCRICAO": "Fax: +351 218 820 098\n\nmpresa municipal da cidade de Lisboa responsável pela Gestão de Equipamentos e Animação Cultural.\n\nOs equipamentos culturais sob gestão EGEAC são: Casa Fernando Pessoa, Castelo de São Jorge, Cinema São Jorge, Maria Matos Teatro Municipal, Museu da Marioneta, Museu do Fado, Palácio Marquês de Pombal (projeto Carpe Diem), Padrão dos Descobrimentos, São Luiz Teatro Municipal, Teatro Taborda (projeto Teatro da Garagem). A empresa está sediada no Palácio Marquês de Tancos.\n",
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "CM_Lisboa_Empresas_Municipais",
+            "Longitude": -9.14713946194223,
+            "Latitude": 38.7410208191858,
+            "INF_NOME": "EMEL - Empresa municipal de Estacionamento de Lisboa",
+            "INF_MORADA": "Avenida de Berna, 1\n1050-036 Lisboa",
+            "INF_TELEFONE": "(+351) 217 813 600",
+            "INF_EMAIL": "info@emel.pt",
+            "INF_SITE": "www.emel.pt",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Avenidas Novas"
+        },
+        {
+            "type": "CM_Lisboa_Empresas_Municipais",
+            "Longitude": -9.15940240810797,
+            "Latitude": 38.7705272546495,
+            "INF_NOME": "EMEL - Empresa Municipal de Mobilidade e Estacionamento de Lisboa, EM, SA",
+            "INF_MORADA": "Alameda das Linhas de Torres, 198/200\n1769-008 Lisboa\n",
+            "INF_TELEFONE": "211163060",
+            "INF_EMAIL": "info@emel.pt",
+            "INF_SITE": "https://www.emel.pt/pt",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Lumiar"
+        },
+        {
+            "type": "CM_Lisboa_Empresas_Municipais",
+            "Longitude": -9.11824524670182,
+            "Latitude": 38.7812649367467,
+            "INF_NOME": "GEBALIS - Gestão dos Bairros Municipais de Lisboa",
+            "INF_MORADA": "Rua Costa Malheiro, Lote B 12\nOlivais\n1800-412 LISBOA",
+            "INF_TELEFONE": "(+351) 217 511 000",
+            "INF_EMAIL": "gbl@gebalis.pt\t",
+            "INF_SITE": "http://www.gebalis.pt/site/",
+            "INF_DESCRICAO": "A Gebalis pretende promover a qualidade de vida, a integração social e a autonomia das populações residentes, tornando os bairros geridos, nas vertentes social, patrimonial e financeira, em unidades sustentáveis e com forte sentimento de pertença",
+            "FREGUESIA": "Olivais"
+        }
+    ]
+}
