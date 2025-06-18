@@ -1,0 +1,125 @@
+{
+    "features": [
+        {
+            "type": "Administração_Central_Finanças",
+            "Longitude": -9.13728959363298,
+            "Latitude": 38.7341354947721,
+            "INF_NOME": "Serviço de Finanças de Lisboa 4",
+            "INF_MORADA": "Rua de Ponta Delgada, 69 R/C",
+            "INF_TELEFONE": "+351 218 411 600",
+            "INF_EMAIL": "sf3301@at.gov.pt",
+            "INF_SITE": "www.portaldasfinancas.gov.pt",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Administração_Central_Finanças",
+            "Longitude": -9.15328914457422,
+            "Latitude": 38.7228012711383,
+            "INF_NOME": "Serviço de Finanças de Lisboa 2",
+            "INF_MORADA": "Rua Rodrigo da Fonseca, 57 R/C",
+            "INF_TELEFONE": "+351 213 808 390",
+            "INF_EMAIL": "sf3247@at.gov.pt",
+            "INF_SITE": "www.portaldasfinancas.gov.pt",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Administração_Central_Finanças",
+            "Longitude": -9.16029393763342,
+            "Latitude": 38.7734443980057,
+            "INF_NOME": "Serviço de Finanças de Lisboa 11",
+            "INF_MORADA": "Rua da República do Paraguai, 22 R/C",
+            "INF_TELEFONE": "+351 217 544 100/106",
+            "INF_EMAIL": "sf3344@at.gov.pt",
+            "INF_SITE": "www.portaldasfinancas.gov.pt",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Administração_Central_Finanças",
+            "Longitude": -9.11333624935443,
+            "Latitude": 38.7741306372074,
+            "INF_NOME": "Serviço de Finanças de Lisboa 6",
+            "INF_MORADA": "Rua General Silva Freire, Lote 158 1º",
+            "INF_TELEFONE": "+351 218 554 200 /37",
+            "INF_EMAIL": "sf3336@at.gov.pt",
+            "INF_SITE": "www.portaldasfinancas.gov.pt",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Administração_Central_Finanças",
+            "Longitude": -9.11336267742054,
+            "Latitude": 38.7528727252775,
+            "INF_NOME": "Serviço de Finanças de Lisboa 9",
+            "INF_MORADA": "Rua Luiz Pacheco, Lote 103 Loja D",
+            "INF_TELEFONE": "+351 218 392 350",
+            "INF_EMAIL": "sf3328@at.gov.pt",
+            "INF_SITE": "www.portaldasfinancas.gov.pt",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Administração_Central_Finanças",
+            "Longitude": -9.12874845178917,
+            "Latitude": 38.7242741853082,
+            "INF_NOME": "Serviço de Finanças de Lisboa 1",
+            "INF_MORADA": "Avenida General Roçadas, 11B R/C",
+            "INF_TELEFONE": "+351 218 101 060",
+            "INF_EMAIL": "sf3069@at.gov.pt",
+            "INF_SITE": "www.portaldasfinancas.gov.pt",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Administração_Central_Finanças",
+            "Longitude": -9.21139707107247,
+            "Latitude": 38.7104752713082,
+            "INF_NOME": "Serviço de Finanças de Lisboa 7",
+            "INF_MORADA": "Rua Alfredo Soares, 2A",
+            "INF_TELEFONE": "+351 213 617 530",
+            "INF_EMAIL": "sf3239@at.gov.pt",
+            "INF_SITE": "www.portaldasfinancas.gov.pt",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Administração_Central_Finanças",
+            "Longitude": -9.14675993687146,
+            "Latitude": 38.7302309878142,
+            "INF_NOME": "Serviço de Finanças de Lisboa 10",
+            "INF_MORADA": "Avenida Fontes Pereira de Melo 30B R/C",
+            "INF_TELEFONE": "+351 213 584 340",
+            "INF_EMAIL": "sf3255@at.gov.pt",
+            "INF_SITE": "www.portaldasfinancas.gov.pt",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Administração_Central_Finanças",
+            "Longitude": -9.13720614289137,
+            "Latitude": 38.7107089928039,
+            "INF_NOME": "Serviço de Finanças de Lisboa 3",
+            "INF_MORADA": "Rua dos Correeiros, 70 1º",
+            "INF_TELEFONE": "+351 707 206 707",
+            "INF_EMAIL": "sf3085@at.gov.pt",
+            "INF_SITE": "www.portaldasfinancas.gov.pt",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Administração_Central_Finanças",
+            "Longitude": -9.20393237043731,
+            "Latitude": 38.7526056579281,
+            "INF_NOME": "Serviço de Finanças de Lisboa 5",
+            "INF_MORADA": "Rua Amélia Rey Colaço, 7B R/C Loja",
+            "INF_TELEFONE": "+351 217 621 140 /49",
+            "INF_EMAIL": "sf3263@at.gov.pt",
+            "INF_SITE": "www.portaldasfinancas.gov.pt",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Administração_Central_Finanças",
+            "Longitude": -9.14261712193294,
+            "Latitude": 38.7561597105067,
+            "INF_NOME": "Serviço de Finanças de Lisboa 8",
+            "INF_MORADA": "Rua do Centro Cultural, 12 R/C",
+            "INF_TELEFONE": "+351 218 418 820",
+            "INF_EMAIL": "sf3107@at.gov.pt",
+            "INF_SITE": "www.portaldasfinancas.gov.pt",
+            "FREGUESIA": null
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "features": [
+        {
+            "type": "Polícia_Municipal",
+            "Longitude": -9.16295131829286,
+            "Latitude": 38.7362048176184,
+            "INF_NOME": "Polícia Municipal",
+            "INF_MORADA": "Rua Cardeal Saraiva Polícia Municipal, R/c",
+            "INF_TELEFONE": "+351 217 825 237",
+            "INF_EMAIL": "pm@cm-lisboa.pt",
+            "FREGUESIA": "Campolide"
+        }
+    ]
+}

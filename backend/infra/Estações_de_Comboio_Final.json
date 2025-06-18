@@ -1,0 +1,100 @@
+{
+    "features": [
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.15552250377434,
+            "Latitude": 38.7060633158671,
+            "INF_NOME": "Santos"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.14196352975159,
+            "Latitude": 38.7146755592529,
+            "INF_NOME": "Rossio"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.10852938329836,
+            "Latitude": 38.7391907148697,
+            "INF_NOME": "Marvila"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.19958199365785,
+            "Latitude": 38.7443755776409,
+            "INF_NOME": "Benfica"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.14588727652266,
+            "Latitude": 38.7059490818467,
+            "INF_NOME": "Caís do Sodré"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.16697975868038,
+            "Latitude": 38.7400298098061,
+            "INF_NOME": "Sete Rios"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.12177812882614,
+            "Latitude": 38.7149653347983,
+            "INF_NOME": "Santa Apolónia"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.1340968039289,
+            "Latitude": 38.7457661052422,
+            "INF_NOME": "Roma Areeiro"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.17369129487808,
+            "Latitude": 38.7024619220429,
+            "INF_NOME": "Alcântara Mar"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.11853020119388,
+            "Latitude": 38.7388004364584,
+            "INF_NOME": "Chelas"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.14893855879381,
+            "Latitude": 38.7444038040214,
+            "INF_NOME": "Entrecampos"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.17322414042982,
+            "Latitude": 38.7075014233012,
+            "INF_NOME": "Alcântara Terra"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.19724453022133,
+            "Latitude": 38.6962145236187,
+            "INF_NOME": "Belém"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.10280518898983,
+            "Latitude": 38.747093215346,
+            "INF_NOME": "Braço de Prata"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.09904711754043,
+            "Latitude": 38.7677972155426,
+            "INF_NOME": "Oriente"
+        },
+        {
+            "type": "Estações_Comboio",
+            "Longitude": -9.16803742796852,
+            "Latitude": 38.7322671342457,
+            "INF_NOME": "Campolide"
+        }
+    ]
+}

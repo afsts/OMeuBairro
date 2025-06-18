@@ -1,0 +1,445 @@
+{
+    "features": [
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.17531017977109,
+            "Latitude": 38.7546687641308,
+            "INF_NOME": "Fitness Estrada da Luz",
+            "INF_MORADA": "Estrada da Luz"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.16457759519457,
+            "Latitude": 38.7357959614321,
+            "INF_NOME": "Fitness Jardim Amnistia Internacional - Jardins de Campolide",
+            "INF_MORADA": "Rua de Campolide"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.13391509749599,
+            "Latitude": 38.7600915147705,
+            "INF_NOME": "Fitness Parque José Gomes Ferreira",
+            "INF_MORADA": "Avenida do Brasil"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.14288714634099,
+            "Latitude": 38.7578640432273,
+            "INF_NOME": "Fitness do Parque Aquilino Ribeiro Machado",
+            "INF_MORADA": "Avenida do Brasil"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.13247478915782,
+            "Latitude": 38.7597561095167,
+            "INF_NOME": "Circuito de Manutenção do Parque José Gomes Ferreira",
+            "INF_MORADA": "Avenida do Brasil"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.20654592928854,
+            "Latitude": 38.715573690208,
+            "INF_NOME": "Circuito de Manutenção Belém Rugby Park",
+            "INF_MORADA": "Estrada de Queluz"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.19295821369267,
+            "Latitude": 38.7221885988851,
+            "INF_NOME": "Circuito de Manutenção do Penedo",
+            "INF_MORADA": "Estrada do Penedo"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.20228861416538,
+            "Latitude": 38.7519357689668,
+            "INF_NOME": "Street Workout Jardim Carlos Consiglieri",
+            "INF_MORADA": "Rua Jorge Barradas"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.12306115396556,
+            "Latitude": 38.7729639005631,
+            "INF_NOME": "Circuito de Manutenção da Rua dos Eucaliptos",
+            "INF_MORADA": "Rua dos Eucaliptos"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.20884347403539,
+            "Latitude": 38.6931237838237,
+            "INF_NOME": "Fitness Jardim Japonês",
+            "INF_MORADA": "Avenida de Brasília"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.1889339342662,
+            "Latitude": 38.6967697292818,
+            "INF_NOME": "Fitness Avenida de Brasília",
+            "INF_MORADA": "Avenida de Brasília"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.19553223751418,
+            "Latitude": 38.7288968320083,
+            "INF_NOME": "Circuito de Manutenção do Monte Verde",
+            "INF_MORADA": "Estrada de Monsanto"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.12716924580058,
+            "Latitude": 38.7404926616795,
+            "INF_NOME": "Fitness Park Olaias",
+            "INF_MORADA": "Avenida Afonso Costa"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.14667388029259,
+            "Latitude": 38.7923532460061,
+            "INF_NOME": "Fitness Parque Urbano do Reguengo",
+            "INF_MORADA": "Azinhaga do Reguengo"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.14108904933252,
+            "Latitude": 38.7186165323848,
+            "INF_NOME": "Fitness Jardim do Torel",
+            "INF_MORADA": "Rua Júlio de Andrade"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.20262790489798,
+            "Latitude": 38.6965995247402,
+            "INF_NOME": "Fitness Jardim Vasco da Gama",
+            "INF_MORADA": "Rua Vieira Portuense"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.12008679830866,
+            "Latitude": 38.77206399057,
+            "INF_NOME": "Fitness Alameda da Encarnação",
+            "INF_MORADA": "Alameda da Encarnação"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.13693671630346,
+            "Latitude": 38.7429638083612,
+            "INF_NOME": "Fitness Jardim Fernando Pessa ",
+            "INF_MORADA": "Jardim Fernando Pessa"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.14673667985331,
+            "Latitude": 38.7544045515386,
+            "INF_NOME": "Fitness Rua Eugénio de Castro ",
+            "INF_MORADA": "Rua Eugénio de Castro"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.19274042495754,
+            "Latitude": 38.7206957888186,
+            "INF_NOME": "Circuito de Manutenção Sénior da Alameda Keil do Amaral",
+            "INF_MORADA": "Alameda Keil do Amaral"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.11554595907035,
+            "Latitude": 38.7324315995951,
+            "INF_NOME": "Fitness Parque da Mata de Madre de Deus ",
+            "INF_MORADA": "Largo da Madre de Deus"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.09706477804673,
+            "Latitude": 38.7457421424238,
+            "INF_NOME": "Fitness do Parque Ribeirinho Oriente",
+            "INF_MORADA": "Rua C ao Braço de Prata"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.22425773312182,
+            "Latitude": 38.6993610913196,
+            "INF_NOME": "Fitness Rua Dom Jerónimo Osório",
+            "INF_MORADA": "Rua Dom Jerónimo Osório"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.20555518007228,
+            "Latitude": 38.7479476583373,
+            "INF_NOME": "Fitness Parque Silva Porto / Mata de Benfica ",
+            "INF_MORADA": "Rua Tomás de Figueiredo"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.20653953540868,
+            "Latitude": 38.7332084520136,
+            "INF_NOME": "Fitness Bairro da Boavista",
+            "INF_MORADA": "Largo Rainha Dona Leonor"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.19073682354398,
+            "Latitude": 38.7523610773214,
+            "INF_NOME": "Fitness Quinta da Granja",
+            "INF_MORADA": "Largo da Revista Militar"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.15805288602386,
+            "Latitude": 38.7335381308503,
+            "INF_NOME": "Fitness do Corredor Verde",
+            "INF_MORADA": "Rua Marquês de Fronteira"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.17614816071277,
+            "Latitude": 38.7695214143372,
+            "INF_NOME": "Fitness Quinta da Paz",
+            "INF_MORADA": "Azinhaga da Torre do Fato"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.11824503318858,
+            "Latitude": 38.7676943501943,
+            "INF_NOME": "Fitness Parque do Vale do Silêncio ",
+            "INF_MORADA": "Parque do Vale do Silêncio"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.16957591594847,
+            "Latitude": 38.7830887575523,
+            "INF_NOME": "Fitness Encosta do Olival",
+            "INF_MORADA": "Rua Isabel Magalhães Colaço"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.20757445351923,
+            "Latitude": 38.7501299209272,
+            "INF_NOME": "Fitness Rua João Frederico Ludovice",
+            "INF_MORADA": "Rua João Frederico Ludovice"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.13239708673439,
+            "Latitude": 38.7369905053933,
+            "INF_NOME": "Fitness Jardim da Alameda Dom Afonso Henriques ",
+            "INF_MORADA": "Alameda Dom Afonso Henriques"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.15872014974806,
+            "Latitude": 38.769396778642,
+            "INF_NOME": "Fitness Quinta das Conchas",
+            "INF_MORADA": "Alameda das Linhas de Torres"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.13948214925761,
+            "Latitude": 38.7209472278284,
+            "INF_NOME": "Fitness Campo dos Mártires da Pátria",
+            "INF_MORADA": "Campo dos Mártires da Pátria"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.14202133600953,
+            "Latitude": 38.7355539380447,
+            "INF_NOME": "Fitness Jardim do Arco do Cego",
+            "INF_MORADA": "Rua de Dona Filipa de Vilhena"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.17998850682549,
+            "Latitude": 38.7656747666727,
+            "INF_NOME": "Fitness do B. da Horta Nova",
+            "INF_MORADA": "Impasse à Rua Virgílio Martinho"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.1778926453647,
+            "Latitude": 38.7530310169872,
+            "INF_NOME": "Fitness Parque Bensaúde",
+            "INF_MORADA": "Rua Maestro Jaime Silva (Filho)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.15387020609406,
+            "Latitude": 38.7277072763839,
+            "INF_NOME": "Fitness Parque Eduardo VII",
+            "INF_MORADA": "Parque Eduardo VII de Inglaterra"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.17874217552357,
+            "Latitude": 38.7560594174936,
+            "INF_NOME": "Fitness Jardim da Rua Inocêncio Francisco da Silva",
+            "INF_MORADA": "Rua Inocêncio Francisco da Silva"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.18944276194332,
+            "Latitude": 38.746730856624,
+            "INF_NOME": "Fitness Rua Ten. Coronel Ribeiro dos Reis",
+            "INF_MORADA": "Rua Ten. Coronel Ribeiro dos Reis"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.11320006793951,
+            "Latitude": 38.7747323826337,
+            "INF_NOME": "Fitness Parque Recreativo dos Olivais Norte",
+            "INF_MORADA": "Rua Capitão Tenente Oliveira e Carmo"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.16506285635116,
+            "Latitude": 38.7603391145769,
+            "INF_NOME": "Fitness Jardim Professor Francisco Caldeira Cabral ",
+            "INF_MORADA": "Jardim Prof. Francisco Caldeira Cabral"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.2065350541442,
+            "Latitude": 38.7543227737367,
+            "INF_NOME": "Fitness Quinta das Pedralvas",
+            "INF_MORADA": "Rua 3 do Bairro da Quinta das Pedralvas"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.15869168067836,
+            "Latitude": 38.7150602145417,
+            "INF_NOME": "Fitness Jardim da Estrela",
+            "INF_MORADA": "Jardim Guerra Junqueiro(Jardim da Estrela)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.14345765220515,
+            "Latitude": 38.7863991381388,
+            "INF_NOME": "Fitness Campo das Amoreiras ",
+            "INF_MORADA": "Campo das Amoreiras(antigo Largo da Charneca)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.12314177401067,
+            "Latitude": 38.7447776317837,
+            "INF_NOME": "Fitness Parque da Bela Vista Sul",
+            "INF_MORADA": "Rua Jorge Amado(antiga Rua M1 da Zona M de Chelas)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.17616951785476,
+            "Latitude": 38.7371451746909,
+            "INF_NOME": "Circuito de Manutenção do Calhau",
+            "INF_MORADA": "Rua António Macedo(antiga Rua A do Bairro do Calhau)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.11198569689562,
+            "Latitude": 38.7461744803337,
+            "INF_NOME": "Parque Calisténico do B. do Condado (Marvila)",
+            "INF_MORADA": "Rua Carlos Gentil(antiga Rua J 13 da Zona J de Chelas)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.12309022938042,
+            "Latitude": 38.7671940838921,
+            "INF_NOME": "Fitness Rua Cidade da Beira",
+            "INF_MORADA": "Rua Cidade da Beira(antigas Ruas B1 e B6 de Olivais Sul)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.20592550190289,
+            "Latitude": 38.731763931728,
+            "INF_NOME": "Parque Crossfit do Bairro da Boavista",
+            "INF_MORADA": "Rua das Acácias(antigo Impasse C1 do Bairro da Boavista)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.18771283728251,
+            "Latitude": 38.7433289740725,
+            "INF_NOME": "Circuito de Manutenção da Mata de São Domingos de Benfica",
+            "INF_MORADA": "Avenida General Correia Barreto(antiga Radial de Benfica)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.15976827290173,
+            "Latitude": 38.7345793235396,
+            "INF_NOME": "Street Workout do Corredor Verde",
+            "INF_MORADA": "Rua da Mesquita(antigo Prolongamento da Av. Ressano Garcia)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.1977804592515,
+            "Latitude": 38.7568927403779,
+            "INF_NOME": "Fitness da Quinta do Charquinho",
+            "INF_MORADA": "Rua João Baptista Ribeiro(antiga Rua B à Quinta do Charquinho)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.14904261802425,
+            "Latitude": 38.7772840915166,
+            "INF_NOME": "Fitness Parque Vale Grande",
+            "INF_MORADA": "Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.15153503744505,
+            "Latitude": 38.7789617486011,
+            "INF_NOME": "Circuito de Manutenção do Vale Grande",
+            "INF_MORADA": "Avenida Nuno Krus Abecassis(antiga Avenida 4 do Alto do Lumiar)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.15456363757229,
+            "Latitude": 38.7934072460097,
+            "INF_NOME": "Fitness Vale da Ameixoeira - Grafanil",
+            "INF_MORADA": "Rua do Grafanil(antiga Rua A da Quinta da Pailepa à Ameixoeira)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.11008481710268,
+            "Latitude": 38.7534001894176,
+            "INF_NOME": "Parque Street Workout da Rua Professor Lopo de Carvalho",
+            "INF_MORADA": "Rua Prof. Lopo de Carvalho(antiga Rua I-20 da Malha I de Chelas)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.17759122166152,
+            "Latitude": 38.7614664071733,
+            "INF_NOME": "Fitness Alameda Roentgen ",
+            "INF_MORADA": "Alameda Roentgen(antiga Alameda Central à Quinta dos Inglesinhos)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.11002848502348,
+            "Latitude": 38.7403509392609,
+            "INF_NOME": "Fitness e Calisténico de Marvila",
+            "INF_MORADA": "Rua António Gedeão(antigo Troço da Rua F do Bairro dos Alfinetes)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.1954982129698,
+            "Latitude": 38.7587739264672,
+            "INF_NOME": "Fitness do Jardim Adão Barata",
+            "INF_MORADA": "Rua D. António Francisco Marques(antiga Rua D da Quinta do Bom Nome)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.10887888022928,
+            "Latitude": 38.7531394973446,
+            "INF_NOME": "Fitness Parque do Vale Fundão ",
+            "INF_MORADA": "Rua Capitão-Mor Lopes de Sequeira(antiga Rua I 18 da Malha de Chelas)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.11943231477746,
+            "Latitude": 38.7677270492159,
+            "INF_NOME": "Circuito de Manutenção do Vale do Silêncio",
+            "INF_MORADA": "Avenida Cidade de Lourenço Marques(antiga Rua B da Célula B de Olivais Sul)"
+        },
+        {
+            "type": "Desporto_EquipamentosFitness",
+            "Longitude": -9.12671581039172,
+            "Latitude": 38.7402050352272,
+            "INF_NOME": null,
+            "INF_MORADA": null
+        }
+    ]
+}

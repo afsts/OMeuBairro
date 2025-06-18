@@ -1,0 +1,134 @@
+{
+    "features": [
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.17815452179643,
+            "Latitude": 38.705588927006,
+            "INF_NOME": "Espaço Cidadão CTT de Lisboa - Calvário",
+            "INF_MORADA": "Rua dos Lusíadas, 5-5C;",
+            "INF_TELEFONE": "707241107 ",
+            "INF_SITE": null,
+            "FREGUESIA": "Alcântara"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.13968939079662,
+            "Latitude": 38.7078095263014,
+            "INF_NOME": "Espaço Cidadão CTT de Lisboa - Praça do Município",
+            "INF_MORADA": "Praça do Município, 1-7;",
+            "INF_TELEFONE": "707241107 ",
+            "INF_SITE": null,
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.14402292178244,
+            "Latitude": 38.7104966665039,
+            "INF_NOME": "Espaço Cidadão CTT de Lisboa - Chiado",
+            "INF_MORADA": "Praça de Luís de Camões, 17-27;",
+            "INF_TELEFONE": "707241107 ",
+            "INF_SITE": null,
+            "FREGUESIA": "Misericórdia"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.13697690099628,
+            "Latitude": 38.7125034881533,
+            "INF_NOME": "Espaço Cidadão CTT de Lisboa - Santa Justa",
+            "INF_MORADA": "Rua de Santa Justa, 15-21;",
+            "INF_TELEFONE": "707241107",
+            "INF_SITE": null,
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.1410908298171,
+            "Latitude": 38.7160386950554,
+            "INF_NOME": "Espaço Cidadão CTT de Lisboa - Restauradores",
+            "INF_MORADA": "Praça dos Restauradores, 58-61",
+            "INF_TELEFONE": "707241107",
+            "INF_SITE": null,
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.13533148727243,
+            "Latitude": 38.7177742433593,
+            "INF_NOME": "Espaço Cidadão CTT de Lisboa - Socorro",
+            "INF_MORADA": "Rua da Palma, 236-238;",
+            "INF_TELEFONE": "707241107",
+            "INF_SITE": null,
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.14445061951357,
+            "Latitude": 38.7312209648191,
+            "INF_NOME": "Lisboa Saldanha",
+            "INF_MORADA": "Mercado 31 de Janeiro Rua Engenheiro Vieira da Silva n.º 24, 1.º Piso, Praça Duque de Saldanha, 1050-094 Lisboa",
+            "INF_TELEFONE": "300003990",
+            "INF_SITE": "www.portaldocidadao.pt",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.14828537286952,
+            "Latitude": 38.7403851968903,
+            "INF_NOME": "Espaço Cidadão CTT de Lisboa - 5 de Outubro",
+            "INF_MORADA": "Avenida Cinco de Outubro, 158-158C;",
+            "INF_TELEFONE": "707241107",
+            "INF_SITE": null,
+            "FREGUESIA": "Avenidas Novas"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.11769837335666,
+            "Latitude": 38.7496543055068,
+            "INF_NOME": "Loja do Cidadão de Marvila",
+            "INF_MORADA": "Avenida do Santo Condestável, Lote 8",
+            "INF_TELEFONE": null,
+            "INF_SITE": null,
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.17130630121954,
+            "Latitude": 38.7503694104208,
+            "INF_NOME": "Lisboa - Laranjeiras",
+            "INF_MORADA": "Rua Abranches Ferrão, 10-10D",
+            "INF_TELEFONE": "707 24 11 07",
+            "INF_SITE": "www.portaldocidadao.pt",
+            "FREGUESIA": "São Domingos de Benfica"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.2042502752404,
+            "Latitude": 38.7522719706977,
+            "INF_NOME": "Espaço Cidadão CTT de Benfica",
+            "INF_MORADA": "Rua Amélia Rey Colaço, 3-3P;",
+            "INF_TELEFONE": "707241107",
+            "INF_SITE": null,
+            "FREGUESIA": "Benfica"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.13443493602906,
+            "Latitude": 38.7249580550823,
+            "INF_NOME": "Espaço Cidadão ACM_CNAI - Lisboa",
+            "INF_MORADA": "Rua Álvaro Coutinho, 14",
+            "INF_TELEFONE": "707 241 107",
+            "INF_SITE": null,
+            "FREGUESIA": "Anjos"
+        },
+        {
+            "type": "Loja_do_Cidadão",
+            "Longitude": -9.14316610029103,
+            "Latitude": 38.7536042935358,
+            "INF_NOME": "Espaço Cidadão CTT de Lisboa - Alvalade",
+            "INF_MORADA": "Avenida da Igreja, 13A",
+            "INF_TELEFONE": "707 241 107",
+            "INF_SITE": null,
+            "FREGUESIA": "Alvalade"
+        }
+    ]
+}

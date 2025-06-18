@@ -1,0 +1,1260 @@
+{
+    "features": [
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.21344100019126,
+            "Latitude": 38.6934709998674,
+            "INF_NOME": "Vela Latina",
+            "INF_MORADA": "Doca do Bom Sucesso",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.20914699968558,
+            "Latitude": 38.696674999085,
+            "INF_NOME": "Museu da Marinha",
+            "INF_MORADA": "Praça do Império",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.20665800024658,
+            "Latitude": 38.703463999748,
+            "INF_NOME": "Ministério da Defesa Nacional",
+            "INF_MORADA": "Rua Gonçalves Zarco",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.20280000051295,
+            "Latitude": 38.7488969986638,
+            "INF_NOME": "Parque Silva Porto/Grão Vasco - Mata de Benfica",
+            "INF_MORADA": "Alameda Padre Álvaro Proença",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.19398600000469,
+            "Latitude": 38.7039029985345,
+            "INF_NOME": "Hospital Militar de Belém",
+            "INF_MORADA": "Largo da Boa-Hora à Ajuda",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.1903750002063,
+            "Latitude": 38.7484889993944,
+            "INF_NOME": "Centro Comercial Fonte Nova",
+            "INF_MORADA": "Rua Paulo Renato",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.1855109997063,
+            "Latitude": 38.7586419991008,
+            "INF_NOME": "Colégio Militar (Rua Maria Veleda)",
+            "INF_MORADA": "Rua Maria Veleda",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.1838640002002,
+            "Latitude": 38.7679139984531,
+            "INF_NOME": "Lispolis",
+            "INF_MORADA": "Rua João Morais Barbosa",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.18313600018791,
+            "Latitude": 38.7444579986031,
+            "INF_NOME": "Rua Conde de Almoster",
+            "INF_MORADA": "Rua Conde de Almoster",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09843229976494,
+            "Latitude": 38.7570012988079,
+            "INF_NOME": "Avenida Fernando Pessoa",
+            "INF_MORADA": "Avenida Fernando Pessoa",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09675789999704,
+            "Latitude": 38.7698863985439,
+            "INF_NOME": "Rua do Pólo Norte",
+            "INF_MORADA": "Rua do Pólo Norte",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.0941239997317,
+            "Latitude": 38.7693399994425,
+            "INF_NOME": "Meo Arena",
+            "INF_MORADA": "Rua do Bojador",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09249999938267,
+            "Latitude": 38.7729329998299,
+            "INF_NOME": "FIL",
+            "INF_MORADA": "Rua do Bojador",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14647200093515,
+            "Latitude": 38.7205849992768,
+            "INF_NOME": "Cinemas São Jorge",
+            "INF_MORADA": "Avenida da Liberdade",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09711000026005,
+            "Latitude": 38.7648739993378,
+            "INF_NOME": "Casino de Lisboa",
+            "INF_MORADA": "Rua do Pólo Sul",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09356409999814,
+            "Latitude": 38.7801616996247,
+            "INF_NOME": "Rua Ilha dos Amores",
+            "INF_MORADA": "Rua Ilha dos Amores",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09470899976352,
+            "Latitude": 38.7780399993008,
+            "INF_NOME": "Escola Básica Vasco da Gama",
+            "INF_MORADA": "Alameda dos Oceanos",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.18028299987526,
+            "Latitude": 38.75096099931,
+            "INF_NOME": "Estádio da Luz (Alto dos Moinhos)",
+            "INF_MORADA": "Impassen à Rua João de Freitas Branco",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.17758899928573,
+            "Latitude": 38.7059859995379,
+            "INF_NOME": "Igreja Paroquial de São Pedro de Alcântara",
+            "INF_MORADA": "Rua José Dias Coelho",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.17749199994055,
+            "Latitude": 38.7392309989752,
+            "INF_NOME": "Bairro do Calhau - Quercus",
+            "INF_MORADA": "Rua António Macedo",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.17156700002486,
+            "Latitude": 38.7645689989135,
+            "INF_NOME": "Escola Básica Alto da Faia",
+            "INF_MORADA": "Rua Prof. Queiroz Veloso",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.17016099981133,
+            "Latitude": 38.7594309992827,
+            "INF_NOME": "Rua José Escada",
+            "INF_MORADA": "Rua José Escada",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16810799946088,
+            "Latitude": 38.7155609986222,
+            "INF_NOME": "Igreja do Santo Condestável (Campo de Ourique)",
+            "INF_MORADA": "Rua Padre Francisco",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16557500060371,
+            "Latitude": 38.7269219986512,
+            "INF_NOME": "Calçada dos Mestres",
+            "INF_MORADA": "Calçada dos Mestres",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15442500006415,
+            "Latitude": 38.75941999893,
+            "INF_NOME": "Hotel Radisson Blu Lisboa (Campo Grande)",
+            "INF_MORADA": "Avenida Marechal Craveiro Lopes",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16331700092154,
+            "Latitude": 38.7273999983291,
+            "INF_NOME": "Campolide",
+            "INF_MORADA": "Rua Marquês de Fronteira",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16057800003725,
+            "Latitude": 38.7723669987484,
+            "INF_NOME": "Centro Comercial do Lumiar",
+            "INF_MORADA": "Rua Cordeiro Ferreira",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15916699991875,
+            "Latitude": 38.7691669983714,
+            "INF_NOME": "Quinta das Conchas",
+            "INF_MORADA": "Alameda das Linhas de Torres",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15599999941178,
+            "Latitude": 38.731468998661,
+            "INF_NOME": "Palácio da Justiça",
+            "INF_MORADA": "Rua Marquês de Fronteira",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15583299935192,
+            "Latitude": 38.7663889991618,
+            "INF_NOME": "Igreja Paroquial de Nossa Senhora do Alto do Lumiar",
+            "INF_MORADA": "Rua Professor Salazar de Sousa",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15329700064181,
+            "Latitude": 38.7095279986864,
+            "INF_NOME": "Câmara Municipal de Lisboa - Regimento de Sapadores de Bombeiros",
+            "INF_MORADA": "Avenida Dom Carlos I",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15152499987848,
+            "Latitude": 38.7475829987348,
+            "INF_NOME": "Avenida das Forças Armadas - IMTT",
+            "INF_MORADA": "Avenida das Forças Armadas",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14959199984468,
+            "Latitude": 38.7387939991059,
+            "INF_NOME": "Avenida Elias Garcia - AMTL",
+            "INF_MORADA": "Avenida Elias Garcia",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14790799926058,
+            "Latitude": 38.7075469997804,
+            "INF_NOME": "Câmara Municipal de Lisboa - Dom Luís I",
+            "INF_MORADA": "Rua Dom Luís I",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14682799956429,
+            "Latitude": 38.7410859991343,
+            "INF_NOME": "Antiga Sede EMEL",
+            "INF_MORADA": "Avenida de Berna",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14243599962235,
+            "Latitude": 38.7861329995711,
+            "INF_NOME": "Junta de Freguesia da Charneca (Campo das Amoreiras)",
+            "INF_MORADA": "---- Campo das Amoreiras",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14053600038781,
+            "Latitude": 38.7582419993805,
+            "INF_NOME": "LNEC",
+            "INF_MORADA": "Avenida do Brasil",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.1383810002376,
+            "Latitude": 38.7434779992757,
+            "INF_NOME": "Fórum Lisboa",
+            "INF_MORADA": "Avenida de Roma",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13583300014336,
+            "Latitude": 38.7591669989,
+            "INF_NOME": "Rua Alferes Malheiro (Parque de Alvalade)",
+            "INF_MORADA": "Rua Alferes Malheiro",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13002300024574,
+            "Latitude": 38.7168889986046,
+            "INF_NOME": "Largo da Graça, nº 58",
+            "INF_MORADA": "Largo da Graça",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.12887800069904,
+            "Latitude": 38.722271999012,
+            "INF_NOME": "Avenida General Roçadas (Regimento de Transmissões)",
+            "INF_MORADA": "Avenida General Roçadas",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.12452199994803,
+            "Latitude": 38.7122859997476,
+            "INF_NOME": "Museu Militar",
+            "INF_MORADA": "Largo do Museu de Artilharia",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.12108099980658,
+            "Latitude": 38.7174809991365,
+            "INF_NOME": "Santa Apolónia (Museu da Água)",
+            "INF_MORADA": "Rua da Cruz de Santa Apolónia",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.11508899981565,
+            "Latitude": 38.7567749991086,
+            "INF_NOME": "ISEL",
+            "INF_MORADA": "Rua Conselheiro Emídio Navarro",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.11222199999314,
+            "Latitude": 38.7749999992494,
+            "INF_NOME": "Olivais Norte",
+            "INF_MORADA": "Rua Alferes Barrilaro Ruas",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.17365800011334,
+            "Latitude": 38.7076299994075,
+            "INF_NOME": "Estação Alcântara Terra",
+            "INF_MORADA": "Avenida de Ceuta",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.10912799990608,
+            "Latitude": 38.7679309988229,
+            "INF_NOME": "Praça Baden Powell",
+            "INF_MORADA": "Praça Baden Powell",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.10548100030927,
+            "Latitude": 38.7339689989007,
+            "INF_NOME": "Convento do Beato",
+            "INF_MORADA": "Rua do Beato",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.10416699985769,
+            "Latitude": 38.7494439990952,
+            "INF_NOME": "Rua Vale Formoso Cima",
+            "INF_MORADA": "Rua Vale Formoso Cima",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.10199999995644,
+            "Latitude": 38.7428409991147,
+            "INF_NOME": "Marvila",
+            "INF_MORADA": "Rua Fernando Palha",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16899399944578,
+            "Latitude": 38.7029699990733,
+            "INF_NOME": "Museu do Oriente",
+            "INF_MORADA": "Avenida de Brasília",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14196599980003,
+            "Latitude": 38.7167489990599,
+            "INF_NOME": "Junto à Praça dos Restauradores (Lado Este)",
+            "INF_MORADA": "Avenida da Liberdade",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15110400075464,
+            "Latitude": 38.7219949993835,
+            "INF_NOME": "Direcção Municipal",
+            "INF_MORADA": "Rua Alexandre Herculano",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.20411899977223,
+            "Latitude": 38.697296999558,
+            "INF_NOME": "Parque Belém I",
+            "INF_MORADA": "Rua de Belém",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.1561689997139,
+            "Latitude": 38.7605419988995,
+            "INF_NOME": "Estação Metro Campo Grande",
+            "INF_MORADA": "Rua Actor António Silva",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.1719500003416,
+            "Latitude": 38.7500969993201,
+            "INF_NOME": "Parque EMEL - Estrada da Luz",
+            "INF_MORADA": "Rua Manuel da Silva Leal",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16005600034536,
+            "Latitude": 38.7532999997223,
+            "INF_NOME": "Parque EMEL - Universidade",
+            "INF_MORADA": "Avenida Professor Gama Pinto",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16010599958957,
+            "Latitude": 38.7533919995236,
+            "INF_NOME": "Parque EMEL - Universidade",
+            "INF_MORADA": "Avenida Professor Gama Pinto",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15501399938438,
+            "Latitude": 38.7572939985823,
+            "INF_NOME": "Parque EMEL em frente Caleidoscópio",
+            "INF_MORADA": "---- Campo Grande",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15491900047561,
+            "Latitude": 38.7571639987626,
+            "INF_NOME": "Parque EMEL em frente Caleidoscópio",
+            "INF_MORADA": "---- Campo Grande",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15411900032217,
+            "Latitude": 38.7456859989699,
+            "INF_NOME": "Avenida Álvaro Pais (Parque EMEL)",
+            "INF_MORADA": "Avenida Álvaro Pais",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15444400040117,
+            "Latitude": 38.74574999953,
+            "INF_NOME": "Avenida Álvaro Pais (Parque EMEL)",
+            "INF_MORADA": "Avenida Álvaro Pais",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15114340008686,
+            "Latitude": 38.7294709991871,
+            "INF_NOME": "Pavilhão Carlos Lopes",
+            "INF_MORADA": "Avenida de Sidónio Pais",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14833330038187,
+            "Latitude": 38.7486110996536,
+            "INF_NOME": "Parque EMEL Biblioteca Nacional (Entrecampos)",
+            "INF_MORADA": "Parque EMEL Biblioteca Nacional (Entrecampos)",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14035599940964,
+            "Latitude": 38.725210998823,
+            "INF_NOME": "Parque EMEL Gomes Freire",
+            "INF_MORADA": "Rua Gomes Freire",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13256600039231,
+            "Latitude": 38.7437519994427,
+            "INF_NOME": "Parque EMEL Areeiro",
+            "INF_MORADA": "Avenida Almirante Gago Coutinho",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14761099961673,
+            "Latitude": 38.7122609993084,
+            "INF_NOME": "Garagem MAOTE",
+            "INF_MORADA": "Rua de O Século",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14187299933573,
+            "Latitude": 38.7162719990539,
+            "INF_NOME": "Parque de Estacionamento dos Restauradores",
+            "INF_MORADA": "Praça dos Restauradores",
+            "INF_TOMADAS": null
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.1482190000446,
+            "Latitude": 38.7077519995633,
+            "INF_NOME": "Câmara Municipal de Lisboa - Dom Luís I",
+            "INF_MORADA": "Rua Dom Luís I",
+            "INF_TOMADAS": null
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14942599926159,
+            "Latitude": 38.7365609990517,
+            "INF_NOME": "Parque de Estacionamento de Valbom",
+            "INF_MORADA": "Avenida Marquês de Tomar",
+            "INF_TOMADAS": null
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14670100087451,
+            "Latitude": 38.7321759992493,
+            "INF_NOME": "Parque de Estacionamento de Saldanha",
+            "INF_MORADA": "Avenida Cinco de Outubro",
+            "INF_TOMADAS": null
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.20611700035101,
+            "Latitude": 38.7078999995863,
+            "INF_NOME": "Parque Urbano dos Moinhos de Santana",
+            "INF_MORADA": "Rua Tristão Vaz",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.18010599952617,
+            "Latitude": 38.7632719989795,
+            "INF_NOME": "Quinta dos Inglesinhos",
+            "INF_MORADA": "Rua Poeta Bocage",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.0986879996277,
+            "Latitude": 38.7667179991815,
+            "INF_NOME": "Hotel Tivoli Oriente (Gare do Oriente)",
+            "INF_MORADA": "Passeio do Báltico",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.17157800036622,
+            "Latitude": 38.7069169984298,
+            "INF_NOME": "Palácio das Necessidades",
+            "INF_MORADA": "Largo das Necessidades",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16234999901759,
+            "Latitude": 38.7043169992482,
+            "INF_NOME": "Museu Arte Antiga",
+            "INF_MORADA": "Jardim Nove de Abril",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15090600045205,
+            "Latitude": 38.7067219989268,
+            "INF_NOME": "Avenida 24 de Julho (Parque Vitorino Damásio)",
+            "INF_MORADA": "Avenida Vinte e Quatro de Julho",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14342200061189,
+            "Latitude": 38.7060249988955,
+            "INF_NOME": "Cais do Sodré MOB",
+            "INF_MORADA": "---- Cais do Sodré",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13511099909236,
+            "Latitude": 38.7414559989772,
+            "INF_NOME": "Logradouro da Avenida Paris",
+            "INF_MORADA": "Avenida de Paris",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.1155559999249,
+            "Latitude": 38.767777999239,
+            "INF_NOME": "SAMS",
+            "INF_MORADA": "Rua Cidade de Nova Lisboa",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.10444399924666,
+            "Latitude": 38.76277799951,
+            "INF_NOME": "Metro Cabo Ruivo",
+            "INF_MORADA": "Avenida de Pádua",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.22630299999017,
+            "Latitude": 38.6976559989913,
+            "INF_NOME": "Parque Algés",
+            "INF_MORADA": "Rua Damião de Gois",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.19317200002799,
+            "Latitude": 38.696841998365,
+            "INF_NOME": "Parque Travessa dos Escaleres",
+            "INF_MORADA": "Travessa dos Escaleres",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.21510270038741,
+            "Latitude": 38.6948527995913,
+            "INF_NOME": "Avenida Torre de Belém-ERSE",
+            "INF_MORADA": "Avenida da Torre de Belém",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.21412499985382,
+            "Latitude": 38.7151609990711,
+            "INF_NOME": "Escola Básica de Caselas",
+            "INF_MORADA": "Rua Frederico Valério",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.2136719993877,
+            "Latitude": 38.7111529995582,
+            "INF_NOME": "McDonalds do Restelo",
+            "INF_MORADA": "Rua Gregório Lopes",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.20826099977938,
+            "Latitude": 38.7068469989124,
+            "INF_NOME": "Museu de Etnologia",
+            "INF_MORADA": "Avenida da Ilha da Madeira",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.20302499976005,
+            "Latitude": 38.7562719992075,
+            "INF_NOME": "Escola Básica Jorge Barradas",
+            "INF_MORADA": "Rua Jorge Barradas",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.19795600011565,
+            "Latitude": 38.7136999993644,
+            "INF_NOME": "Universidade Técnica de Lisboa - ISCSP",
+            "INF_MORADA": "Avenida da Universidade Técnica",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.1878170004286,
+            "Latitude": 38.6971779993825,
+            "INF_NOME": "Café In Belém",
+            "INF_MORADA": "Avenida de Brasília",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.1864529997165,
+            "Latitude": 38.7058749987045,
+            "INF_NOME": "Escola Francisco de Arruda",
+            "INF_MORADA": "Calçada da Tapada",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.18569999933955,
+            "Latitude": 38.7194359990355,
+            "INF_NOME": "Parque Infantil do Alvito (Monsanto)",
+            "INF_MORADA": "Estrada do Alvito",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.18561009943965,
+            "Latitude": 38.7049187982843,
+            "INF_NOME": "Jardim Alto Santo Amaro",
+            "INF_MORADA": "Rua Pedro Calmon",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.18244199958301,
+            "Latitude": 38.7600829989389,
+            "INF_NOME": "Largo da Luz",
+            "INF_MORADA": "Largo da Luz",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.18096099964644,
+            "Latitude": 38.6996079992058,
+            "INF_NOME": "Centro de Congressos de Lisboa (Antiga FIL)",
+            "INF_MORADA": "Travessa da Galé",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09753740023724,
+            "Latitude": 38.778146098978,
+            "INF_NOME": "Pousada da Juventude do Parque das Nações",
+            "INF_MORADA": "Avenida D. João II",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09532390027846,
+            "Latitude": 38.7605682986145,
+            "INF_NOME": "Rua Pedro e Inês",
+            "INF_MORADA": "Rua Pedro e Inês",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09532200029093,
+            "Latitude": 38.7756169993614,
+            "INF_NOME": "Alameda dos Oceanos (Torre Vasco da Gama)",
+            "INF_MORADA": "Alameda dos Oceanos",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09675900037293,
+            "Latitude": 38.763099998588,
+            "INF_NOME": "Avenida do Mediterrâneo (Pavilhão do Conhecimento)",
+            "INF_MORADA": "Avenida do Mediterrâneo",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09516899908752,
+            "Latitude": 38.7543879996278,
+            "INF_NOME": "Rua das Musas (Marina Parque das Nações)",
+            "INF_MORADA": "Rua das Musas (Marina Parque das Nações)",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09475350020761,
+            "Latitude": 38.7576099994822,
+            "INF_NOME": "Rua dos Aventureiros",
+            "INF_MORADA": "Rua dos Aventureiros",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.17973299940749,
+            "Latitude": 38.7347719990166,
+            "INF_NOME": "Parque da Serafina (Monsanto)",
+            "INF_MORADA": "Parque da Serafina (Monsanto)",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.17880800032895,
+            "Latitude": 38.7052779992626,
+            "INF_NOME": "Mercado de Alcântara",
+            "INF_MORADA": "Rua Leão de Oliveira",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.18583299997121,
+            "Latitude": 38.740069999227,
+            "INF_NOME": "Espaço Monsanto",
+            "INF_MORADA": "Estrada da Serafina",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.17664699956347,
+            "Latitude": 38.7694779987571,
+            "INF_NOME": "Hospital da Força Aérea (Paço do Lumiar)",
+            "INF_MORADA": "Azinhaga da Torre do Fato",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.17165799963869,
+            "Latitude": 38.769160999545,
+            "INF_NOME": "Rua Fernando Lopes Graça",
+            "INF_MORADA": "Rua Fernando Lopes Graça",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16981399959854,
+            "Latitude": 38.7717189983221,
+            "INF_NOME": "Rua Professor Manuel Viegas Guerreiro",
+            "INF_MORADA": "Rua Professor Manuel Viegas Guerreiro",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16669400061553,
+            "Latitude": 38.7612969992196,
+            "INF_NOME": "Estação Metro Telheiras",
+            "INF_MORADA": "Rua Prof. Vieira de Almeida",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13805300049407,
+            "Latitude": 38.7489429993352,
+            "INF_NOME": "Avenida Estados Unidos da América (REN)",
+            "INF_MORADA": "Avenida dos Estados Unidos da América",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16414999958652,
+            "Latitude": 38.7251359983822,
+            "INF_NOME": "Arco do Carvalhão (Lycée Français Charles Lepierre)",
+            "INF_MORADA": "Rua do Arco do Carvalhão",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16352200011494,
+            "Latitude": 38.7155169991828,
+            "INF_NOME": "Escola de Pedro Nunes",
+            "INF_MORADA": "Rua Domingos Sequeira",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15897199916685,
+            "Latitude": 38.7217359995501,
+            "INF_NOME": "EPAL (Traseiras)",
+            "INF_MORADA": "Rua Gorgel do Amaral",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15840299954048,
+            "Latitude": 38.735366999006,
+            "INF_NOME": "Mesquita Central de Lisboa",
+            "INF_MORADA": "Rua da Mesquita",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15613100025039,
+            "Latitude": 38.7376439987781,
+            "INF_NOME": "Jardim da Fundação Calouste Gulbenkian (Praça de Espanha)",
+            "INF_MORADA": "Avenida de Berna",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15431400098836,
+            "Latitude": 38.70756099903,
+            "INF_NOME": "Largo de Santos",
+            "INF_MORADA": "Largo de Santos",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15361100009036,
+            "Latitude": 38.7649999989965,
+            "INF_NOME": "Quinta do Lambert",
+            "INF_MORADA": "Rua Manuel Marques",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15254200011814,
+            "Latitude": 38.7314579994105,
+            "INF_NOME": "Avenida Sidónio Pais (El Corte Inglés)",
+            "INF_MORADA": "Avenida de Sidónio Pais",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14970280912399,
+            "Latitude": 38.7488018293348,
+            "INF_NOME": "Edifício CML Campo Grande",
+            "INF_MORADA": "---- Campo Grande",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14777500063578,
+            "Latitude": 38.7330749999538,
+            "INF_NOME": "Loja EMEL",
+            "INF_MORADA": "Rua Pedro Nunes",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14761400026837,
+            "Latitude": 38.7126169991786,
+            "INF_NOME": "Ministério do Ambiente",
+            "INF_MORADA": "Rua de O Século",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14416200006647,
+            "Latitude": 38.7566044989971,
+            "INF_NOME": "Escola Básica Eugénio Santos",
+            "INF_MORADA": "Rua Aprígio Mafra",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14245000059658,
+            "Latitude": 38.7096719994596,
+            "INF_NOME": "Teatro Municipal São Luiz",
+            "INF_MORADA": "Rua António Maria Cardoso",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14056600076852,
+            "Latitude": 38.7380109990445,
+            "INF_NOME": "Avenida António José de Almeida (IST)",
+            "INF_MORADA": "Avenida de António José de Almeida",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13781399926591,
+            "Latitude": 38.7527079987103,
+            "INF_NOME": "Estádio 1º Maio INATEL",
+            "INF_MORADA": "Avenida do Rio de Janeiro",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13507400030971,
+            "Latitude": 38.7212949990706,
+            "INF_NOME": "Travessa do Cidadão João Gonçalves",
+            "INF_MORADA": "Travessa do Cidadão João Gonçalves",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13000000054049,
+            "Latitude": 38.7597219988404,
+            "INF_NOME": "Avenida Almirante Gago Coutinho (Colégio N Avozinha)",
+            "INF_MORADA": "Avenida Almirante Gago Coutinho",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.12783600109477,
+            "Latitude": 38.7371559995201,
+            "INF_NOME": "Fonte Luminosa",
+            "INF_MORADA": "Rua Coronel Ferreira do Amaral",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.12412200014625,
+            "Latitude": 38.7151079994308,
+            "INF_NOME": "Panteão Nacional",
+            "INF_MORADA": "---- Campo de Santa Clara",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.12311399967536,
+            "Latitude": 38.7291609996718,
+            "INF_NOME": "Cemitério do Alto São João",
+            "INF_MORADA": "Parada do Alto de São João",
+            "INF_TOMADAS": 4
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.11950000030645,
+            "Latitude": 38.7651139986093,
+            "INF_NOME": "Mercado Olivais",
+            "INF_MORADA": "Avenida Cidade de Lourenço Marques",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.11379400024893,
+            "Latitude": 38.7535859991699,
+            "INF_NOME": "Bairro das Amendoeiras",
+            "INF_MORADA": "Avenida Dr. Augusto de Castro",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13672800047013,
+            "Latitude": 38.7402749982935,
+            "INF_NOME": "Praça de Londres (Igreja Paroquial São João de Deus)",
+            "INF_MORADA": "Praça de Londres",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16007419901475,
+            "Latitude": 38.7128850992392,
+            "INF_NOME": "Basílica da Estrela",
+            "INF_MORADA": "Praça da Estrela",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.10861100077961,
+            "Latitude": 38.7541669994885,
+            "INF_NOME": "Rua Doutor José Espírito Santo (Renault Services)",
+            "INF_MORADA": "Rua Doutor José Espírito Santo (Renault Services)",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.10138900077866,
+            "Latitude": 38.7455559994393,
+            "INF_NOME": "Estação Braço de Prata",
+            "INF_MORADA": "Rua Vale Formoso",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09764699935476,
+            "Latitude": 38.7475329988154,
+            "INF_NOME": "Matinha (ANTRAM Lisboa)",
+            "INF_MORADA": "Rua Três",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14621099995859,
+            "Latitude": 38.7066649984531,
+            "INF_NOME": "Mercado da Ribeira",
+            "INF_MORADA": "Praça de Dom Luís I",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13863199930889,
+            "Latitude": 38.7083589986619,
+            "INF_NOME": "Praça do Município - Rua do Comércio",
+            "INF_MORADA": "Rua do Comércio",
+            "INF_TOMADAS": 2
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.22615000002311,
+            "Latitude": 38.6975779989463,
+            "INF_NOME": "Parque Algés",
+            "INF_MORADA": "Rua Damião de Gois",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.20154200009433,
+            "Latitude": 38.6966859993411,
+            "INF_NOME": "Parque Belém II",
+            "INF_MORADA": "Praça Afonso de Albuquerque",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.19332800006484,
+            "Latitude": 38.6968219989209,
+            "INF_NOME": "Parque Travessa dos Escaleres",
+            "INF_MORADA": "Travessa dos Escaleres",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.18976699999241,
+            "Latitude": 38.7535109986493,
+            "INF_NOME": "Parque EMEL viaduto da Avenida Lusíada",
+            "INF_MORADA": "Avenida Lusíada",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16742399898126,
+            "Latitude": 38.7420179986484,
+            "INF_NOME": "Sete Rios (Parque sob o viaduto do Eixo Norte/Sul)",
+            "INF_MORADA": "Praça Marechal Humberto Delgado",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16237800004652,
+            "Latitude": 38.7455359984673,
+            "INF_NOME": "Parque EMEL (Ramal de acesso à Avenida Combatentes)",
+            "INF_MORADA": "Avenida dos Combatentes",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.16020599981761,
+            "Latitude": 38.7535719995698,
+            "INF_NOME": "Parque EMEL - Universidade",
+            "INF_MORADA": "Avenida Professor Gama Pinto",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15484199984136,
+            "Latitude": 38.7570559989452,
+            "INF_NOME": "Parque EMEL em frente Caleidoscópio",
+            "INF_MORADA": "---- Campo Grande",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15428100064623,
+            "Latitude": 38.7457169993558,
+            "INF_NOME": "Avenida Álvaro Pais (Parque EMEL)",
+            "INF_MORADA": "Avenida Álvaro Pais",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15129399984264,
+            "Latitude": 38.7295669985811,
+            "INF_NOME": "Pavilhão Carlos Lopes",
+            "INF_MORADA": "Avenida de Sidónio Pais",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15103362966069,
+            "Latitude": 38.7504799895026,
+            "INF_NOME": "Parque EMEL Biblioteca Nacional",
+            "INF_MORADA": "Parque EMEL Biblioteca Nacional",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14037500049426,
+            "Latitude": 38.7253059987702,
+            "INF_NOME": "Parque EMEL Gomes Freire",
+            "INF_MORADA": "Rua Gomes Freire",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13246399996138,
+            "Latitude": 38.7439019991956,
+            "INF_NOME": "Parque EMEL Areeiro",
+            "INF_MORADA": "Avenida Almirante Gago Coutinho",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.13535000025933,
+            "Latitude": 38.7122369985052,
+            "INF_NOME": "Parque EMEL - Mercado Chão Loureiro",
+            "INF_MORADA": "Largo da Atafona",
+            "INF_TOMADAS": 6
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.18886700024828,
+            "Latitude": 38.7545669991112,
+            "INF_NOME": "Centro Comercial Colombo",
+            "INF_MORADA": "Avenida do Colégio Militar",
+            "INF_TOMADAS": null
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.15008900063039,
+            "Latitude": 38.7252619990982,
+            "INF_NOME": "Parque de Estacionamento Marquês de Pombal",
+            "INF_MORADA": "Praça do Marquês de Pombal",
+            "INF_TOMADAS": null
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.14556700022317,
+            "Latitude": 38.7338659997715,
+            "INF_NOME": "Centro Comercial Dolce Vita Monumental",
+            "INF_MORADA": "Praça do Duque de Saldanha",
+            "INF_TOMADAS": null
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.09728099987662,
+            "Latitude": 38.7677609990007,
+            "INF_NOME": "Centro Vasco da Gama",
+            "INF_MORADA": "Avenida D. João II",
+            "INF_TOMADAS": null
+        },
+        {
+            "type": "Postos_de_Carregamento_Mobi_E",
+            "Longitude": -9.20148899970556,
+            "Latitude": 38.6966059991456,
+            "INF_NOME": "Parque Belém II",
+            "INF_MORADA": "Praça Afonso de Albuquerque",
+            "INF_TOMADAS": 6
+        }
+    ]
+}

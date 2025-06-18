@@ -1,0 +1,1039 @@
+{
+    "features": [
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.15240299839831,
+            "Latitude": 38.7775847913345,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida David Mourao Ferreira",
+            "INF_LOCALIZACAO": "Ft centro de dia",
+            "FREGUESIA": "Lumiar"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.14821165827774,
+            "Latitude": 38.7830710065273,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Rogerio Moura",
+            "INF_LOCALIZACAO": "entre R Bernardo Marques e R Manuel Lopes",
+            "FREGUESIA": "StaClara"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.23027705386681,
+            "Latitude": 38.6960160446113,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL  - Restaurante\"Siesta\"(Passeio Maritímo Algés)",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.09523051232929,
+            "Latitude": 38.7824480683332,
+            "INF_NOME": "Ecoponto subterrâneo",
+            "INF_MORADA": "Avenida Peregrinacao",
+            "INF_LOCALIZACAO": "Ft 1",
+            "FREGUESIA": "P.Nações"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.09408737915936,
+            "Latitude": 38.7547676024509,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Passeio Neptuno",
+            "INF_LOCALIZACAO": "interior da marina",
+            "FREGUESIA": "P.Nações"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.11027163487625,
+            "Latitude": 38.7302220460233,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Margem",
+            "INF_LOCALIZACAO": "Entre os n.º 11 e 13",
+            "FREGUESIA": "Beato"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.15029166374951,
+            "Latitude": 38.7075947781938,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Dom Luis I",
+            "INF_LOCALIZACAO": "Ft 21",
+            "FREGUESIA": "Misericórdia"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12224360181697,
+            "Latitude": 38.7161140265984,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Mirante",
+            "INF_LOCALIZACAO": "lado oposto nº 4",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10707106357451,
+            "Latitude": 38.738409881303,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Marvila",
+            "INF_LOCALIZACAO": "fte 131",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.17360612936562,
+            "Latitude": 38.704443737033,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Vieira Silva",
+            "INF_LOCALIZACAO": "junto 13",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12089063089543,
+            "Latitude": 38.7180531614743,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Washington",
+            "INF_LOCALIZACAO": "Fte nº 54",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12407385509232,
+            "Latitude": 38.7195935403874,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Vale Santo Antonio",
+            "INF_LOCALIZACAO": "Jt 145",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10444211091486,
+            "Latitude": 38.749781623769,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Vale Formoso Cima",
+            "INF_LOCALIZACAO": "Ft 158C",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.13335811365432,
+            "Latitude": 38.7224418850233,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Maria",
+            "INF_LOCALIZACAO": "20 (esquerda)",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.15781530304698,
+            "Latitude": 38.7103664396875,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Quelhas",
+            "INF_LOCALIZACAO": "Ft 49",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.1234523653561,
+            "Latitude": 38.7203824957956,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Pedro Alexandrino",
+            "INF_LOCALIZACAO": "Ft 17",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12120787811582,
+            "Latitude": 38.7327152071872,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Quinta Lavrado",
+            "INF_LOCALIZACAO": "Jt Lt 7 e 8",
+            "FREGUESIA": "PenhaFrança"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.11185498291889,
+            "Latitude": 38.7299565588379,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Nova Grilo",
+            "INF_LOCALIZACAO": "Jt 4",
+            "FREGUESIA": "Beato"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10781315657528,
+            "Latitude": 38.7304047464929,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Grilo",
+            "INF_LOCALIZACAO": "Ft 112 Ft Igreja no lugar de Estacion",
+            "FREGUESIA": "Beato"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.11631366798355,
+            "Latitude": 38.7305586364768,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Gualdim Pais",
+            "INF_LOCALIZACAO": "junto 136",
+            "FREGUESIA": "Beato"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16773770462017,
+            "Latitude": 38.7024601269108,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL-Traseiras Armazém do Docks Club - Jto Rio Tejo",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.11705744760371,
+            "Latitude": 38.7361462175587,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Estrada Chelas",
+            "INF_LOCALIZACAO": "fte 160",
+            "FREGUESIA": "Beato"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10332391810977,
+            "Latitude": 38.7394229467512,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Beco Mitra",
+            "INF_LOCALIZACAO": "Jto Palácio Mitra",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.14488110304914,
+            "Latitude": 38.7176585015221,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Praca Alegria",
+            "INF_LOCALIZACAO": "Ft 9",
+            "FREGUESIA": "StoAntónio"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16116363567111,
+            "Latitude": 38.7121655850334,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Sao Ciro",
+            "INF_LOCALIZACAO": "junto 65-A",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.1016404730923,
+            "Latitude": 38.7425085941052,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Amorim",
+            "INF_LOCALIZACAO": "Num 8",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12740817588277,
+            "Latitude": 38.7212406376156,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Sapadores",
+            "INF_LOCALIZACAO": "fte 91-95",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.1261877430459,
+            "Latitude": 38.7211249185592,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Sapadores",
+            "INF_LOCALIZACAO": "fte 31-43",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12367012230583,
+            "Latitude": 38.7136788218245,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Largo Caminhos Ferro",
+            "INF_LOCALIZACAO": "Jt 100",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.14737398568096,
+            "Latitude": 38.7248160907156,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Camilo Castelo Branco",
+            "INF_LOCALIZACAO": "Ft 23 e 23 B -  junto ao muro",
+            "FREGUESIA": "StoAntónio"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12059534666118,
+            "Latitude": 38.7166504377574,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Bica Sapato",
+            "INF_LOCALIZACAO": "fte 36",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16069477757749,
+            "Latitude": 38.709935774956,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Lapa",
+            "INF_LOCALIZACAO": "Frente nº 73",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16743579538775,
+            "Latitude": 38.7126056060998,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Possidonio Silva",
+            "INF_LOCALIZACAO": "Ft 192",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.19898494666876,
+            "Latitude": 38.7034310975458,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Travessa Boa Hora (Ajuda)",
+            "INF_LOCALIZACAO": "Prox 42/44 (estacionamento)",
+            "FREGUESIA": "Ajuda"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.09775142121276,
+            "Latitude": 38.7782296374287,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Moscavide",
+            "INF_LOCALIZACAO": "crzt Avenida Dom João II",
+            "FREGUESIA": "P.Nações"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.11402574948293,
+            "Latitude": 38.7289204500655,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Alves Paiva Fragoso",
+            "INF_LOCALIZACAO": "Frt 2",
+            "FREGUESIA": "Beato"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.13180889291984,
+            "Latitude": 38.721013901039,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Damasceno Monteiro",
+            "INF_LOCALIZACAO": "entre 67-71",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.1960327298616,
+            "Latitude": 38.7051244582828,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Dom Vasco",
+            "INF_LOCALIZACAO": "junto 59",
+            "FREGUESIA": "Ajuda"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.11716574286521,
+            "Latitude": 38.7348211571088,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Estrada Chelas",
+            "INF_LOCALIZACAO": "frt nº 165",
+            "FREGUESIA": "Beato"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.11711922319953,
+            "Latitude": 38.7331100655092,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Estrada Chelas",
+            "INF_LOCALIZACAO": "junto 112",
+            "FREGUESIA": "Beato"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.1055212810727,
+            "Latitude": 38.7411611793039,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Marvila",
+            "INF_LOCALIZACAO": "Ft 35",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.13923464391776,
+            "Latitude": 38.7200403352008,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Manuel Bento Sousa",
+            "INF_LOCALIZACAO": "Jt Ed Faculdade Ciências Medicas",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.17257205139181,
+            "Latitude": 38.7108214740751,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Maria Pia",
+            "INF_LOCALIZACAO": "Traseiras do ( Lote 3 ) nº 17",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10079548622173,
+            "Latitude": 38.7455152032432,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Doutor Estevao Vasconcelos",
+            "INF_LOCALIZACAO": "Ft 20",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10255142125807,
+            "Latitude": 38.743527918785,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Zofimo Pedroso",
+            "INF_LOCALIZACAO": "Ft Rua Direita-Marvila",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10071090118527,
+            "Latitude": 38.7520195334378,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Vale Formoso Baixo",
+            "INF_LOCALIZACAO": "128",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12752612736786,
+            "Latitude": 38.7189696612052,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Travessa Santo Antonio (Graca)",
+            "INF_LOCALIZACAO": "Jt 12 -  parede cega no lugar de Estacion",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.20280015926225,
+            "Latitude": 38.6941001430489,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Doca Belem",
+            "INF_LOCALIZACAO": "APL - Junto a Associação Naval de Lisboa",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.21326157281132,
+            "Latitude": 38.693463356857,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Doca Bom Sucesso",
+            "INF_LOCALIZACAO": "APL - Parq. estac. do Restaurante - Vela Latina",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.17245018564321,
+            "Latitude": 38.7024182668127,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Cintura Porto Lisboa",
+            "INF_LOCALIZACAO": "APL - Frente ao Edifício Infante D. Henrique",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.170442281532,
+            "Latitude": 38.7026793369389,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Cintura Porto Lisboa",
+            "INF_LOCALIZACAO": "APL - Próx.Transisular (Tras. do Museu do Oriente)",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.17400157759945,
+            "Latitude": 38.7015937402351,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Cintura Porto Lisboa",
+            "INF_LOCALIZACAO": "APL - Frente à GNR (Unidade Controlo Costeiro)",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.11916305063959,
+            "Latitude": 38.7178425737252,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Calcada Santa Apolonia",
+            "INF_LOCALIZACAO": "Lado num 2",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.17057047791247,
+            "Latitude": 38.7004172338958,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua General Gomes Araujo",
+            "INF_LOCALIZACAO": "APL - Próximo Edifício Vasco da Gama",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16279169123096,
+            "Latitude": 38.7014499421098,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua General Gomes Araujo",
+            "INF_LOCALIZACAO": "APL - Gare Maritima Conde Obidos-Bar Último Porto",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12346074077166,
+            "Latitude": 38.7392808144479,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Olivenca",
+            "INF_LOCALIZACAO": "Ft ao Campo de Rugby",
+            "FREGUESIA": "Areeiro"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.15413902684267,
+            "Latitude": 38.7105517874832,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Industriais",
+            "INF_LOCALIZACAO": "Ft 3  7 Jt ao gradeamento -  lugar Estacion",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.15824321446779,
+            "Latitude": 38.7065253498155,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Janelas Verdes",
+            "INF_LOCALIZACAO": "Próximo nº 1",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16400047377516,
+            "Latitude": 38.7103660269066,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Ricardo Espirito Santo",
+            "INF_LOCALIZACAO": "Frente nº 21",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16577346984669,
+            "Latitude": 38.7089451359537,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Ricardo Espirito Santo",
+            "INF_LOCALIZACAO": "Frente nº 19 da Rua Arco Chafariz Terra",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16467384874017,
+            "Latitude": 38.7044329317729,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Presidente Arriaga",
+            "INF_LOCALIZACAO": "Próximo nº 9",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.19484892047689,
+            "Latitude": 38.7066935814756,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Guarda-Joias",
+            "INF_LOCALIZACAO": "Frente nº 52- B",
+            "FREGUESIA": "Ajuda"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.14106833854615,
+            "Latitude": 38.7261498262528,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Gomes Freire",
+            "INF_LOCALIZACAO": "lado oposto à Academia Militar.",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.11470874998841,
+            "Latitude": 38.7275725425289,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Gualdim Pais",
+            "INF_LOCALIZACAO": "Jt ao Mercado",
+            "FREGUESIA": "PenhaFrança"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16381917685317,
+            "Latitude": 38.7113494796098,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Sant'Ana Lapa",
+            "INF_LOCALIZACAO": "Próximo nº 113",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16040988490695,
+            "Latitude": 38.7044975574147,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida 24 Julho",
+            "INF_LOCALIZACAO": "Proximo nº 96",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16657214549692,
+            "Latitude": 38.7037405552193,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida 24 Julho",
+            "INF_LOCALIZACAO": "Próximo nº 140/142",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12805698704658,
+            "Latitude": 38.7199379820967,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Senhora Gloria",
+            "INF_LOCALIZACAO": "Ft 114 e 112",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10406994323326,
+            "Latitude": 38.7469382578416,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Fernando Mauricio",
+            "INF_LOCALIZACAO": "Crzt R Vale Formoso de Cima(direita)",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.20975467303941,
+            "Latitude": 38.6933786473177,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL-Parq. Estacion. - Frente Hotel Altis de Belém",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.14945407694309,
+            "Latitude": 38.7060887583975,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Traseiras Restaurante Cervejaria Portugália",
+            "FREGUESIA": "Misericórdia"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.17738547571513,
+            "Latitude": 38.7003114313345,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Docas- Traseiras do Rest.Tertúlia do Tejo",
+            "FREGUESIA": "Alcântara"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16799993165689,
+            "Latitude": 38.7031063661039,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Junto ao Edifício Telecom/Público",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.1780950530819,
+            "Latitude": 38.700097902399,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - (Docas) - Traseiras do Restaurante 5 Oceanos",
+            "FREGUESIA": "Alcântara"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.17638269898919,
+            "Latitude": 38.7009149133316,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - (Docas) - traseiras do Rest. Doca de Santo",
+            "FREGUESIA": "Alcântara"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.15671165388573,
+            "Latitude": 38.705538921114,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Traseiras do Restaurante Kais",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.21346201495811,
+            "Latitude": 38.6922724711255,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Departamento de Pilotagem",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.22526259988953,
+            "Latitude": 38.6965765045411,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL-Dir. Geral Rec. Naturais (Seg. Serv. Marítimos",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.15297229423862,
+            "Latitude": 38.7061211280043,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Próximo Armazém J (Academia LifeClub)",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.15534947243833,
+            "Latitude": 38.7059472019759,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Frente Estação CP Santos(Jto Barrio Latino)",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16172072418208,
+            "Latitude": 38.7029186525943,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Próximo nº 113",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.1650885840476,
+            "Latitude": 38.7028979362733,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Lisboa Vista do Tejo (Cais de Embarque)",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16673429550619,
+            "Latitude": 38.7030275014195,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Lateral ao Armazém do Docks Club",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16951348979684,
+            "Latitude": 38.7028407200553,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Frente à PSP (Divisão Investigação Criminal)",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.17506949720108,
+            "Latitude": 38.6991430927617,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL - Próx. Edifício Alcântara Terminal Cruzeiros",
+            "FREGUESIA": "Alcântara"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.18752444128367,
+            "Latitude": 38.6972116854267,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "Recinto do Parque Estacionam. do \"Café In\"",
+            "FREGUESIA": "Alcântara"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.19843894551684,
+            "Latitude": 38.6953110360381,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "Frente a  Estação Fluvial de Belém (A.P.L)",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.20679435803659,
+            "Latitude": 38.6944868463845,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "APL-Próximo à Portugalia (Espelho Àgua)",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16425557081871,
+            "Latitude": 38.7105169068122,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Abilio Lopes Rego",
+            "INF_LOCALIZACAO": "Próximo nº 22 - F (Garagem)",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.15988084900402,
+            "Latitude": 38.7076909816265,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Sao Felix",
+            "INF_LOCALIZACAO": "Frente nº 1",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10539563425075,
+            "Latitude": 38.7378383452013,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Jose Domingos Barreiros",
+            "INF_LOCALIZACAO": "Crzt R Capitão Leitão - próx das escadas",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.14788586251074,
+            "Latitude": 38.726045711015,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Duque Loule",
+            "INF_LOCALIZACAO": "Ft 112 (Crzt R Eça de Queirós)",
+            "FREGUESIA": "StoAntónio"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.11407929235765,
+            "Latitude": 38.7378647579513,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Azinhaga Salgada",
+            "INF_LOCALIZACAO": "Ft 75",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12112523859866,
+            "Latitude": 38.7158892957625,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Bica Sapato",
+            "INF_LOCALIZACAO": "Ft 50 C - Ft correios",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12048202475722,
+            "Latitude": 38.7151020490452,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Infante Dom Henrique",
+            "INF_LOCALIZACAO": "APL - Bar Lux (direita)",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10233233438939,
+            "Latitude": 38.7426379666255,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Praca David Leandro Silva",
+            "INF_LOCALIZACAO": "Ft num 24",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.0910614346435,
+            "Latitude": 38.758170406724,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Passeio Navegadores",
+            "INF_LOCALIZACAO": "jt. Edificio NAU",
+            "FREGUESIA": "P.Nações"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.11666843588855,
+            "Latitude": 38.7187103582333,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Cintura Porto Lisboa",
+            "INF_LOCALIZACAO": "APL - nº10 (Edifício TML)",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.20630769614491,
+            "Latitude": 38.6988330854365,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Jeronimos",
+            "INF_LOCALIZACAO": "Nº9 (Casa Pia) Dentro do colégio",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12305422497453,
+            "Latitude": 38.7273489191155,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Henrique Barrilaro Ruas",
+            "INF_LOCALIZACAO": "Ft 11-D",
+            "FREGUESIA": "PenhaFrança"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.20038429325693,
+            "Latitude": 38.6985901284638,
+            "INF_NOME": "Ecoponto subterrâneo",
+            "INF_MORADA": "Calcada Ajuda",
+            "INF_LOCALIZACAO": "Presid.da República (Pal.Belém) Átrio Principal",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10395018915174,
+            "Latitude": 38.7389583400874,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Capitao Leitao",
+            "INF_LOCALIZACAO": "Ft 12",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12086375240692,
+            "Latitude": 38.7211070423507,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Barao Monte Pedral",
+            "INF_LOCALIZACAO": "Ft à ASEG",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.16241395987779,
+            "Latitude": 38.7135687937259,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Santo Antonio Estrela",
+            "INF_LOCALIZACAO": "Ft 54",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.1138721496026,
+            "Latitude": 38.730299937422,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Alves Paiva Fragoso",
+            "INF_LOCALIZACAO": "Crzt R Rocha Santos",
+            "FREGUESIA": "Beato"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.13590371313233,
+            "Latitude": 38.7120790605746,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Madalena",
+            "INF_LOCALIZACAO": "fte 193",
+            "FREGUESIA": "StaMariaMaio"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.1682171799354,
+            "Latitude": 38.7046177544834,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Tenente Valadim",
+            "INF_LOCALIZACAO": "czt Av Infante Santo",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.13800007519226,
+            "Latitude": 38.7254736755563,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Escola Exercito",
+            "INF_LOCALIZACAO": "Próximo ao 40",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.13660549315358,
+            "Latitude": 38.7227833308419,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Capitao Renato Baptista",
+            "INF_LOCALIZACAO": "fte 73A",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12070659212875,
+            "Latitude": 38.7205498871922,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Barao Monte Pedral",
+            "INF_LOCALIZACAO": "Czrt Rua Genreal Justino Padrel",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.09534902607631,
+            "Latitude": 38.7553427112876,
+            "INF_NOME": "Ecoponto subterrâneo",
+            "INF_MORADA": "Rua Argonautas",
+            "INF_LOCALIZACAO": "zona sul",
+            "FREGUESIA": "P.Nações"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.1714366956741,
+            "Latitude": 38.7070482974739,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Largo Necessidades",
+            "INF_LOCALIZACAO": "Esquina com a Rua Capitão Afonso Pala",
+            "FREGUESIA": "Estrela"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.22405570938381,
+            "Latitude": 38.6958221253699,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Brasilia",
+            "INF_LOCALIZACAO": "Edif-FORMAR",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.12105950621888,
+            "Latitude": 38.7144576061807,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Avenida Infante Dom Henrique",
+            "INF_LOCALIZACAO": "APL - Pq estacionamento Ft Sta Apolónia",
+            "FREGUESIA": "S.Vicente"
+        },
+        {
+            "type": "Ecopontos",
+            "Longitude": -9.10156056850004,
+            "Latitude": 38.7451035047549,
+            "INF_NOME": "Ecoponto de superfície",
+            "INF_MORADA": "Rua Vale Formoso",
+            "INF_LOCALIZACAO": "próximo ao nº 9",
+            "FREGUESIA": "Marvila"
+        }
+    ]
+}

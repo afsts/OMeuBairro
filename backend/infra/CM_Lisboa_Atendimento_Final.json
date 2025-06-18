@@ -1,0 +1,76 @@
+{
+    "features": [
+        {
+            "type": "CM_Lisboa_Atendimento",
+            "Longitude": -9.13921064558779,
+            "Latitude": 38.7086216967878,
+            "INF_NOME": "Loja Lisboa - Baixa",
+            "INF_MORADA": "Largo de S. Julião, 8",
+            "INF_TELEFONE": "800 910 211",
+            "INF_EMAIL": "https://informacoeseservicos.lisboa.pt/",
+            "INF_SITE": "www.lisboa.pt",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Santa Maria Maior"
+        },
+        {
+            "type": "CM_Lisboa_Atendimento",
+            "Longitude": -9.14436863174797,
+            "Latitude": 38.731083089967,
+            "INF_NOME": "Loja Lisboa - Saldanha (Iniciativa Lisboa/Quiosque Europeu)",
+            "INF_MORADA": "Rua Engenheiro Vieira da Silva \nMercado 31 de Janeiro",
+            "INF_TELEFONE": "800 910 211",
+            "INF_EMAIL": "https://informacoeseservicos.lisboa.pt/",
+            "INF_SITE": "www.lisboa.pt",
+            "INF_DESCRICAO": "Atendimento especializado de aconselhamento e apoio aos investidores e empreendedores, para abertura e funcionamento de um negócio ou atividade económica, filmar em Lisboa e comunicações ao abrigo do Regime Jurídico das Atividades de Comércio, Serviços e Restauração (RJACSR).\n\nEste espaço oferece um serviço simples e rápido, concentrando num único local de atendimento a realização de todos estes pedidos:\n. Comunicações ao abrigo do RJACSR\n. Filmagens e sessões fotográficas\n. Horários de funcionamento de estabelecimentos\n. Ocupação do espaço público com mobiliário urbano\n. Dispositivos publicitários",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "CM_Lisboa_Atendimento",
+            "Longitude": -9.11776946683691,
+            "Latitude": 38.7496225835967,
+            "INF_NOME": "Loja Lisboa - Marvila",
+            "INF_MORADA": "Loja do Cidadão de Marvila; Centro Comercial Pingo Doce da Bela Vista; Avenida do Santo Condestável,  Lt 8 - Lj 34\n\n",
+            "INF_TELEFONE": "800 910 211",
+            "INF_EMAIL": "https://informacoeseservicos.lisboa.pt/",
+            "INF_SITE": "www.lisboa.pt",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "CM_Lisboa_Atendimento",
+            "Longitude": -9.15027383498769,
+            "Latitude": 38.7494795144276,
+            "INF_NOME": "Câmara Municipal de Lisboa - Edifício Central do Campo Grande",
+            "INF_MORADA": "Campo Grande, 23/27 B",
+            "INF_TELEFONE": "800 910 211",
+            "INF_EMAIL": "https://informacoeseservicos.lisboa.pt/",
+            "INF_SITE": "www.lisboa.pt",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Alvalade"
+        },
+        {
+            "type": "CM_Lisboa_Atendimento",
+            "Longitude": -9.15018203107189,
+            "Latitude": 38.7498245330947,
+            "INF_NOME": "Loja Lisboa - Entrecampos",
+            "INF_MORADA": "Edificio Central do Municipio; Campo Grande, 25 - Piso 0\n",
+            "INF_TELEFONE": "800 910 211",
+            "INF_EMAIL": "https://informacoeseservicos.lisboa.pt/",
+            "INF_SITE": "www.lisboa.pt",
+            "INF_DESCRICAO": "Serviços prestados:\n\n- atendimento geral;\n- balcão social:\n- EMEL;\n- serviço de execuções fiscais;\n- gestor do munícipe;\n- tesouraria; \n- urbanismo e obras.",
+            "FREGUESIA": "Alvalade"
+        },
+        {
+            "type": "CM_Lisboa_Atendimento",
+            "Longitude": -9.15073726986091,
+            "Latitude": 38.7090700809806,
+            "INF_NOME": "Loja Lisboa Cultura",
+            "INF_MORADA": "Rua da Boavista, 184",
+            "INF_TELEFONE": "800 910 211",
+            "INF_EMAIL": "https://informacoeseservicos.lisboa.pt/",
+            "INF_SITE": "www.lisboa.pt",
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Misericórdia"
+        }
+    ]
+}

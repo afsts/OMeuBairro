@@ -1,0 +1,28 @@
+{
+    "features": [
+        {
+            "type": "Património_Mundial",
+            "Longitude": -9.21592911492644,
+            "Latitude": 38.691590592821,
+            "INF_NOME": "Torre de São Vicente de Belém/Torre de Belém",
+            "INF_MORADA": "Avenida de Brasília, Torre de Belém",
+            "INF_TELEFONE": "21 362 00 34",
+            "INF_EMAIL": "torrebelem@mosteirojeronimos.pt",
+            "INF_SITE": "http://www.torrebelem.pt",
+            "INF_DESCRICAO": "Monumento Nacional e Património Mundial da UNESCO é um belo exemplar da arquitectura militar em Portugal.Construída em honra do santo patrono de Lisboa,S. Vicente,no local onde estava ancorada a Grande Nau,que cruzava fogo com a fortaleza de S. Sebastião,veio assim perpetuar,em pedra,essa estrutura de madeira.Francisco de Arruda foi o arquitecto da obra,desenvolvida entre 1514 e 1520,possivelmente sob orientação de Boitaca.Esta curiosa composição de cantaria,articula um baluarte poligonal com uma torre quadrangular de tradição medieval,ornamentados segundo a gramática decorativa do manuelino,conjugada com elementos naturalistas.A função militar é reservada ao baluarte propriamente dito,que avança sobre o rio em 3 pisos (andar subterrâneo,nave e terraço).A torre está reservada a outras funções,como as de carácter administrativo (Sala do Governador e Sala das Audiências),palatino (Sala dos Reis) e cultual (capela no último piso).Destacam-se os traços exóticos,expressos nas cúpulas gomadas de gosto orientalizante que cobrem as guaritas do baluarte e na representação zoomórfica de um rinoceronte esculpido na face norte.",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Património_Mundial",
+            "Longitude": -9.20648329618211,
+            "Latitude": 38.697824938612,
+            "INF_NOME": "Mosteiro dos Jerónimos",
+            "INF_MORADA": "Praça do Império",
+            "INF_TELEFONE": "+351 213 620 034",
+            "INF_EMAIL": "geral@mjeronimos.dgpc.pt",
+            "INF_SITE": "http://www.mosteirojeronimos.pt",
+            "INF_DESCRICAO": "A edificação do Mosteiro da Ordem de São Jerónimo, fundado, em 1496, por iniciativa de D. Manuel I, com o objetivo de torná-lo Panteão Real, teve início, com a obra da igreja dedicada a Santa Maria de Belém, em 1502, sob a orientação de Diogo de Boitaca, seguindo-se João de Castilho, a partir de 1517, entre outros nomes que colaboraram na sua construção em datas posteriores. O conjunto construído ao longo do séc. XVI foi objeto de profundas obras de restauro no século XIX, subsistindo a igreja, as dependências da sacristia, sala do capítulo, claustro e refeitório, no piso térreo, e a antiga livraria, no piso superior. Esta obra fundamental da arquitetura religiosa manuelina (igreja, claustro, sacristia, refeitório), traduz, também, uma arquitetura religiosa maneirista (capela-mor e forro do transepto), revivalista (remate da torre, antigo dormitório, sala do capítulo) e modernista (ala E do anexo e Biblioteca da Marinha), encontrando-se classificada como Monumento Nacional e inscrita, desde 1983, na lista do Património da Humanidade da UNESCO. A igreja, de planta longitudinal em cruz latina, traduz uma igreja-salão desenvolvida em três naves com a mesma altura, cobertas por abóboda única, rebaixada, polinervada, assente em pilares oitavados, transepto de topos retilíneos e cabeceira saliente retangular. Adossado ao corpo da igreja surge um claustro de planta quadrangular, com octógono inscrito, desenvolvido em dois pisos de arcadas maineladas e galerias abobadadas com polinervuras, decorado com elementos de temática cristológica e heráldica régia. No interior merecem, ainda, destaque: a capela-mor maneirista traçada pelo mestre Jerónimo de Ruão, em 1571; a sala do capítulo terminada no séc. XIX; e a tumulária. No exterior é de referir todo o trabalho escultórico e decorativo associado ao portal principal executado por Nicolau Chanterenne, em 1517, e ao portal Sul, lateral e fronteiro ao rio, da autoria de João de Castilho, entre 1516 e 1518. Este complexo arquitetónico acolhe, ainda, o Museu de Marinha e o Museu Nacional de Arqueologia.",
+            "FREGUESIA": "Belém"
+        }
+    ]
+}

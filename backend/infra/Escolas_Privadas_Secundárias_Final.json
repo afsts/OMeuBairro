@@ -1,0 +1,279 @@
+{
+    "features": [
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.22091295573255,
+            "Latitude": 38.7008606693268,
+            "INF_NOME": "Colégio Mira-Rio",
+            "INF_MORADA": "Estrada de Telheiras, n.º 113\n",
+            "INF_TELEFONE": "+351 213 030 480",
+            "INF_EMAIL": "ext.mirario@escolas.min-edu.pt",
+            "INF_SITE": "http://www.colegiomirario.pt",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.21626410794614,
+            "Latitude": 38.7102844436459,
+            "INF_NOME": "Externato de São José",
+            "INF_MORADA": "Avenida das Descobertas, 27<br>Rua do Colégio de São José, Externato de São José;",
+            "INF_TELEFONE": "213037020",
+            "INF_EMAIL": "ext.sjose@escolas.min-edu.pt",
+            "INF_SITE": "https://www.esj.edu.pt/",
+            "FREGUESIA": "Belém"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.16889700394904,
+            "Latitude": 38.7139666883881,
+            "INF_NOME": "Salesianos de Lisboa - Colégio Oficinas de São José",
+            "INF_MORADA": "Praça São João Bosco, 34",
+            "INF_TELEFONE": "+351 210 900 500",
+            "INF_EMAIL": "cl.soficinassjose@escolas.min-edu.pt",
+            "INF_SITE": "http://www.osj.salesianos.pt",
+            "FREGUESIA": "Campo de Ourique"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.13390219330257,
+            "Latitude": 38.7290284033735,
+            "INF_NOME": "Escola Selecta Amadeu Andrés",
+            "INF_MORADA": "Quinta da Palmeira, Rua Marques da Silva, 79",
+            "INF_TELEFONE": "+351 218 123 482",
+            "INF_EMAIL": "esc.spdramadeuandres@escolas.min-edu.pt",
+            "INF_SITE": "http://www.escolaselecta.com/",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.14727041429177,
+            "Latitude": 38.7341471373761,
+            "INF_NOME": "Externato ERGON",
+            "INF_MORADA": "Avenida Cinco de Outubro 21 1º Dto;Avenida Cinco de Outubro 21 1º Esq;",
+            "INF_TELEFONE": "213155734",
+            "INF_EMAIL": "ext.ergon@escolas.min-edu.pt",
+            "INF_SITE": "https://externatoergon.com/",
+            "FREGUESIA": "Avenidas Novas"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.13717681942878,
+            "Latitude": 38.7350575216487,
+            "INF_NOME": "Externato \"Marquês de Pombal\"",
+            "INF_MORADA": "Largo do Leão, 9;",
+            "INF_TELEFONE": "+351 218 154 221",
+            "INF_EMAIL": "secretaria.emp@eep.ensinus.pt",
+            "INF_SITE": "externatomarquesdepombal.pt",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.13660546975198,
+            "Latitude": 38.735178427426,
+            "INF_NOME": "Colégio do Sagrado Coração de Maria",
+            "INF_MORADA": "Avenida Manuel da Maia, 2\n",
+            "INF_TELEFONE": "+351 218 475 342",
+            "INF_EMAIL": "cl.scmarialisboa@escolas.min-edu.pt",
+            "INF_SITE": "http://www.cscm-lx.pt",
+            "FREGUESIA": "Arroios"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.14559540599986,
+            "Latitude": 38.7352953146901,
+            "INF_NOME": "Colégio Académico",
+            "INF_MORADA": "Avenida da República, 13 e 13 C\n",
+            "INF_TELEFONE": "+351 213 558 630",
+            "INF_EMAIL": "cl.academico@escolas.min-edu.pt",
+            "INF_SITE": "www.academico.edu.pt",
+            "FREGUESIA": "Avenidas Novas"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.14737384152816,
+            "Latitude": 38.742131547973,
+            "INF_NOME": "Externato \"Crisfal\"",
+            "INF_MORADA": "Avenida da República 52 1º a 4º",
+            "INF_TELEFONE": "217969620",
+            "INF_EMAIL": "ext.crisfal@escolas.min-edu.pt",
+            "INF_SITE": "http://www.crisfal.pt ",
+            "FREGUESIA": "Avenidas Novas"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.18164424325018,
+            "Latitude": 38.7477232013571,
+            "INF_NOME": "Externato Marista de Lisboa",
+            "INF_MORADA": "Rua Major Neutel de Abreu, 11",
+            "INF_TELEFONE": "+351 217 712 030",
+            "INF_EMAIL": "ext.maristalisboa@escolas.min-edu.pt",
+            "INF_SITE": "http://www.ext.marista-lisboa.org",
+            "FREGUESIA": "São Domingos de Benfica"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.20022855731314,
+            "Latitude": 38.7507110974213,
+            "INF_NOME": "Externato \"Álvares Cabral\"",
+            "INF_MORADA": "Estrada de Benfica, 628\n",
+            "INF_TELEFONE": "+351 217 609 287",
+            "INF_EMAIL": "ext.alvarescabral@escolas.min-edu.pt",
+            "INF_SITE": "http://www.ex.alvarescabral.rcts.pt",
+            "FREGUESIA": "Benfica"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.15364624965256,
+            "Latitude": 38.7527039087666,
+            "INF_NOME": "Colégio Moderno",
+            "INF_MORADA": "Rua Dr. João Soares, 19 e 22\n",
+            "INF_TELEFONE": "+351 217 991 840",
+            "INF_EMAIL": "cl.moderno@escolas.min-edu.pt",
+            "INF_SITE": "http://www.colegiomoderno.pt",
+            "FREGUESIA": "Alvalade"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.12614486333781,
+            "Latitude": 38.7558990122078,
+            "INF_NOME": "Colégio Valsassina",
+            "INF_MORADA": "Avenida Adelino Teixeira da Mota - Quinta das Teresinhas\n",
+            "INF_TELEFONE": "+351 218 310 900",
+            "INF_EMAIL": "cl.valsassina@escolas.min-edu.pt",
+            "INF_SITE": "http://www.cvalsassina.pt",
+            "FREGUESIA": "Marvila"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.14184346287155,
+            "Latitude": 38.7560324646851,
+            "INF_NOME": "Escola dos Mestres",
+            "INF_MORADA": "Rua do Centro Cultural, 17",
+            "INF_TELEFONE": "+351 218 471 907",
+            "INF_EMAIL": "esc.mestres@escolas.min-edu.pt",
+            "INF_SITE": "https://escola-dos-mestres.com/",
+            "FREGUESIA": "Alvalade"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.15380651810128,
+            "Latitude": 38.7610441092646,
+            "INF_NOME": "Colégio de Santa Doroteia",
+            "INF_MORADA": "Avenida Marechal Craveiro Lopes, 1\n",
+            "INF_TELEFONE": "+351 217 570 311",
+            "INF_EMAIL": "cl.stadoroteia@escolas.min-edu.pt",
+            "INF_SITE": "http://www.csdoroteia.edu.pt/",
+            "FREGUESIA": "Lumiar"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.15006211889743,
+            "Latitude": 38.7677203122349,
+            "INF_NOME": "Colégio de São Tomás",
+            "INF_MORADA": "Avenida Maria Helena Vieira da Silva, 39 - Quinta das Conchas\n",
+            "INF_TELEFONE": "+351 210 437 000",
+            "INF_EMAIL": "cl.stomaslumiar@escolas.min-edu.pt",
+            "INF_SITE": "http://www.colegiodestomas.com",
+            "FREGUESIA": "Lumiar"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.17206605535029,
+            "Latitude": 38.7730477946972,
+            "INF_NOME": "Real Colégio de Portugal",
+            "INF_MORADA": "Rua Direita ao Lumiar Paço do Lumiar, 9;",
+            "INF_TELEFONE": "217571957",
+            "INF_EMAIL": "realclportugal@escolas.min-edu.pt",
+            "INF_SITE": "http://www.realcolegio.pt/",
+            "FREGUESIA": "Lumiar"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.17351183193399,
+            "Latitude": 38.7734462326611,
+            "INF_NOME": "Colégio Manuel Bernardes",
+            "INF_MORADA": "Quinta dos Azulejos, Paço do Lumiar",
+            "INF_TELEFONE": "+351 217 570 501",
+            "INF_EMAIL": "cl.manuelbernardes@escolas.min-edu.pt",
+            "INF_SITE": "http://www.cmb.pt",
+            "FREGUESIA": "Lumiar"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.1575741747323,
+            "Latitude": 38.7736200447473,
+            "INF_NOME": "Colégio São João de Brito",
+            "INF_MORADA": "Estrada da Torre, 28\n",
+            "INF_TELEFONE": "+351 217 519 000",
+            "INF_EMAIL": "cl.sjoaobrito@escolas.min-edu.pt",
+            "INF_SITE": "http://www.csjb.pt",
+            "FREGUESIA": "Lumiar"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.15925396311878,
+            "Latitude": 38.7824203233578,
+            "INF_NOME": "Academia de Música de Santa Cecília",
+            "INF_MORADA": "Largo do Ministro, 9\n",
+            "INF_TELEFONE": "+351 217 594 031",
+            "INF_EMAIL": "acm.stacecilialisboa@escolas.min-edu.pt",
+            "INF_SITE": "http://www.ac-musica-st-cecilia.rcts.pt",
+            "FREGUESIA": "Santa Clara"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.0970281754942,
+            "Latitude": 38.7932749674204,
+            "INF_NOME": "Colégio Pedro Arrupe",
+            "INF_MORADA": "Passeio dos Heróis do Mar, 100-100C<br>Rua Vitorino Magalhães Godinho, S/N;",
+            "INF_TELEFONE": "211572640",
+            "INF_EMAIL": "cl.pedroarrupe@escolas.min-edu.pt ",
+            "INF_SITE": "www.colegiopedroarrupe.pt/",
+            "FREGUESIA": "Parque das Nações"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.14728897616489,
+            "Latitude": 38.7560768629973,
+            "INF_NOME": "Externato Séneca",
+            "INF_MORADA": "Avenida do Brasil 56, 1º",
+            "INF_TELEFONE": "213140092",
+            "INF_EMAIL": "ext.coencu@escolas.min-edu.pt;",
+            "INF_SITE": "http://www.externatoseneca.com",
+            "FREGUESIA": "Alvalade"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.09723504823652,
+            "Latitude": 38.7855187923553,
+            "INF_NOME": "Colégio Oriente",
+            "INF_MORADA": "Rua Pricipe do Mónaco 1",
+            "INF_TELEFONE": "+351 218 933 160",
+            "INF_EMAIL": "geral@oriente.pt",
+            "INF_SITE": "http://www.oriente.pt/",
+            "FREGUESIA": "Parque das Nações"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.16669966871196,
+            "Latitude": 38.7678100492224,
+            "INF_NOME": "Colégio Planalto",
+            "INF_MORADA": "Rua Armindo Rodrigues, 28",
+            "INF_TELEFONE": "+351 217 541 530",
+            "INF_EMAIL": "ext.planalto@escolas.min-edu.pt",
+            "INF_SITE": "http://wwwcolegioplanalto.pt",
+            "FREGUESIA": "Lumiar"
+        },
+        {
+            "type": "Escolas_Privadas_Secundárias",
+            "Longitude": -9.20195006895056,
+            "Latitude": 38.7424179363563,
+            "INF_NOME": "Centro Multicultural de Formação",
+            "INF_MORADA": "Rua Vasco Botelho do Amaral, 2",
+            "INF_TELEFONE": "217721020",
+            "INF_EMAIL": "ct.mformacao@escolas.min-edu.pt;",
+            "INF_SITE": null,
+            "FREGUESIA": "Benfica"
+        }
+    ]
+}

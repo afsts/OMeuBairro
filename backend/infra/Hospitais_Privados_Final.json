@@ -1,0 +1,160 @@
+{
+    "features": [
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.17346241363152,
+            "Latitude": 38.7036788836932,
+            "INF_NOME": "Hospital CUF Tejo",
+            "INF_MORADA": "Avenida Vinte e Quatro de Julho, 171-171B; Avenida da Índia, 2-2A",
+            "INF_TELEFONE": "+351 213 926 100",
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_DESCRICAO": null,
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.14155423418285,
+            "Latitude": 38.7086267862799,
+            "INF_NOME": "Hospital da Ordem Terceira",
+            "INF_MORADA": "Rua Serpa Pinto, 7",
+            "INF_TELEFONE": "+351 213 230 300 (marcações) /  213 230 323  (geral)",
+            "INF_EMAIL": "marcacoes@hotc.pt; atendimento@hotc.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": null,
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.13559237837672,
+            "Latitude": 38.7124494732398,
+            "INF_NOME": "Clínica de São Cristóvão",
+            "INF_MORADA": "Largo de São Cristóvão, 1<br>Rua do Regedor, 2;",
+            "INF_TELEFONE": "218 813 300",
+            "INF_EMAIL": "atendimento@clinicasaocristovao.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": "tem internamento",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.15089909120545,
+            "Latitude": 38.7125588566044,
+            "INF_NOME": "Hospital de Jesus",
+            "INF_MORADA": "Travessa Arrochela, 2",
+            "INF_TELEFONE": "+351 213 934 700",
+            "INF_EMAIL": "geral@hospitaldejesus.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": null,
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.14571953279622,
+            "Latitude": 38.7134648883593,
+            "INF_NOME": "Hospital St. Louis",
+            "INF_MORADA": "Rua Luz Soriano, 182 \n",
+            "INF_TELEFONE": "+351 213 216 500",
+            "INF_EMAIL": "geral@hslouis.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": null,
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.15817233093667,
+            "Latitude": 38.734246290291,
+            "INF_NOME": "SAMS-Centro Clínico de Lisboa",
+            "INF_MORADA": "Rua Fialho de Almeida, 21-21D;",
+            "INF_TELEFONE": "213 811 800",
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_DESCRICAO": "tem atendimento permanente",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.1752216945442,
+            "Latitude": 38.7459152183031,
+            "INF_NOME": "Hospital Cruz Vermelha",
+            "INF_MORADA": "Rua Duarte Galvão, 54",
+            "INF_TELEFONE": "+351 217 714 000",
+            "INF_EMAIL": "callcenter@hcvp.com.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": null,
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.14719129686286,
+            "Latitude": 38.7492170822447,
+            "INF_NOME": "Clinica São João de Deus",
+            "INF_MORADA": "Rua António Patrício, 25-25B;",
+            "INF_TELEFONE": "217 987 700",
+            "INF_EMAIL": "informacoes@saojoaodedeus.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": "tem internamento",
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.17693622588847,
+            "Latitude": 38.7492349858491,
+            "INF_NOME": "Hospital dos Lusíadas",
+            "INF_MORADA": "Rua Abílio Mendes",
+            "INF_TELEFONE": "+351 217 704 040",
+            "INF_EMAIL": "contact.center@hppsaude.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": null,
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.19281281158328,
+            "Latitude": 38.7564028427289,
+            "INF_NOME": "Hospital da Luz",
+            "INF_MORADA": "Avenida Lusíada, 100",
+            "INF_TELEFONE": "+351 217 104 400 ",
+            "INF_EMAIL": "geral@hospitaldaluz.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": null,
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.17581292584324,
+            "Latitude": 38.7568216140529,
+            "INF_NOME": "Hospital da Luz Torres de Lisboa ",
+            "INF_MORADA": "Rua Tomás da Fonseca, Edifícios B, D, E e F Torres de Lisboa",
+            "INF_TELEFONE": "+351 217 104 600",
+            "INF_EMAIL": "geral.torreslisboa@hospitaldaluz.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": null,
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.09956470401166,
+            "Latitude": 38.7582854358253,
+            "INF_NOME": "Hospital CUF Descobertas",
+            "INF_MORADA": "Rua Mário Botas, Parque das Nações\n\n",
+            "INF_TELEFONE": "+351 210 025 200",
+            "INF_EMAIL": "geral.hcd@jmellosaude.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": null,
+            "FREGUESIA": null
+        },
+        {
+            "type": "Hospitais_Privados",
+            "Longitude": -9.11472265651211,
+            "Latitude": 38.7681553611397,
+            "INF_NOME": "Hospital do SAMS",
+            "INF_MORADA": "Rua Cidade de Gabela, 1",
+            "INF_TELEFONE": "+351 217 917 400",
+            "INF_EMAIL": "cg@sams.pt",
+            "INF_SITE": null,
+            "INF_DESCRICAO": "(Sindicato dos Bancários do Sul e Ilhas)",
+            "FREGUESIA": null
+        }
+    ]
+}

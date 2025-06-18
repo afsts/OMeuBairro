@@ -1,0 +1,154 @@
+{
+    "features": [
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14613200286309,
+            "Latitude": 38.7142393289543,
+            "INF_NOME": "CV03"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14450466045832,
+            "Latitude": 38.7118733350442,
+            "INF_NOME": "CV17"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14301587743637,
+            "Latitude": 38.7115457953311,
+            "INF_NOME": "CV23"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14416495332643,
+            "Latitude": 38.7129830283629,
+            "INF_NOME": "CV12"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14335569817324,
+            "Latitude": 38.7119754373273,
+            "INF_NOME": "CV20"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14532109882085,
+            "Latitude": 38.7143913540844,
+            "INF_NOME": "CV04"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14594194723081,
+            "Latitude": 38.71094599396,
+            "INF_NOME": "CV25"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14608684323114,
+            "Latitude": 38.7151176970887,
+            "INF_NOME": "CV01"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14371515438692,
+            "Latitude": 38.7110102565777,
+            "INF_NOME": "CV27"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14477771327218,
+            "Latitude": 38.7151419353977,
+            "INF_NOME": "CV02"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14496980629721,
+            "Latitude": 38.7107940286134,
+            "INF_NOME": "CV26"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14552614266053,
+            "Latitude": 38.7134073255058,
+            "INF_NOME": "CV07"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14574058089114,
+            "Latitude": 38.7127900450708,
+            "INF_NOME": "CV10"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14372981694585,
+            "Latitude": 38.7135273583526,
+            "INF_NOME": "CV14"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14320539583798,
+            "Latitude": 38.7124636051844,
+            "INF_NOME": "CV21"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14374687767804,
+            "Latitude": 38.7119461201656,
+            "INF_NOME": "CV19"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14426230931029,
+            "Latitude": 38.7143313147331,
+            "INF_NOME": "CV09"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14578646811415,
+            "Latitude": 38.7118702746631,
+            "INF_NOME": "CV16"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14409667641835,
+            "Latitude": 38.7119242694544,
+            "INF_NOME": "CV18"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14499618087762,
+            "Latitude": 38.7127507363507,
+            "INF_NOME": "CV11"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14440834395736,
+            "Latitude": 38.7136543610826,
+            "INF_NOME": "CV15"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14514216095477,
+            "Latitude": 38.7112934953426,
+            "INF_NOME": "CV24"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14490060355221,
+            "Latitude": 38.7114263157185,
+            "INF_NOME": "CV22"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14346553449901,
+            "Latitude": 38.7131352267586,
+            "INF_NOME": "CV13"
+        },
+        {
+            "type": "CCTV_BairroAlto",
+            "Longitude": -9.14450348289441,
+            "Latitude": 38.7139749358876,
+            "INF_NOME": "CV08"
+        }
+    ]
+}

@@ -1,0 +1,1668 @@
+{
+    "features": [
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14106393929911,
+            "Latitude": 38.7553385891792,
+            "INF_NOME": "Parque Infantil da Rua José Duro",
+            "INF_MORADA": "Rua José Duro",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17725000231842,
+            "Latitude": 38.7337575528078,
+            "INF_NOME": "Parque Infantil do Parque Urbano da Serafina",
+            "INF_MORADA": "Estrada da Serafina",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1280881243706,
+            "Latitude": 38.7274409725539,
+            "INF_NOME": "Parque Infantil da Avenida General Roçadas",
+            "INF_MORADA": "Avenida General Roçadas",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17598029844249,
+            "Latitude": 38.7693034756051,
+            "INF_NOME": "Parque Infantil da Alameda Mahatma Gandhi 1",
+            "INF_MORADA": "Alameda Mahatma Gandhi",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19758440162649,
+            "Latitude": 38.75635361566,
+            "INF_NOME": "Parque Infantil do Bairro da Quinta do Charquinho",
+            "INF_MORADA": "Rua da Quinta do Charquinho(antiga Rua A à Quinta do Charquinho)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12950337822926,
+            "Latitude": 38.7200042026104,
+            "INF_NOME": "Parque Infantil da Rua Natália Correia",
+            "INF_MORADA": "Rua Natália Correia",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10085630390185,
+            "Latitude": 38.7713113668878,
+            "INF_NOME": "Parque Infantil do Largo Ramada Curto, Bairro Quinta das Laranjeiras",
+            "INF_MORADA": "Largo Ramada Curto(antigo Impasse G da Quinta das Laranjeiras)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19652604248471,
+            "Latitude": 38.696730658416,
+            "INF_NOME": "Parque Infantil do Largo do Marquês de Angeja",
+            "INF_MORADA": "Largo do Marquês de Angeja",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10700767883502,
+            "Latitude": 38.7585472131099,
+            "INF_NOME": "Parque Infantil da Rua de Manhiça",
+            "INF_MORADA": "Rua de Manhiça(antiga Rua E1 e Imp. E da Célula E de Olivais Sul), junto ao lote 463",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12689102617998,
+            "Latitude": 38.7125578872511,
+            "INF_NOME": "Parque Infantil da Rua do Vigário",
+            "INF_MORADA": "Rua do Vigário",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10832590553514,
+            "Latitude": 38.7483579458244,
+            "INF_NOME": "Parque Infantil da Rua Xavier de Magalhães",
+            "INF_MORADA": "Rua Xavier de Magalhães",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.21915942374437,
+            "Latitude": 38.6974582788126,
+            "INF_NOME": "Parque Infantil da Rua Duarte Pacheco Pereira",
+            "INF_MORADA": "Rua Duarte Pacheco Pereira",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12031331107561,
+            "Latitude": 38.7671731376043,
+            "INF_NOME": "Parque Infantil da Rua Cidade Vila Cabral",
+            "INF_MORADA": "Rua Cidade de Vila Cabral",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19391083474278,
+            "Latitude": 38.706349252846,
+            "INF_NOME": "Parque Infantil do Rio Seco 1",
+            "INF_MORADA": "Rua Eduardo Bairrada",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1295883072978,
+            "Latitude": 38.7258688618904,
+            "INF_NOME": "Parque Infantil da Praça António Sardinha",
+            "INF_MORADA": "Praça António Sardinha",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19399417986987,
+            "Latitude": 38.703688882902,
+            "INF_NOME": "Parque Infantil do Largo da Boa-Hora",
+            "INF_MORADA": "Largo da Boa-Hora à Ajuda",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11634014926282,
+            "Latitude": 38.7251383898458,
+            "INF_NOME": "Parque Infantil da  Rua do Cruzado Osberno",
+            "INF_MORADA": "Rua do Cruzado Osberno",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15189859909964,
+            "Latitude": 38.7150621369659,
+            "INF_NOME": "Parque Infantil da Praça Flores",
+            "INF_MORADA": "Praça das Flores",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17460285714332,
+            "Latitude": 38.7101963850466,
+            "INF_NOME": "Parque Infantil da Quinta do Cabrinha",
+            "INF_MORADA": "Avenida de Ceuta",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.120296315292,
+            "Latitude": 38.7551124786126,
+            "INF_NOME": "Parque Infantil do Bairro dos Lóios",
+            "INF_MORADA": "Rua Adães Bermudes",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14401749883432,
+            "Latitude": 38.7479175643962,
+            "INF_NOME": "Parque Infantil da Praça Andrade de Caminha",
+            "INF_MORADA": "Praça Andrade Caminha",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13262061902172,
+            "Latitude": 38.7261723475135,
+            "INF_NOME": "Parque Infantil da  Praça das Novas Nações",
+            "INF_MORADA": "Praça das Novas Nações",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11451962399455,
+            "Latitude": 38.7645973249667,
+            "INF_NOME": "Parque Infantil da Praça Cidade de São Salvador 1",
+            "INF_MORADA": "Praça Cidade de São Salvador",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12351808311191,
+            "Latitude": 38.7160406167907,
+            "INF_NOME": "Parque Infantil do Jardim Botto Machado",
+            "INF_MORADA": "Campo de Santa Clara",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.20944729150103,
+            "Latitude": 38.712149469193,
+            "INF_NOME": "Parque Infantil do Largo Ocidental",
+            "INF_MORADA": "Largo Ocidental",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17095066709595,
+            "Latitude": 38.7051573039708,
+            "INF_NOME": "Parque Infantil da Praça da Armada",
+            "INF_MORADA": "Praça da Armada",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.20017343306209,
+            "Latitude": 38.755129008946,
+            "INF_NOME": "Parque Infantil do Eucaliptal de Benfica",
+            "INF_MORADA": "Rua dos Arneiros",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13439424279663,
+            "Latitude": 38.7492707348544,
+            "INF_NOME": "Parque Infantil Av Estados Unidos da América",
+            "INF_MORADA": "Avenida dos Estados Unidos da América, Lotes 12-24",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10773381253913,
+            "Latitude": 38.7649090160015,
+            "INF_NOME": "Parque Infantil da Rua Cândido de Oliveira",
+            "INF_MORADA": "Rua Cândido de Oliveira(antiga Rua G da Célula F de Olivais Sul)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.18654796250643,
+            "Latitude": 38.7197009812192,
+            "INF_NOME": "Parque Aventura do Parque Recreativo do Alvito",
+            "INF_MORADA": "Estrada do Alvito, Parque Infantil do Alvito",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17927471942446,
+            "Latitude": 38.7049044561506,
+            "INF_NOME": "Parque Infantil do Mercado Rosa Agulhas",
+            "INF_MORADA": "Rua Leão de Oliveira",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13700318451016,
+            "Latitude": 38.7462159279732,
+            "INF_NOME": "Parque Infantil da Rua Teixeira de Pascoais",
+            "INF_MORADA": "Rua Teixeira de Pascoais",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11740075636688,
+            "Latitude": 38.7615817529445,
+            "INF_NOME": "Parque Infantil da Rua Vila de Bissorã",
+            "INF_MORADA": "Rua Vila de Bissorã",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14918617043273,
+            "Latitude": 38.7161099756415,
+            "INF_NOME": "Parque Infantil França Borges / Praça do Príncipe Real",
+            "INF_MORADA": "Praça do Príncipe Real",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.20545276481075,
+            "Latitude": 38.7141167492657,
+            "INF_NOME": "Parque Intergeracional do Largo Oriental",
+            "INF_MORADA": "Rua da Igreja ao Bairro do Caramão da Ajuda",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11134707942277,
+            "Latitude": 38.7288924220433,
+            "INF_NOME": "Parque Infantil da Vila Dias",
+            "INF_MORADA": "Vila Dias(Beco dos Toucinheiros, 12-B)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12394001674078,
+            "Latitude": 38.7381606499895,
+            "INF_NOME": "Parque Infantil da Rua Aquiles Machado",
+            "INF_MORADA": "Rua Aquiles Machado",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.18049765812462,
+            "Latitude": 38.7441504794289,
+            "INF_NOME": "Parque Infantil da Praça General Vicente de Freitas",
+            "INF_MORADA": "Praça General Vicente de Freitas",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14485391170485,
+            "Latitude": 38.7433368198827,
+            "INF_NOME": "Parque Infantil do Jardim Marquês de Marialva",
+            "INF_MORADA": "Campo Pequeno",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16426226228527,
+            "Latitude": 38.7867209463324,
+            "INF_NOME": "Parque Infantil da Rua do Alto do Chapeleiro",
+            "INF_MORADA": "Rua do Alto do Chapeleiro(antiga Rua A da Urb. do Alto do Chapeleiro)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16554925944836,
+            "Latitude": 38.7793313779297,
+            "INF_NOME": "Parque Infantil da Rua André Gouveia",
+            "INF_MORADA": "Rua André de Gouveia",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14152723603361,
+            "Latitude": 38.7196009405892,
+            "INF_NOME": "Parque Infantil do Jardim do Torel",
+            "INF_MORADA": "Rua Júlio de Andrade",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13727760462267,
+            "Latitude": 38.7310585199744,
+            "INF_NOME": "Parque Infantil do Jardim Constantino",
+            "INF_MORADA": "Rua de Pascoal de Melo",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15550578784598,
+            "Latitude": 38.7140382095468,
+            "INF_NOME": "Parque Infantil do Jardim Elisa Baptista de Sousa Pedroso",
+            "INF_MORADA": "Rua da Imprensa à Estrela, Jardim Elisa Baptista Sousa Pedroso",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1106224917207,
+            "Latitude": 38.7603766661425,
+            "INF_NOME": "Parque Infantil da Rua do Dondo 2",
+            "INF_MORADA": "Rua do Dondo",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19338117813676,
+            "Latitude": 38.7059293118899,
+            "INF_NOME": "Parque Infantil do Rio Seco 2",
+            "INF_MORADA": "Rua Eduardo Bairrada",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10917055189018,
+            "Latitude": 38.7760602427144,
+            "INF_NOME": "Parque Infantil da Rua Alfredo Franco",
+            "INF_MORADA": "Rua Alfredo Franco(antigas Ruas A e B à Avenida Dr. Alfredo Bensaúde)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17862824017303,
+            "Latitude": 38.7618086404394,
+            "INF_NOME": "Parque Infantil Al Roentgen",
+            "INF_MORADA": "Alameda Roentgen(antiga Alameda Central à Quinta dos Inglesinhos), Entre 3 e 7",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12743610762572,
+            "Latitude": 38.73487880352,
+            "INF_NOME": "Parque Infantil do Jardim Bulhão Pato",
+            "INF_MORADA": "Rua António Luís Inácio",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1845707875719,
+            "Latitude": 38.7042356562847,
+            "INF_NOME": "Parque Infantil do Jardim Avelar Brotero",
+            "INF_MORADA": "Rua Jau",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15036418284161,
+            "Latitude": 38.7946095545302,
+            "INF_NOME": "Parque Infantil da Urbanização das Galinheiras",
+            "INF_MORADA": "Rua Quinta da Assunção",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1539386321676,
+            "Latitude": 38.7631915239509,
+            "INF_NOME": "Parque Infantil Salgueiro Maia",
+            "INF_MORADA": "Rua Manuel Marques(antiga Rua I do Loteamento da Quinta das Pedreiras)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.20544612152066,
+            "Latitude": 38.7082817227577,
+            "INF_NOME": "Parque Infantil do Parque Recreativo Moínhos de Santana",
+            "INF_MORADA": "Rua Tristão Vaz, Parque Recreativo dos Moinhos",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13120000656105,
+            "Latitude": 38.7597809885279,
+            "INF_NOME": "Parque Infantil do Parque José Gomes Ferreira",
+            "INF_MORADA": "Avenida Almirante Gago Coutinho, Parque de Alvalade",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17619521748107,
+            "Latitude": 38.7691969294057,
+            "INF_NOME": "Parque Infantil da Alameda Mahatma Gandhi 2",
+            "INF_MORADA": "Alameda Mahatma Gandhi",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.18162795880106,
+            "Latitude": 38.7459587427985,
+            "INF_NOME": "Parque Infantil do Largo do Conde de Bonfim",
+            "INF_MORADA": "Largo do Conde de Bonfim",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1154471446555,
+            "Latitude": 38.7345997461974,
+            "INF_NOME": "Parque Infantil do Bairro da Quinta do Ourives",
+            "INF_MORADA": "Rua Dr. Manuel Espírito Santo",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17465765407668,
+            "Latitude": 38.7550629380706,
+            "INF_NOME": "Parque Infantil do Bairro de São João",
+            "INF_MORADA": "Rua General Schiappa Monteiro",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.20465605694815,
+            "Latitude": 38.7482875357734,
+            "INF_NOME": "Parque Infantil do Parque Silva Porto",
+            "INF_MORADA": "Avenida Grão Vasco, Parque Silva Porto",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15390148366974,
+            "Latitude": 38.7449470540328,
+            "INF_NOME": "Parque Infantil da Rua Julieta Ferrão",
+            "INF_MORADA": "Rua Julieta Ferrão",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15104504683005,
+            "Latitude": 38.7741916612453,
+            "INF_NOME": "Parque Infantil do PER 10-Malha 25",
+            "INF_MORADA": "Rua Adriana de Vecchi(antiga Rua 7.11, Rua 7.12 e Rua A da Malha 7)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13853394653956,
+            "Latitude": 38.7409778456438,
+            "INF_NOME": "Parque Infantil da Praça de Londres",
+            "INF_MORADA": "Praça de Londres",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1542724236525,
+            "Latitude": 38.7280050467927,
+            "INF_NOME": "Parque Infantil do Parque Eduardo VII de Inglaterra",
+            "INF_MORADA": "Alameda Cardeal Cerejeira",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17441046127594,
+            "Latitude": 38.7164202668928,
+            "INF_NOME": "Parque Infantil da Avenida de Ceuta",
+            "INF_MORADA": "Avenida de Ceuta",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11256730717488,
+            "Latitude": 38.7398627933256,
+            "INF_NOME": "Parque Infantil do Bairro da Quinta da Salgada",
+            "INF_MORADA": "Largo dos Castanheiros da Índia(antigo Largo junto à Rua Dinah Silveira de Queiroz)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1779442807227,
+            "Latitude": 38.7393027399765,
+            "INF_NOME": "Parque Infantil do Bairro do Calhau",
+            "INF_MORADA": "Rua António Macedo(antiga Rua A do Bairro do Calhau)",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12216709812223,
+            "Latitude": 38.7441552577468,
+            "INF_NOME": "Parque Infantil da Bela Vista Zona Sul (Área recreativa e desportiva)",
+            "INF_MORADA": "Rua Jorge Amado(antiga Rua M1 da Zona M de Chelas)",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.20678761963531,
+            "Latitude": 38.7501622463305,
+            "INF_NOME": "Parque Infantil da Rua João Frederico Ludovice",
+            "INF_MORADA": "Rua João Frederico Ludovice",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13981493509345,
+            "Latitude": 38.7496164845089,
+            "INF_NOME": "Parque Infantil da Avenida Estados Unidos da América- Lado Nascente",
+            "INF_MORADA": "Avenida dos Estados Unidos da América, estacionamento",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11461439267156,
+            "Latitude": 38.7644035670164,
+            "INF_NOME": "Parque Infantil da Praça Cidade de São Salvador 2",
+            "INF_MORADA": "Praça Cidade de São Salvador",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16926838418068,
+            "Latitude": 38.75646364459,
+            "INF_NOME": "Parque Infantil da Quinta das Fonsecas",
+            "INF_MORADA": "Rua Mem de Sá",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17078305088726,
+            "Latitude": 38.7709985440386,
+            "INF_NOME": "Parque Infantil da Rua Prof. Alfredo de Sousa",
+            "INF_MORADA": "Rua Prof. Alfredo de Sousa(antiga Rua B e Imp E1 da Urb. do Paço do Lumiar)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13976349101961,
+            "Latitude": 38.7229094182418,
+            "INF_NOME": "Parque Infantil do Jardim Braamcamp Freire",
+            "INF_MORADA": "Campo dos Mártires da Pátria, Jardim do Campo Santana",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17494287249003,
+            "Latitude": 38.741310305073,
+            "INF_NOME": "Parque Infantil do Bairro das Furnas",
+            "INF_MORADA": "Rua Costa Mota",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11124234464483,
+            "Latitude": 38.7548603003628,
+            "INF_NOME": "Parque Infantil do Bairro das Amendoeiras",
+            "INF_MORADA": "Rua Dr. José Espírito Santo(antiga Rua I4 da Malha I de Chelas)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13425524536787,
+            "Latitude": 38.7397458457055,
+            "INF_NOME": "Parque Infantil da Praça João do Rio 1",
+            "INF_MORADA": "Praça João do Rio, Jardim",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17589514928359,
+            "Latitude": 38.7620082240944,
+            "INF_NOME": "Parque Infantil da Rua Professor Mário de Albuquerque",
+            "INF_MORADA": "Rua Prof. Mário de Albuquerque(antigo Impasse 2 à Rua Professor Simões Raposo)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.2145798887114,
+            "Latitude": 38.7161824273824,
+            "INF_NOME": "Parque Infantil do Bairro de Caselas",
+            "INF_MORADA": "Largo Caselas",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10885389284706,
+            "Latitude": 38.7454681594077,
+            "INF_NOME": "Parque Infantil da Rua  Pedro de Azevedo",
+            "INF_MORADA": "Rua Pedro de Azevedo(antiga Rua C e Impasse C1 do Bairro da Prodac)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17669469434771,
+            "Latitude": 38.7526137016582,
+            "INF_NOME": "Parque Infantil do Parque Bensaúde",
+            "INF_MORADA": "Rua Maestro Jaime Silva (Filho)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12962952840616,
+            "Latitude": 38.726021169717,
+            "INF_NOME": "Parque Infantil Inclusivo da Praça António Sardinha",
+            "INF_MORADA": "Praça António Sardinha",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13428228760425,
+            "Latitude": 38.7394630773476,
+            "INF_NOME": "Parque Infantil da Praça João do Rio 2",
+            "INF_MORADA": "Praça João do Rio",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14398114247029,
+            "Latitude": 38.7500302132237,
+            "INF_NOME": "Parque Infantil da Rua António Patrício",
+            "INF_MORADA": "Rua António Patrício",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16777390104647,
+            "Latitude": 38.7542572329411,
+            "INF_NOME": "Parque Infantil da Azinhaga dos Barros",
+            "INF_MORADA": "Azinhaga dos Barros",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16222184259402,
+            "Latitude": 38.7722920757963,
+            "INF_NOME": "Parque Infantil da Rua Dr. Henrique Martins Gomes",
+            "INF_MORADA": "Rua Dr. Henrique Martins Gomes",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.20511952659667,
+            "Latitude": 38.7530759760036,
+            "INF_NOME": "Parque Infantil da Rua Lucilia Simões",
+            "INF_MORADA": "Rua Lucília Simões",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1916409600141,
+            "Latitude": 38.7509196720466,
+            "INF_NOME": "Parque Infantil da Quinta da Granja",
+            "INF_MORADA": "Avenida do Colégio Militar",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11069272655824,
+            "Latitude": 38.7600904464807,
+            "INF_NOME": "Parque Infantil da Rua de Dondo ",
+            "INF_MORADA": "Rua do Dondo",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19052250066316,
+            "Latitude": 38.7496457994769,
+            "INF_NOME": "Parque Infantil da Rua Dr. João do Couto",
+            "INF_MORADA": "Rua Dr. João Couto",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.18662129457106,
+            "Latitude": 38.7499488662415,
+            "INF_NOME": "Parque Infantil do Largo Pedro Correia Marques",
+            "INF_MORADA": "Largo Pedro Correia Marques",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14994810009702,
+            "Latitude": 38.7513547951243,
+            "INF_NOME": "Parque Infantil do Campo Grande",
+            "INF_MORADA": "Campo Grande",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16436521152368,
+            "Latitude": 38.7609537271618,
+            "INF_NOME": "Parque Infantil da Rua Professor Francisco Gentil",
+            "INF_MORADA": "Rua Professor Francisco Gentil(antiga Rua 7 da Zona de Telheiras)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15715137986302,
+            "Latitude": 38.771587820382,
+            "INF_NOME": "Parque Infantil do Parque de Quinta das Conchas",
+            "INF_MORADA": "Alameda das Linhas de Torres",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15668872863005,
+            "Latitude": 38.7222185534359,
+            "INF_NOME": "Parque Infantil do Jardim Marcelino Mesquita",
+            "INF_MORADA": "Praça das Amoreiras",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19126333190322,
+            "Latitude": 38.7023904193476,
+            "INF_NOME": "Parque Infantil da Rua de Diogo Cão",
+            "INF_MORADA": "Rua de Diogo Cão",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14524680612801,
+            "Latitude": 38.7490470600616,
+            "INF_NOME": "Parque Infantil da Avenida Estados Unidos da América",
+            "INF_MORADA": "Avenida dos Estados Unidos da América",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13277503307554,
+            "Latitude": 38.7373006914802,
+            "INF_NOME": "Parque Infantil da Alameda Dom Afonso Henriques",
+            "INF_MORADA": "Alameda Dom Afonso Henriques, Jardim",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.21017885546761,
+            "Latitude": 38.7494898900772,
+            "INF_NOME": "Parque Infantil da Rua Dr. Cunha Seixas",
+            "INF_MORADA": "Rua Dr. Cunha Seixas",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19049604636185,
+            "Latitude": 38.7210549032427,
+            "INF_NOME": "Parque Infantil da Alameda Keil do Amaral",
+            "INF_MORADA": "Alameda Keil do Amaral",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19424592588695,
+            "Latitude": 38.7270357100465,
+            "INF_NOME": "Parque Infantil do Monte Verde",
+            "INF_MORADA": "Estrada de Monsanto",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.2065554443106,
+            "Latitude": 38.7447647035033,
+            "INF_NOME": "Parque Infantil da Rua Maria Violante Vieira",
+            "INF_MORADA": "Rua Maria Violante Vieira",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19680936836982,
+            "Latitude": 38.703113889601,
+            "INF_NOME": "Parque Infantil Lisboa Ocidental",
+            "INF_MORADA": "Rua General José Paulo Fernandes",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11346896743728,
+            "Latitude": 38.7454669137056,
+            "INF_NOME": "Parque Infantil da Avenida João Paulo II",
+            "INF_MORADA": "Avenida João Paulo II",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16493366537295,
+            "Latitude": 38.7365865790358,
+            "INF_NOME": "Parque Infantil dos Jardins de Campolide",
+            "INF_MORADA": "Rua Cardeal Saraiva(antiga Rua A à Avenida José Malhoa)",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12017596940459,
+            "Latitude": 38.7355822114821,
+            "INF_NOME": "Parque Infantil da Rua Carlos Botelho",
+            "INF_MORADA": "Rua da Fábrica de Estamparia",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15246886521984,
+            "Latitude": 38.7730364711953,
+            "INF_NOME": "Parque Infantil da Ria Adriana Vecchi 2",
+            "INF_MORADA": "Rua Adriana de Vecchi(antiga Rua 7.11, Rua 7.12 e Rua A da Malha 7)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13263639090274,
+            "Latitude": 38.7176246681265,
+            "INF_NOME": "Parque Infantil do Jardim da Cerca da Graça 2",
+            "INF_MORADA": "Calçada do Monte",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13240365697865,
+            "Latitude": 38.7178130227319,
+            "INF_NOME": "Parque Infantil do Jardim da Cerca de Graça 1",
+            "INF_MORADA": "Calçada do Monte",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.09258945653561,
+            "Latitude": 38.7816624951013,
+            "INF_NOME": "Parque Juvenil  do Parque Tejo",
+            "INF_MORADA": "Passeio dos Heróis do Mar",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12142941687316,
+            "Latitude": 38.7696075290726,
+            "INF_NOME": "Parque Infantil do Parque Urbano dos Olivais",
+            "INF_MORADA": "Avenida de Berlim",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15841470356425,
+            "Latitude": 38.7710867680989,
+            "INF_NOME": "Parque Infantil Quinta dos Lilazes",
+            "INF_MORADA": "Alameda das Linhas de Torres",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10874800838595,
+            "Latitude": 38.7723799144548,
+            "INF_NOME": "Parque Infantil da Quinta Conde d'Arcos",
+            "INF_MORADA": "Avenida Dr. Francisco Luís Gomes",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14969724973644,
+            "Latitude": 38.75093586217,
+            "INF_NOME": "Parque Juvenil do Campo Grande",
+            "INF_MORADA": "Campo Grande",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12311234235464,
+            "Latitude": 38.7486850224904,
+            "INF_NOME": "Parque Infantil da Bela Vista Zona Centro",
+            "INF_MORADA": "Rua Gomes de Brito",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15325412786108,
+            "Latitude": 38.7661640142763,
+            "INF_NOME": "Parque Infantil do Parque Europa",
+            "INF_MORADA": "Rua Agostinho Neto(antigo Arruamento B do Plano Urb Quinta do Lambert)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15074511556897,
+            "Latitude": 38.7390200634566,
+            "INF_NOME": "Parque Infantil da Avenida Marquês de Tomar",
+            "INF_MORADA": "Avenida Marquês de Tomar",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17027289055789,
+            "Latitude": 38.7348979518264,
+            "INF_NOME": "Parque Infantil do Bairro da Liberdade",
+            "INF_MORADA": "Rua C do Bairro da Liberdade",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13483974812717,
+            "Latitude": 38.7162917338569,
+            "INF_NOME": "Parque Infantil da Rua do Capelão",
+            "INF_MORADA": "Rua do Capelão",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1609072234254,
+            "Latitude": 38.7853962520992,
+            "INF_NOME": "Parque Infantil do Vale da Ameixoeira",
+            "INF_MORADA": "Rua Prof. Adelino da Palma Carlos",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19904700995964,
+            "Latitude": 38.7121896453234,
+            "INF_NOME": "Parque Infantil do Bairro 2 de Maio",
+            "INF_MORADA": "Rua Prof. Cid dos Santos",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12935090689538,
+            "Latitude": 38.747766277968,
+            "INF_NOME": "Parque Infantil da Quinta da Montanha",
+            "INF_MORADA": "Avenida Marechal António de Spínola",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.21673245672668,
+            "Latitude": 38.7114897258273,
+            "INF_NOME": "Parque Infantil da Encosta do Gravato (Aquaparque)",
+            "INF_MORADA": "Rua do Colégio de São José",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1317270810578,
+            "Latitude": 38.7126423006056,
+            "INF_NOME": "Parque Infantil e de Lazer do Recolhimento",
+            "INF_MORADA": "Rua do Recolhimento, Parque Infantil ",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14871056195086,
+            "Latitude": 38.7804651933508,
+            "INF_NOME": "Parque Infantil Rua Reis Pinto",
+            "INF_MORADA": "Rua Reis Pinto, Parque Infantil Rua Reis Pinto",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10281453579019,
+            "Latitude": 38.7481722921139,
+            "INF_NOME": "Parque Infantil da Rua Fernando Mauricio",
+            "INF_MORADA": "Rua Fernando Maurício(antiga Rua Proj. Sul e Nasc. - Urb. Vale For. Cima)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15135118597675,
+            "Latitude": 38.7747875519945,
+            "INF_NOME": "Parque Infantil da Alameda da Música 1 ",
+            "INF_MORADA": "Alameda da Música(antigo Arrua. Inte. da Malha 15 - Alto do Lumiar)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15119953360319,
+            "Latitude": 38.7757670562705,
+            "INF_NOME": "Parque Infantil da Alameda da Música 2 ",
+            "INF_MORADA": "Alameda da Música(antigo Arrua. Inte. da Malha 15 - Alto do Lumiar)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17710360180322,
+            "Latitude": 38.7554565959065,
+            "INF_NOME": "Parque Infantil da Rua Cidade de Cádiz",
+            "INF_MORADA": "Rua Cidade de Cádiz",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12810865524676,
+            "Latitude": 38.7128511089963,
+            "INF_NOME": "Parque Infantil da Rua das Escolas Gerais",
+            "INF_MORADA": "Rua das Escolas Gerais",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17138242431871,
+            "Latitude": 38.7239131103878,
+            "INF_NOME": "Parque Infantil da Quinta da Bela-Flor",
+            "INF_MORADA": "Rua da Bela-Flor(antiga Rua A da Quinta da Bela-Flor à Cascalheira)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12339686784175,
+            "Latitude": 38.7588558353034,
+            "INF_NOME": "Parque Infantil do Vale de Chelas (Zona Norte)",
+            "INF_MORADA": "Rua Luís Cristino da Silva(antiga Via Comercial da Zona N2 de Chelas)",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.21026285824618,
+            "Latitude": 38.7496991001877,
+            "INF_NOME": "Parque Infantil da Rua Dr. Cunha Seixas 2",
+            "INF_MORADA": "Rua Dr. Cunha Seixas",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16770010061247,
+            "Latitude": 38.7366433649831,
+            "INF_NOME": "Parque Infantil da Quinta José Pinto",
+            "INF_MORADA": "Rua de Campolide",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12330261907266,
+            "Latitude": 38.7485625190855,
+            "INF_NOME": "Parque Juvenil da Bela Vista Zona Centro",
+            "INF_MORADA": "Rua Gomes de Brito",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15904776127717,
+            "Latitude": 38.7408263271499,
+            "INF_NOME": "Parque Infantil Filipe da Mata",
+            "INF_MORADA": "Rua Filipe da Mata",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19092287052684,
+            "Latitude": 38.7587791393237,
+            "INF_NOME": "Parque Infantil da Rua Guiomar Torresão",
+            "INF_MORADA": "Rua Guiomar Torresão",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14347500812835,
+            "Latitude": 38.7377645034634,
+            "INF_NOME": "Parque Infantil do Jardim Gomes Amorim",
+            "INF_MORADA": "Avenida de António José de Almeida",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.18713377553509,
+            "Latitude": 38.7571652014086,
+            "INF_NOME": "Parque Infantil do Jardim Bento Martins",
+            "INF_MORADA": "Jardim Bento Martins",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15785622404981,
+            "Latitude": 38.7151017306206,
+            "INF_NOME": "Parque Juvenil do Jardim Guerra Junqueiro",
+            "INF_MORADA": "Jardim Guerra Junqueiro(Jardim da Estrela)",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13655620403266,
+            "Latitude": 38.7429455251641,
+            "INF_NOME": "Parque Infantil do Jardim Fernando Peça",
+            "INF_MORADA": "Autoparque Roma",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11702681535509,
+            "Latitude": 38.7214987014993,
+            "INF_NOME": "Parque Infantil do Largo de  Santos o Novo",
+            "INF_MORADA": "Largo de Santos o Novo",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.18637772073849,
+            "Latitude": 38.7399235234298,
+            "INF_NOME": "Parque Infantil do Centro de Interpretação de Monsanto",
+            "INF_MORADA": "Parque Ecológico CML, Parque Ecológico de Monsanto",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16957572921592,
+            "Latitude": 38.7678931463423,
+            "INF_NOME": "Parque Infantil do Alto da Faia",
+            "INF_MORADA": "Rua Frederico George(antiga Rua B- Alto da Faia e Rua A - Enc Telheiras), junto ao polidesportivo do alto da faia",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15010427743705,
+            "Latitude": 38.792566378214,
+            "INF_NOME": "Parque Infantil das Galinheiras",
+            "INF_MORADA": "Largo das Galinheiras",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12156057342018,
+            "Latitude": 38.7626245282623,
+            "INF_NOME": "Parque Infantil da Praça de Bilene",
+            "INF_MORADA": "Praça de Bilene, frente ao nº 1",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17184058318686,
+            "Latitude": 38.7626474244497,
+            "INF_NOME": "Parque Infantil da Rua Professor Mark Athias",
+            "INF_MORADA": "Rua Prof. Mark Athias",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16526964300553,
+            "Latitude": 38.7176570528873,
+            "INF_NOME": "Parque Infantil do Jardim Teófilo Braga",
+            "INF_MORADA": "Rua Almeida e Sousa",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14936723384955,
+            "Latitude": 38.7935971666233,
+            "INF_NOME": "Parque Intergeracional das Galinheiras",
+            "INF_MORADA": "Rampa do Mercado",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.18005781483864,
+            "Latitude": 38.7564740329699,
+            "INF_NOME": "Parque Infantil do Bairro D. Leonor",
+            "INF_MORADA": "Rua Mateus Vicente(antiga V. Envolvente e Imp 5 da Urb do B. D Leonor)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19026472030794,
+            "Latitude": 38.7455607738347,
+            "INF_NOME": "Parque Infantil da Rua Tenente-Coronel Ribeiro dos Reis",
+            "INF_MORADA": "Rua Ten. Coronel Ribeiro dos Reis",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13730913035598,
+            "Latitude": 38.7450709792864,
+            "INF_NOME": "Parque Infantil do Logradouro da Avenida de Madrid",
+            "INF_MORADA": "Avenida de Madrid",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.20606711955833,
+            "Latitude": 38.7316533049311,
+            "INF_NOME": "Parque Infantil do Bairro da Boavista",
+            "INF_MORADA": "Rua das Acácias(antigo Impasse C1 do Bairro da Boavista)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15493860559949,
+            "Latitude": 38.7425514381677,
+            "INF_NOME": "Parque Infantil do Bairro Santos ao Rego",
+            "INF_MORADA": "Rua Marciano Henriques da Silva",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14618001824842,
+            "Latitude": 38.7925210541641,
+            "INF_NOME": "Parque Infantil do Parque Urbano do Reguengo",
+            "INF_MORADA": "Azinhaga do Reguengo",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14375331146654,
+            "Latitude": 38.7815303776117,
+            "INF_NOME": "Parque Infantil da Rua Carlos Aboim Inglez",
+            "INF_MORADA": "Rua Carlos Aboim Inglez(antiga Rua 6A do Alto do Lumiar)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11554683395095,
+            "Latitude": 38.7328521861691,
+            "INF_NOME": "Parque Infantil da Mata da Madre Deus",
+            "INF_MORADA": "Largo da Madre de Deus",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.18707655439252,
+            "Latitude": 38.7439404355797,
+            "INF_NOME": "Parque Infantil da Mata de São Domingos de Benfica",
+            "INF_MORADA": "Travessa de São Domingos de Benfica",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16187575380453,
+            "Latitude": 38.7671202662427,
+            "INF_NOME": "Parque Infantil da Praça Rainha Santa",
+            "INF_MORADA": "Praça Rainha Santa",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12316729235878,
+            "Latitude": 38.7219231810742,
+            "INF_NOME": "Parque Infantil da Rua General Justiniano Padrel",
+            "INF_MORADA": "Rua General Justiniano Padrel",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11878692398706,
+            "Latitude": 38.7657093950341,
+            "INF_NOME": "Parque Infantil do Vale do Silêncio",
+            "INF_MORADA": "Parque do Vale do Silêncio",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17308213299156,
+            "Latitude": 38.7603372815048,
+            "INF_NOME": "Parque Infantil da Rua Rúben Cunha",
+            "INF_MORADA": "Rua Rúben Cunha",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15021668971143,
+            "Latitude": 38.7796984088428,
+            "INF_NOME": "Parque Infantil do Jardim Maria da Luz Ponces de Carvalho",
+            "INF_MORADA": "Jardim Maria da Luz Ponces de Carvalho",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15084358353903,
+            "Latitude": 38.7766741551016,
+            "INF_NOME": "Parque Infantil  da Alameda da Música 3",
+            "INF_MORADA": "Alameda da Música(antigo Arrua. Inte. da Malha 15 - Alto do Lumiar)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11788202126799,
+            "Latitude": 38.7730457707511,
+            "INF_NOME": "Parque Infantil do Jardim de Sto Eugénio",
+            "INF_MORADA": "Alameda da Encarnação",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.20341321978706,
+            "Latitude": 38.6963753392992,
+            "INF_NOME": "Parque Infantil do Jardim Vasco da Gama",
+            "INF_MORADA": "Avenida da Índia",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.20137131169758,
+            "Latitude": 38.7496522275186,
+            "INF_NOME": "Parque Infantil da Rua da República Peruana",
+            "INF_MORADA": "Rua da República Peruana",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.21321830625788,
+            "Latitude": 38.7114014062695,
+            "INF_NOME": "Parque Infantil das Torres do Restelo",
+            "INF_MORADA": "Avenida Dr. Mário Moutinho(antiga Rua CD à Avenida das Descobertas)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16225680572128,
+            "Latitude": 38.7822762963354,
+            "INF_NOME": "Parque Infantil da Rua Engº Quartin Graça",
+            "INF_MORADA": "Rua Engº Quartin Graça",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.17363744258003,
+            "Latitude": 38.7449365559832,
+            "INF_NOME": "Parque Infantil do Jardim Alice Cruz",
+            "INF_MORADA": "Rua Padre Francisco Álvares",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14672877778248,
+            "Latitude": 38.7073029683492,
+            "INF_NOME": "Parque Infantil do Jardim Sá da Bandeira",
+            "INF_MORADA": "Praça de Dom Luís I",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.18045573123954,
+            "Latitude": 38.7670387270346,
+            "INF_NOME": "Parque Infantil do Bairro da Horta Nova",
+            "INF_MORADA": "Rua Sidónio Serpa(antigo Impasse B1.1 do Bairro da Horta Nova)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13750608336086,
+            "Latitude": 38.7603324537898,
+            "INF_NOME": "Parque Infantil do Bairro da Boa Esperança",
+            "INF_MORADA": "Rua Engenheiro Manuel Rocha",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11331199679057,
+            "Latitude": 38.7747933095193,
+            "INF_NOME": "Parque Infantil do Parque Recreativo dos Olivais Norte",
+            "INF_MORADA": "Rua Capitão Tenente Oliveira e Carmo",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10538012392562,
+            "Latitude": 38.7466528893179,
+            "INF_NOME": "Parque Infantil da Quinta das Flores",
+            "INF_MORADA": "Azinhaga do Vale Fundão",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1519486937081,
+            "Latitude": 38.7729098512128,
+            "INF_NOME": "Parque Infantil da Rua Adriana de Vecchi 1",
+            "INF_MORADA": "Rua Adriana de Vecchi(antiga Rua 7.11, Rua 7.12 e Rua A da Malha 7)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.09214640983607,
+            "Latitude": 38.7817907668833,
+            "INF_NOME": "Parque Infantil  do Parque Tejo",
+            "INF_MORADA": "Caminho da Rainha",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.09477713470671,
+            "Latitude": 38.7543952023568,
+            "INF_NOME": "Parque Infantil do Passeio de Neptuno",
+            "INF_MORADA": "Passeio de Neptuno",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.12276159301887,
+            "Latitude": 38.755916075169,
+            "INF_NOME": "Parque Infantil do Vale de Chelas (Zona Sul)",
+            "INF_MORADA": "Rua Luís Cristino da Silva(antiga Via Comercial da Zona N2 de Chelas)",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11906397729695,
+            "Latitude": 38.7456042132452,
+            "INF_NOME": "Parque Infantil do Bairro do Armador",
+            "INF_MORADA": "Avenida Vergílio Ferreira(antiga Rua M3 do Bairro do Armador Chelas)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16143563239311,
+            "Latitude": 38.779484150402,
+            "INF_NOME": "Parque Infantil da Quinta de Santa Clara",
+            "INF_MORADA": "Rua Jorge de Sena",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.15815308391151,
+            "Latitude": 38.7147201218598,
+            "INF_NOME": "Parque Infantil do Jardim Guerra Junqueiro",
+            "INF_MORADA": "Jardim Guerra Junqueiro(Jardim da Estrela)",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11013566548293,
+            "Latitude": 38.7616451758416,
+            "INF_NOME": "Parque Infantil da Avenida Cidade de Luanda",
+            "INF_MORADA": "Avenida Cidade de Luanda",
+            "INF_GESTAO": null
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19133120927486,
+            "Latitude": 38.7517666691146,
+            "INF_NOME": "Parque Infantil da Quinta da Granja",
+            "INF_MORADA": "Avenida do Colégio Militar",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.18847643254216,
+            "Latitude": 38.7382736897529,
+            "INF_NOME": "Parque Infantil Monte das Perdizes",
+            "INF_MORADA": "Estrada do Barcal",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11236815089844,
+            "Latitude": 38.745354035309,
+            "INF_NOME": "Parque Infantil Bairro do Condado",
+            "INF_MORADA": "Rua Carlos Gentil(antiga Rua J 13 da Zona J de Chelas)",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16158670559123,
+            "Latitude": 38.7741397245479,
+            "INF_NOME": "Parque Infantil Rua Prof. Manuel Valadares",
+            "INF_MORADA": "Rua Prof. Manuel Valadares",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16232163266472,
+            "Latitude": 38.7261136946693,
+            "INF_NOME": "Parque Infantil Rua de Campolide",
+            "INF_MORADA": "Rua de Campolide, (frente ao 24B)",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13298602465877,
+            "Latitude": 38.7085206990269,
+            "INF_NOME": "Campo das Cebolas - Espaço Lúdico II",
+            "INF_MORADA": "Largo José Saramago",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10704030774187,
+            "Latitude": 38.7429195774389,
+            "INF_NOME": "Parque Infantil da Rua de José do Patrocínio",
+            "INF_MORADA": "Rua de José do Patrocínio(antiga Azinhaga dos Cadetes)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10810686304434,
+            "Latitude": 38.7408118189157,
+            "INF_NOME": "Parque Infantil da Rua Alberto José Pessoa",
+            "INF_MORADA": "Rua Alberto José Pessoa(antigo Imp. F e Troço da Rua F da Zona L de Chelas)",
+            "INF_GESTAO": null
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14823749997495,
+            "Latitude": 38.7788080357637,
+            "INF_NOME": "Parque Infantil Rua Luís Sá",
+            "INF_MORADA": "Rua Luís Sá(antigo Arrua interior da Malha 6 do Alto do Lumiar)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.10647470901371,
+            "Latitude": 38.7614606277134,
+            "INF_NOME": "Parque Infantil da Rua Almada Negreiros",
+            "INF_MORADA": "Rua Almada Negreiros",
+            "INF_GESTAO": null
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.20133045063582,
+            "Latitude": 38.703196792175,
+            "INF_NOME": "Parque Infantil da Memória",
+            "INF_MORADA": "Largo da Memória",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.19670841997051,
+            "Latitude": 38.7591387043305,
+            "INF_NOME": "Parque Infantil Bairro Bom Nome",
+            "INF_MORADA": "Avenida dos Condes de Carnide(antiga Avenida da Pontinha)",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13291058485185,
+            "Latitude": 38.7294476472255,
+            "INF_NOME": "Parque Infantil Jardim do Caracol da Penha",
+            "INF_MORADA": "Rua Marques da Silva",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16284677978943,
+            "Latitude": 38.7377649876384,
+            "INF_NOME": "Espaço Lúdico Parque Gonçalo Ribeiro Telles",
+            "INF_MORADA": "Avenida Columbano Bordalo Pinheiro",
+            "INF_GESTAO": "SRU"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.21652532890805,
+            "Latitude": 38.7119742766756,
+            "INF_NOME": "Parque Infantil da Qtª. de Stº. António",
+            "INF_MORADA": "Rua do Colégio de São José",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16104257709082,
+            "Latitude": 38.7859035220956,
+            "INF_NOME": "Área Lúdica do Vale da Ameixoeira Poente",
+            "INF_MORADA": "Estrada do Desvio",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.13257402739804,
+            "Latitude": 38.7084317663295,
+            "INF_NOME": "Campo das Cebolas - Espaço Lúdico III",
+            "INF_MORADA": "Largo José Saramago",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1333213886963,
+            "Latitude": 38.7089110912002,
+            "INF_NOME": "Campo das Cebolas - Espaço Lúdico I",
+            "INF_MORADA": "Largo José Saramago",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.09744712490799,
+            "Latitude": 38.7442866294083,
+            "INF_NOME": "Parque Infantil Oriente",
+            "INF_MORADA": "Rua da Cintura do Porto de Lisboa",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.11132126557913,
+            "Latitude": 38.7521481410552,
+            "INF_NOME": "Parque Infantil da Rua Luiz Pacheco",
+            "INF_MORADA": "Rua Luiz Pacheco",
+            "INF_GESTAO": null
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.16239978752902,
+            "Latitude": 38.7843868522429,
+            "INF_NOME": "Parque Infantil Vale da Ameixoeira Poente",
+            "INF_MORADA": "Estrada do Desvio",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.09877009987153,
+            "Latitude": 38.7430913166569,
+            "INF_NOME": "Parque Infantil Braço de Prata",
+            "INF_MORADA": "Avenida Infante Dom Henrique",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.1591074566687,
+            "Latitude": 38.7380089690187,
+            "INF_NOME": "Parque Infantil e Juvenil Parque Gonçalo Ribeiro Telles",
+            "INF_MORADA": "Avenida Columbano Bordalo Pinheiro",
+            "INF_GESTAO": "SRU"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.2018263713976,
+            "Latitude": 38.7519942414598,
+            "INF_NOME": "Parque Infantil Jardim Carlos Consiglieri",
+            "INF_MORADA": "Rua Jorge Barradas",
+            "INF_GESTAO": "CML"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.18434641381417,
+            "Latitude": 38.7687036643022,
+            "INF_NOME": "Parque Infantil e Lúdico da Quinta das Camareiras",
+            "INF_MORADA": "Rua da Quinta das Camareiras",
+            "INF_GESTAO": "JF"
+        },
+        {
+            "type": "Parques_Infantis",
+            "Longitude": -9.14924260886626,
+            "Latitude": 38.7822808526181,
+            "INF_NOME": "Parque Infantil da Rua Bernardo Marques",
+            "INF_MORADA": "Rua Bernardo Marques(antigo Impasse à Rua 8 do Alto do Lumiar)",
+            "INF_GESTAO": null
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "features": [
+        {
+            "type": "Hospitais_Militares",
+            "Longitude": -9.19424587998618,
+            "Latitude": 38.7046558888705,
+            "INF_NOME": "Hospital Militar de Belém",
+            "INF_MORADA": "Rua do Guarda-Jóias, Hospital ",
+            "INF_TELEFONE": null,
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_DESCRICAO": null,
+            "FREGUESIA": "Ajuda"
+        },
+        {
+            "type": "Hospitais_Militares",
+            "Longitude": -9.17528314720031,
+            "Latitude": 38.7671450967389,
+            "INF_NOME": "Polo de Lisboa do Hospital das Forças Armadas",
+            "INF_MORADA": "Azinhaga dos Ulmeiros\n",
+            "INF_TELEFONE": "+351 217 519 777",
+            "INF_EMAIL": null,
+            "INF_SITE": null,
+            "INF_DESCRICAO": "Saúde - Hospitais Militares\n\nDecreto-Lei n.º 187/2012. In D.R. n.º 158, Série I de 2012-08-16. Cria o Polo de Lisboa do Hospital das Forças Armadas.\n\nO Polo de Lisboa do HFAR resultou da fusão entre o Hospital da Marinha, o Hospital Militar Principal, o Hospital Militar de Belém e o Hospital da Força Aérea, em 2012. Tem por missão prestar cuidados de saúde diferenciados aos militares das Forças Armadas e à família militar, bem como aos deficientes militares, podendo, na sequência de acordos que venha a celebrar, prestar cuidados de saúde a outros utentes.\nO Polo de Lisboa do HFAR é dotado de autonomia administrativa.",
+            "FREGUESIA": "Lumiar"
+        }
+    ]
+}
