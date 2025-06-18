@@ -124,7 +124,7 @@ function App() {
 
   useEffect(() => {
     if (query.length >= 3) {
-      fetch(`http://localhost:5000/suggestions?q=${query}`)
+      fetch(`${process.env.REACT_APP_API_URL}/suggestions?q=${query}`)
         .then((res) => res.json())
         .then((data) => setSuggestions(data))
         .catch((err) => console.error(err));
@@ -333,7 +333,7 @@ function App() {
     setLoading(true);
     setQuery(searchTerm);
     setSuggestions([]);
-    fetch(`http://localhost:5000/search?query=${searchTerm}&radius=${radius}`)
+    fetch(`${process.env.REACT_APP_API_URL}/search?query=${searchTerm}&radius=${radius}`)
       .then((res) => res.json())
       .then((data) => {
         setLoading(false);
