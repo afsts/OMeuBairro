@@ -550,6 +550,7 @@ const Tooltip = ({ text, children }) => {
           Pesquisar
         </button>
 
+        {/*
         {suggestions.length > 0 && (
           <ul
             style={{
@@ -594,6 +595,7 @@ const Tooltip = ({ text, children }) => {
             ))}
           </ul>
         )}
+        */}
       </div>
 
       {loading && <p style={{ textAlign: "center", color: "#e0d7f8" }}>Carregando...</p>}
