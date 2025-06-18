@@ -54,7 +54,6 @@ geopy==2.4.1
 gnupg==2.3.1
 hdbscan==0.8.40
 html5lib==1.1
-htmlmin==0.1.12
 idna==3.4
 ImageHash==4.3.1
 imbalanced-learn==0.12.2
