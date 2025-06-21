@@ -20,6 +20,21 @@ with open("zip_code_cluster.json", encoding='utf-8') as f:
 #Read csv file with neighborhoods Collective Intelligence
 ci = pd.read_csv("data/CollectiveIntelligence.csv", encoding='utf-8')
 
+# Load Freguesias data once
+with open("data/Freguesias_Aux.json", "r", encoding="utf-8") as f:
+    freguesias_data = json.load(f)
+
+# Load População data once
+with open('data/População_Aux.json', 'r') as f:
+    populacao_data = json.load(f)
+
+# Load Edificios data once
+with open('data/Edíficios_Lugar_Aux.json', 'r') as f:
+    edificios_data = json.load(f)
+
+# Load Idade Edificios data once
+with open('data/Idade_Edificios_Aux.json', 'r') as f:
+    idade_edificios_data = json.load(f)
 
 # Build an index keyed by the lowercase street name and by postal code
 zipcode_index = {}
@@ -78,11 +93,8 @@ tree = BallTree(np.array(infra_points), metric='haversine')
 
 # Freguesias Match
 def find_freguesia(lat, lon):
-    with open("data/Freguesias_Aux.json", "r", encoding="utf-8") as f:
-        data = json.load(f)
     point = Point(lon, lat)
-
-    for feature in data.get("features", []):
+    for feature in freguesias_data.get("features", []):
         coords_list = feature.get("Coordinates", [])
         for polygon_coords in coords_list:
             try:
@@ -92,53 +104,37 @@ def find_freguesia(lat, lon):
             except Exception as e:
                 print(f"Erro ao processar polígono: {e}")
                 continue
-
     return "Not found"
 
 # População por freguesia
 
 def get_freguesia_populacao(freguesia_name):
-    try:
-        with open('data/População_Aux.json', 'r') as f:
-            data = json.load(f)
-            if freguesia_name in data:
-                return data[freguesia_name]
-            else:
-                print(f"Freguesia '{freguesia_name}' not found in the JSON file.")
-                return None
-    except Exception as e:
-        print(f"Erro ao processar {e}")
+    if freguesia_name in populacao_data:
+        return populacao_data[freguesia_name]
+    else:
+        print(f"Freguesia '{freguesia_name}' not found in the JSON file.")
+        return None
 
 
 # Edificios por freguesia
 
 def get_freguesia_edificios(freguesia_name):
-    try:
-        with open('data/Edíficios_Lugar_Aux.json', 'r') as f:
-            data = json.load(f)
-            if freguesia_name in data:
-                return data[freguesia_name]
-            else:
-                print(f"Freguesia '{freguesia_name}' not found in the JSON file.")
-                return None
-    except Exception as e:
-        print(f"Erro ao processar {e}")
+    if freguesia_name in edificios_data:
+        return edificios_data[freguesia_name]
+    else:
+        print(f"Freguesia '{freguesia_name}' not found in the JSON file.")
+        return None
 
 
 # Idade Edificios por freguesia
 
 def get_freguesia_idade_edificios(freguesia_name):
-    try:
-        with open('data/Idade_Edificios_Aux.json', 'r') as f:
-            data = json.load(f)
-            if freguesia_name in data:
-                return list(data[freguesia_name].values())[0]  # Return the list of values
-            else:
-                print(f"Freguesia '{freguesia_name}' not found in the JSON file.")
-                return None
-    except Exception as e:
-        print(f"Erro ao processar: {e}")
+    if freguesia_name in idade_edificios_data:
+        return list(idade_edificios_data[freguesia_name].values())[0]
+    else:
+        print(f"Freguesia '{freguesia_name}' not found in the JSON file.")
         return None
+
 
 
 #Indices 
@@ -355,4 +351,4 @@ def search():
         "crescimento_index": crescimento_index,
     })
 if __name__ == "__main__":
-    app.run(host='0.0.0.0',debug=True)
+    app.run(host='0.0.0.0',debug=False)
